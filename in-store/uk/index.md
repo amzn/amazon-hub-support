@@ -7,7 +7,7 @@ title: In-Store Support
 Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
 
 ## Content overview
-- [Olist-element-1-1](Olist-element-1-1-link)
+- [olist-element-1-1](olist-element-1-1-link)
   - [Driver delivery](#driver-delivery)
   - [Customer pickup](#customer-pickup)
   - [Driver pickup](#driver-pickup)
@@ -103,7 +103,7 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 1. If you did not find adequate support yet, you can request a service call. Click on “Contact support".
 1. Enter your phone number and click on ‘Call me now’.
 
-## title-2-bestservice-1
+## How to provide the best possible service to customer  
 It is important to Amazon and surely to you to provide a great service to your customers. Amazon has created a dedicated program named  Performance Improvement Plan (PIP) to help you navigating defects and improving your service. The plan is a 3-months program to guide you through 2 performance improvement areas with the goal of improving your pickup experience for customers. The focus areas are in parcel delivery (avoiding missing/late parcel deliveries) and package scanning (avoiding missing scans):
 1. Missing Scans: Scanning all parcels fast is essential to let customers know that their parcel arrived. Your individual “Scan Compliance” measures the percentage of parcels scanned within the day a parcel is delivered.
 1. Delivery Success: Fast delivery is key for the experience of customers. It is important that you keep your opening hours up to date so drivers arrive while the store is open and you are available to scan delivered parcels.

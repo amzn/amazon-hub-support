@@ -20,7 +20,7 @@ try {
                 $key = $property.Name
                 $value = $property.Value
                 $replace = $key
-                if ($key.Contains("Olist")) {
+                if ($key.Contains("olist")) {
                     $replacelink = $key+"-link"
                     $valuelink = "#"+$value.Replace(" ","-").ToLower()  
                     $trainingTemplate = $trainingTemplate.Replace($replacelink, $valuelink)

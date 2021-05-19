@@ -7,7 +7,7 @@ title: In-Store Support
 Ihr Standort bietet einen Amazon Service an, bei dem Kunden ihre Bestellungen an Ihren Standort liefern lassen und dort abholen können. Lernen Sie hier wie Sie die App bedienen, Hilfe vom Amazon Support erhalten und einen kundenfreundlichen Service bieten können.
 
 ## Inhalt
-- [Olist-element-1-1](Olist-element-1-1-link)
+- [olist-element-1-1](olist-element-1-1-link)
   - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
   - [Abholung durch den Kunden](#abholung-durch-den-kunden)
   - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)
@@ -106,7 +106,7 @@ Der Amazon Hub Counter Support richtet sich dediziert an Sie als Amazon Hub Coun
 1. Falls Sie keine ausreichende Hilfestellung finden, kontaktieren Sie bitte den Amazon Support. Klicken Sie auf "Wenden Sie sich and en Support".
 1. Geben Sie ihre Rufnummer ein und klicken Sie auf „Rufen Sie uns jetzt an”. 
 
-## title-2-bestservice-1
+## Wie biete ich bestmöglichen Kundenservice
 Es ist wichtig für Amazon und sicher auch Sie einen ausgzeichneten Service für Ihre Kunden anzubieten. Amazon hat hierfür ein Programm ("Performance Improvement Plan - PIP") gegründet, um Ihnen bei Problemen Sicherheit und Unterstützung bieten zu können. Der Plan ist ein 3-monatiges Programm und wird sie in 2 Bereichen unterstützen. Diese sind Anlieferung durch Fahrer (zur Vermeidung von fehlenden Scans/verspäteten Lieferungen) sowie Paketscans (zur Vermeidung von fehlenden Paketen.
 1. Fehlende Scans: Scannen Sie alle Pakete direkt nach der Anlieferung ein. Ihre individuelle Scanrate misst die Anzahl der erfolgreich eingescannten Pakete am Tag der Anlieferung.
 1. Anlieferungserfolg: Eine schnelle Anlieferung ist Schlüssel für eine ausgezeichnete Kundenerfahrung. Es ist wichtig, dass Sie hierfür aktuelle Öffnungszeiten an Amazon kommunizieren, damit Fahrer nur zu diesen anliefern.

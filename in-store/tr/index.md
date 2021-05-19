@@ -9,7 +9,7 @@ Amazon Counter Hizmeti nedir?
 Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almasına olanak tanıyan bir Amazon hizmeti sağlar. Burada Uygulamayı nasıl kullanacağınızı, nasıl destek alacağınızı ve müşterilerinize sınıfının en iyi hizmeti nasıl sağlayacağınızı öğreneceksiniz.
 
 ## İçeriğe genel bakış
-- [Olist-element-1-1](Olist-element-1-1-link)
+- [olist-element-1-1](olist-element-1-1-link)
   - [Kuryeden alım](#kuryeden-alım)
   - [Müşteriye teslimat](#müşteriye-teslimat)
   - [Kuryeye iade](#kuryeye-iade)
@@ -105,7 +105,7 @@ Amazon Hub Counter'ın mağaza içi işlemlerini desteklemek için Amazon'un Uyg
 1. Henüz yeterli desteği bulamadıysanız, bir servis çağrısı talep edebilirsiniz. "Desteğe başvur" u tıklayın.
 1. Telefon numaranızı girin ve "Beni şimdi ara" yı tıklayın.
 
-## title-2-bestservice-1
+## Müşteriye mümkün olan en iyi hizmet nasıl sağlanır
 Müşterilerinize harika bir hizmet sunmak Amazon ve sizin için kesinlikle çok önemlidir. Amazon, sorunları gidermenize ve hizmetinizi iyileştirmenize yardımcı olmak için Performans İyileştirme Planı (PIP) adlı özel bir program oluşturdu. Plan, müşteriler için teslim alma deneyiminizi iyileştirmek amacıyla 2 performans iyileştirme alanında size rehberlik edecek 3 aylık bir programdır. Odak alanları, paket teslimatı (eksik / geç paket teslimatlarından kaçınmak) ve paket taramasıdır (eksik taramalardan kaçınmak):
 1. Eksik Taramalar: Müşterilerin paketlerinin geldiğini bilmeleri için tüm paketlerin hızlı bir şekilde taranması önemlidir. Mağazanızın "Tarama Performansı", bir paketin teslim edildiği gün içinde taranan paketlerin yüzdesini ölçer.
 1. Teslimat Başarısı: Hızlı teslimat, müşteri deneyiminin anahtarıdır. Mağaza açıkken kuryenin gelmesi ve teslim edilen paketleri tarayabilmeniz için açılış saatlerinizi güncel tutmanız önemlidir.

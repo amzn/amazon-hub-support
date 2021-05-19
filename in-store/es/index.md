@@ -7,7 +7,7 @@ title: In-Store Support
 Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes.
 
 ## Resumen de la formación
-- [Olist-element-1-1](Olist-element-1-1-link)
+- [olist-element-1-1](olist-element-1-1-link)
   - [Entrega del conductor](#entrega-del-conductor)
   - [Recogida de cliente](#recogida-de-cliente)
   - [Recogida de conductor](#recogida-de-conductor)
@@ -103,7 +103,7 @@ Para respaldar el funcionamiento en la tienda de Amazon Hub Counter, Amazon tien
 1. Si aún no encontró el soporte adecuado, puede solicitar una llamada de servicio. Haga clic en "Contactar con el soporte".
 1. Ingrese su número de teléfono y haga clic en "Llámame ahora".
 
-## title-2-bestservice-1
+## Cómo brindar el mejor servicio posible al cliente
 Es importante para Amazon y seguramente para ti brindar un excelente servicio a tus clientes. Amazon ha creado un programa dedicado llamado Performance Improvement Plan (PIP) para ayudarlo a navegar por los defectos y mejorar su servicio. El plan es un programa de 3 meses que lo guiará a través de 2 áreas de mejora del rendimiento con el objetivo de mejorar la experiencia de recolección para los clientes. Las áreas de enfoque son la entrega de paquetes (evitando las entregas de paquetes perdidas o tardías) y el escaneo de paquetes (evitando escaneos perdidos):
 1. Escaneos faltantes: escanear todos los paquetes rápidamente es esencial para que los clientes sepan que su paquete llegó. Su “cumplimiento de escaneo” individual mide el porcentaje de paquetes escaneados durante el día en que se entrega un paquete.
 1. Éxito en la entrega: la entrega rápida es clave para la experiencia de los clientes. Es importante que mantenga sus horarios de apertura actualizados para que los conductores lleguen mientras la tienda está abierta y usted está disponible para escanear los paquetes entregados.

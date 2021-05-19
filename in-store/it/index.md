@@ -7,7 +7,7 @@ title: Supporto punti vendita
 Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparerai come usare la App, ricevere supporto e fornire un servizio best-in-class ai tuoi clienti.
 
 ## Panoramica dei contenuti
-- [Olist-element-1-1](Olist-element-1-1-link)
+- [olist-element-1-1](olist-element-1-1-link)
   - [Consegna corriere](#consegna-corriere)
   - [Ritiro cliente](#ritiro-cliente)
   - [Ritiro del corriere](#ritiro-del-corriere)
@@ -103,7 +103,7 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 1. Se non hai trovato ancora adeguata assistenza, puoi chiedere di essere chiamato. Seleziona "Contatta il supporto"
 1. Inserisci il tuo numero di telefono e premi "Chiamami adesso"
 
-## title-2-bestservice-1
+## Come fornire il miglior servizio al cliente
 It is important to Amazon and surely to you to provide a great service to your customers. Amazon has created a dedicated program named  Performance Improvement Plan (PIP) to help you navigating defects and improving your service. The plan is a 3-months program to guide you through 2 performance improvement areas with the goal of improving your pickup experience for customers. The focus areas are in parcel delivery (avoiding missing/late parcel deliveries) and package scanning (avoiding missing scans):
 1. Missing Scans: Scanning all parcels fast is essential to let customers know that their parcel arrived. Your individual “Scan Compliance” measures the percentage of parcels scanned within the day a parcel is delivered.
 1. Delivery Success: Fast delivery is key for the experience of customers. It is important that you keep your opening hours up to date so drivers arrive while the store is open and you are available to scan delivered parcels.

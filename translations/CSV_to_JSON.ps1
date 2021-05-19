@@ -23,7 +23,7 @@ try {
 
                     $key = $sheet.cells.item($i, 1).value2
                     if (!$jsonBase.ContainsKey($key)) {
-                        $jsonBase.Add($sheet.cells.item($i, 1).value2, $sheet.cells.item($i, $col).value2)
+                        $jsonBase.Add(($sheet.cells.item($i, 1).value2).ToLower(), ($sheet.cells.item($i, $col).value2))
                     }
                 }
 
