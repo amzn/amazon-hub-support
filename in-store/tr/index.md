@@ -9,7 +9,7 @@ Amazon Counter Hizmeti nedir?
 Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almasına olanak tanıyan bir Amazon hizmeti sağlar. Burada Uygulamayı nasıl kullanacağınızı, nasıl destek alacağınızı ve müşterilerinize sınıfının en iyi hizmeti nasıl sağlayacağınızı öğreneceksiniz.
 
 ## İçeriğe genel bakış
-- [olist-element-1-1](olist-element-1-1-link)
+- [Servis nasıl çalışır](#servis-nasıl-çalışır)
   - [Kuryeden alım](#kuryeden-alım)
   - [Müşteriye teslimat](#müşteriye-teslimat)
   - [Kuryeye iade](#kuryeye-iade)

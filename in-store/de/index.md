@@ -7,7 +7,7 @@ title: In-Store Support
 Ihr Standort bietet einen Amazon Service an, bei dem Kunden ihre Bestellungen an Ihren Standort liefern lassen und dort abholen können. Lernen Sie hier wie Sie die App bedienen, Hilfe vom Amazon Support erhalten und einen kundenfreundlichen Service bieten können.
 
 ## Inhalt
-- [olist-element-1-1](olist-element-1-1-link)
+- [So funktioniert der Servcie](#so-funktioniert-der-servcie)
   - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
   - [Abholung durch den Kunden](#abholung-durch-den-kunden)
   - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)

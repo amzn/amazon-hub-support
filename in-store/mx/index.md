@@ -7,7 +7,7 @@ title: In-Store Support
 Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes.
 
 ## Resumen de la formación
-- [olist-element-1-1](olist-element-1-1-link)
+- [Cómo funciona el servicio](#cómo-funciona-el-servicio)
   - [Entrega del conductor](#entrega-del-conductor)
   - [Recogida de cliente](#recogida-de-cliente)
   - [Recogida de conductor](#recogida-de-conductor)

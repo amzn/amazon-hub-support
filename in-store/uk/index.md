@@ -7,7 +7,7 @@ title: In-Store Support
 Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
 
 ## Content overview
-- [olist-element-1-1](olist-element-1-1-link)
+- [How the service works](#how-the-service-works)
   - [Driver delivery](#driver-delivery)
   - [Customer pickup](#customer-pickup)
   - [Driver pickup](#driver-pickup)

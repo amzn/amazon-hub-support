@@ -7,7 +7,7 @@ title: Supporto punti vendita
 Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparerai come usare la App, ricevere supporto e fornire un servizio best-in-class ai tuoi clienti.
 
 ## Panoramica dei contenuti
-- [olist-element-1-1](olist-element-1-1-link)
+- [Come funziona il servizio](#come-funziona-il-servizio)
   - [Consegna corriere](#consegna-corriere)
   - [Ritiro cliente](#ritiro-cliente)
   - [Ritiro del corriere](#ritiro-del-corriere)
