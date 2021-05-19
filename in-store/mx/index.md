@@ -135,4 +135,4 @@ El inventario se refiere a los paquetes que se están entregando en su tienda o 
 
 <span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja durante varios días? </span>Los paquetes caducarán después de 14 días; espere un par de días para que el conductor los recoja. Póngase en contacto con el soporte de Amazon, haga clic en "?" (Arriba a la derecha), desplácese hacia abajo al final de la página de ayuda si un paquete no se recoge en 3 días
 
-<span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja, pero el cliente llega a recoger el paquete? </span>text-fqa-16
+<span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja, pero el cliente llega a recoger el paquete? </span>Siga el proceso habitual de recogida del cliente como se describe anteriormente.

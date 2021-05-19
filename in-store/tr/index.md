@@ -137,4 +137,4 @@ Envanter, mağazanıza teslim edilen veya halihazırda mağazanıza teslim edilm
 
 <span class="pa"> Kuryenin birkaç gün teslim almasını bekleyen kargolarımın süresi dolduysa ne olur? </span>Paketler 14 gün sonra sona erecek, lütfen kuryenin teslim alması için birkaç gün bekleyin. Lütfen Amazon destek ile iletişime geçin, "?" (Sağ üstte) üzerine tıklayarak, bir paket 3 gün içinde teslim alınmazsa yardım sayfasının sonunda aşağı kaydırın
 
-<span class="pa"> Kuryenin teslim almasını bekleyen kargolarımın süresi dolduysa ancak müşteri paketi teslim almaya gelirse ne olur? </span>text-fqa-16
+<span class="pa"> Kuryenin teslim almasını bekleyen kargolarımın süresi dolduysa ancak müşteri paketi teslim almaya gelirse ne olur? </span>Lütfen yukarıda ana hatlarıyla belirtildiği gibi müşteri teslimatı için normal süreci izleyin.

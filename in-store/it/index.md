@@ -135,4 +135,4 @@ Inventory refers to the parcels that are in delivery to your store or have been 
 
 <span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 14 days, please allow a couple days for  the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span>text-fqa-16
+<span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span> Please follow the regular process for customer pickup as outlined above.

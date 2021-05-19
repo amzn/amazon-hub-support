@@ -19,7 +19,7 @@ try {
             if ($col -gt 0) {
                 $jsonBase = @{}
 
-                for ($i = 2; $i -lt $totalNoOfRecords; $i++) {
+                for ($i = 2; $i -le $totalNoOfRecords; $i++) {
 
                     $key = $sheet.cells.item($i, 1).value2
                     if (!$jsonBase.ContainsKey($key)) {

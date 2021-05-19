@@ -143,4 +143,5 @@ Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die 
 
 <span class="pa"> Was ist zu tun, wenn ich über abgelaufene Pakete verfüge, die seit mehreren Tagen noch nicht vom Kunden abgeholt wurden? </span>Pakete laufen nach 14 Tagen ab. Bitte erlauben Sie dem Fahrer ein paar Tage Zeit, um die Pakete abzuholen. Bitte kontaktieren Sie das Amazon-Support-Team, wenn ein Paket nicht innerhalb von drei Tagen nach Ihrer Abholanforderung abgeholt wird. 
 
-<span class="pa"> Was ist zu tun, wenn ich eine Paketabholung durch Fahrer nach 14 Tagen beantragt habe, aber der Kunde in der Zwischenzeit das Paket abholt? </span>text-fqa-16
+<span class="pa"> Was ist zu tun, wenn ich eine Paketabholung durch Fahrer nach 14 Tagen beantragt habe, aber der Kunde in der Zwischenzeit das Paket abholt? </span>
+Bitte folgen Sie dem regulären Prozess bei der Kundenabholung. Durch den Scan des Abholcodes des Kunden, sowie des Pakets, wird die Paketabholung automatisch storniert.
