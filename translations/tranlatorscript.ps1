@@ -7,13 +7,13 @@ try {
         if ($file.Name -match "translation" -and !($file.Name -match "tags")) {
             $countryCode = $file.Name.Substring(0, 2)  
  
-            if ((Test-Path "..\$training\$countryCode\index.md") -eq $true) {
-                Remove-Item "..\$training\$countryCode\index.md"
+            if ((Test-Path ".\$training\$countryCode\index.md") -eq $true) {
+                Remove-Item ".\$training\$countryCode\index.md"
             }
     
             $translationRawContent = Get-Content $file.FullName -Raw
             $translationJSONContent = $translationRawContent | ConvertFrom-Json 
-            $trainingTemplate = Get-Content "..\$training\template\index.md"
+            $trainingTemplate = Get-Content ".\$training\template\index.md"
             
             Write-output "Starting translation for $countryCode of training $training"
             foreach ($property in $translationJSONContent.PSObject.Properties) {
@@ -27,7 +27,7 @@ try {
                 }
                 $trainingTemplate = $trainingTemplate.Replace($replace, $value)
             }
-            $trainingTemplate | Set-Content -Encoding UTF8 -Path "..\$training\$countryCode\index.md"
+            $trainingTemplate | Set-Content -Encoding UTF8 -Path ".\$training\$countryCode\index.md"
             Write-output "Translation completed for country $countryCode of training $training"
         }
     }

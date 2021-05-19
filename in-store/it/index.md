@@ -1,69 +1,69 @@
 ﻿---
 layout: default
-title: In-Store Support
+title: Supporto punti vendita
 ---
 
-#### What is the Amazon Counter Service?
-Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
+#### Cosa é Amazon Counter ?
+Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparerai come usare la App, ricevere supporto e fornire un servizio best-in-class ai tuoi clienti.
 
-## Content overview
+## Panoramica dei contenuti
 - [Olist-element-1-1](Olist-element-1-1-link)
-  - [Driver delivery](#driver-delivery)
-  - [Customer pickup](#customer-pickup)
-  - [Driver pickup](#driver-pickup)
+  - [Consegna corriere](#consegna-corriere)
+  - [Ritiro cliente](#ritiro-cliente)
+  - [Ritiro del corriere](#ritiro-del-corriere)
 - [Olist-element-1-2](Olist-element-1-2-link)
 - [Olist-element-1-5](Olist-element-1-5-link)
 - [Olist-element-1-3](Olist-element-1-3-link)
 - [Olist-element-1-4](Olist-element-1-4-link)
 
-## Key Takeaways 
-1. Scan every parcel upon arrival.
-1. Keep your opening hours up to date so customers and  drives know when to visit.
-1. Make sure your device is charged, connected to Wi-Fi  and always in your reach.
+## Punti fondamentali
+1. Scansiona ogni pacco alla ricezione
+1. Mantieni aggiornati gli orari di apertura per permettere a clienti e corrieri di sapere quando visitarti
+1. Assicurati che il dispostivo di scansione sia carico, connesso alla rete e a portata di mano
 
-## How the service works
-### Driver Delivery
+## Come funziona il servizio
+### Consegna corriere
 A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 14 days to pickup the parcel.
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. Select “Driver delivery” from the home screen and choose Amazon.
-1. Please scan parcels as soon as possible after delivery. Click on "Scan deliveries now".
-1. Scan all parcels by placing each parcel label in the scan frame. Test it by clicking on the scan frame below. You can check if the parcels are scanned if they have a blue checkbox. If you are done click once again on the scan frame. 
-1. Store parcels in a secure and organized place to ensure easy retrieval when the customer arrives.
+#### Cosa fare? Esegui questi passi sulla app Amazon:
+1. Seleziona “Consegna corriere” nella schermata principale
+1. Esegui la scansione dei pacchi immediatamente dopo la ricezione. Premi "Scansiona i pacchi ricevuti ora"
+1. Scansiona tutti i pacchi avvicinando inquadrando l'etichetta del pacco con la camera. I pacchi sono scansionati con successo hanno una spunta blu. Quando hai finito, clicca ancora per uscire
+1. Riponi i pacchi ricevuti in un luogo sicuro e accessibile per ritrovarli facilmente quando arriva il cliente
 
-#### What if I am busy?
-1. Delivered parcels must be scanned in within 30 minutes.
-1. If you choose to defer the scan, you will be asked to confirm your choice and be reminded of the 30 minutes time window.
-1. Once the 30 minute timer expires, you must scan parcels immediately. Until the parcels are scanned, you will not be able to access other Amazon Hub Counter workflows.
+#### Sei occupato?
+1. I pacchi ricevuti devono essere scansionati entro 30 minuti
+1. Se scegli di ritardare la scansione, ti verrà chiesto di confermare la scelta e ti verrà ricordato del limite massimo di 30 minuti
+1. Allo scadere dei 30 minuti, devi immediatemente completare la scansione dei pacchi ricevuti. Finché la scansione di tutti i pacchi ricevuti non é completata, non sarà possibile utilizzare nessuna altra funzionalità della App Amazon
 
-#### What if I have scan issues?
-1. Please practice the driver delivery workflow again on the app below until the scan frame appears. Now please click on the displayed parcels BELOW the scan frame. 
-1. Now click on "Can't scan" and enter the Tracking ID. 
-1. The tracking ID usually starts with QC and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
-1. Please practice the driver delivery a third time and proceed until the scan frame appears. Now please click on the icon resembling a keypad. This is an alternative way to manually enter the tracking ID. 
-1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below ("How to get support"). 
+#### Problemi di scansione?
+1. Seleziona consegna corriere e clicca sui pacchi elencati sotto la finestra di scansione 
+1. Seleziona "Non riesco a scansionare" e inserisci il Tracking ID 
+1. Il tracking ID di solito inizia con BA, BB, o 166. Clicca sul campo e digita il tracking ID
+1. Seleziona consegna corriere e procedi finché appare la finestra di scansione. Clicca sull'icona della tastiera. E' un modo alternativo per inserire il tracking ID a mano 
+1. Se il problema persiste, verifica che il telefono sia connesso a Internet, non in modalità aereo. Premi sul simbolo del flash se l'ambiente é troppo scuro e controlla i codici scansionati. Se questo non risolve il problema, contatta il supporto come riportato in "Come ricevere assistenza"
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
 <iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
-### Customer Pickup
-An Amazon customer will arrive at the store to pick up or retrieve their parcel(s). The customer will show a notification, which includes 1) a barcode and 2) a 6-digit numeric code. You need to scan the barcode, find the parcel and scan the parcel before handing it to the customer. You need to scan each customer pickup code AND parcel. This will delete the parcel from your inventory and responsibility.  
+### Ritiro cliente
+Un cliente Amazon arriverà al punto vendita per il ritiro dei propri pacchi. Il cliente mostrerà una notifica che include 1) Un codice a barre e 2) Un codice numerico a 6 cifre. Devi scansionare il codice a barre del cliente, prendere il pacco e scansionare il codice a barre del pacco prima di consegnarlo. Devi scansionare ogni codice ritiro del cliente e ogni codice a barre dei pacchi, in modo da cancellarli dal tuo inventario e responsabilità  
 
 #### What do I do? Please test the following steps on the Amazon app below:
-1. Select “Customer pickup” from the home screen.
-1. Scan the customer pickup barcode. If you have read this, click on the scan frame to proceed.
-1. Retrieve the available parcels for the customer as shown in the list and select “Scan parcels”. Click on “Scan parcels”.
-1. Scan all of the parcels by placing each parcel label in the frame. Click on the scan frame again.
-1. Now hand all the parcels to the customer.
+1. Selezione “Ritiro cliente” nella schermata principale
+1. Scansiona il codice a barre di ritiro del cliente. Clicca sulla finestra di scansione per procedere
+1. Identifica i pacchi del cliente disponibili sulla lista e seleziona "Scansiona i pacchi". Click su “Scansiona i pacchi”
+1. Scansiona tutti i pacchi inquadrando l'etichetta con la camera. Clicca sulla finestra di scansione
+1. Consegna i pacchi al cliente
 
-#### What if I have scan issues?
+#### Problemi di scansione?
 1. Select “Customer pickup” in the home screen.
-1. Click on “Enter Code” to enter the 6-digit pickup code instead of scanning the barcode. Please click on the screen.
-1. Click on the size description of the parcel (e.g. “small size”) instead of the scanframe.
-1. Now click on "Can't scan".
-1. You can enter the parcel tracking ID manually. Now “Done” appears and you hand all the parcels to the customer.
+1. Clicca "Inserisci il codice" per digitare il codice di ritiro di 6 cifre, invece di scansionare il codice a barre
+1. Clicca sulla descrizione della dimensione del pacco (per esempio busta piccola)
+1. Premi "Non posso fare la scansione"
+1. Puoi inserire il tracking ID a mano. Quando l'ID e' riconosciuto, appare "Fatto" e puoi consegnare i pacchi al cliente
 1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below (“How to get support”). 
 
 #### What if the parcel is missing or the customer does not want the parcel?
@@ -76,32 +76,32 @@ An Amazon customer will arrive at the store to pick up or retrieve their parcel(
 <iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
-### Driver Pickup
-If customers do not pickup their parcel within 14 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver. 
+### Ritiro del corriere
+Se i clienti non ritirano i pacchi entro 14 giorni, i pacchi scadono e devi richiedere il ritiro del corriere facendo la scansione dei pacchi. Altrimenti la App non ti permetterà di eseguire altre azioni. Il corriere arriverà al tuo punto vendita per ritirare i pacchi. Non devi fare la scansione dei pacchi quando arriva il corriere, solo consegnare i pacchi
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. If parcels expire, a notification will appear on the main screen.
-1. Click on the notification and scan the parcels. You need to scan the expired parcels within 2 hours after the notification appears.Now wait until a driver arrives (usually 1-2 days).
-1.  If a driver arrives, select “Driver pickup” from the home screen. Find the parcels named on the list and hand them to the driver. 
+#### Cosa fare? Esegui questi passi sulla app Amazon:
+1. Se i pacchi scadono, sarà visualizzata una notifica
+1. Clicca sulla notifica e scansione i pacchi. Devi scansionare i pacchi scaduti entro 2 ore dalla notifica. Poi attendi l'arrivo del corriere, normalmente entro 1-2 giorni
+1. Quando arriva un corriere, seleziona "Ritiro corriere". Consegna i pacchi riportati nella lista al corriere 
 
-#### What if the parcel is missing?
-1. Tap on the reminder to scan in expired parcels (customer abandoned parcels). 
-1. Select the parcel that is missing below and click on the parcel.
-1. Click on ‘Unable to find’. 
-1. Confirm that you cannot find the parcel by clicking on ‘Okay’.
+#### Mancano dei pacchi?
+1. Seleziona la notifica per avviare la scansione dei pacchi scaduti perché  non ritirati dal cliente (abbandonati)
+1. Seleziona il pacco mancante dalla lista sotto
+1. Seleziona "Non riesco a trovarlo" 
+1. Conferma che non riesci a trovare il pacco premendo OK
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
 <iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
-## How to get support
+## Come ricevere supporto
 To support the in-store operation of Amazon Hub Counter, Amazon has a Store Support Line to assist you with Application, Device and Delivery issues. 
-1. If you click on ‘?’ Amazon help is provided
-1. The screen will display helpful advice and explanations on the services. 
-1. Scroll through the Q&As to learn more
-1. If you did not find adequate support yet, you can request a service call. Click on “Contact support".
-1. Enter your phone number and click on ‘Call me now’.
+1. Premendo "?", verrà fornito l'aiuto Amazon
+1. Verranno fornite indicazioni sul servizio 
+1. Vai alle Q&A per saperne di più
+1. Se non hai trovato ancora adeguata assistenza, puoi chiedere di essere chiamato. Seleziona "Contatta il supporto"
+1. Inserisci il tuo numero di telefono e premi "Chiamami adesso"
 
 ## title-2-bestservice-1
 It is important to Amazon and surely to you to provide a great service to your customers. Amazon has created a dedicated program named  Performance Improvement Plan (PIP) to help you navigating defects and improving your service. The plan is a 3-months program to guide you through 2 performance improvement areas with the goal of improving your pickup experience for customers. The focus areas are in parcel delivery (avoiding missing/late parcel deliveries) and package scanning (avoiding missing scans):
@@ -110,8 +110,8 @@ It is important to Amazon and surely to you to provide a great service to your c
 
 Please learn more about the Performance Improvement Plan here (Link will be provided soon).
 
-## How to check expected deliveries
-#### What is Parcel Inventory?
+## Come controllare i pacchi attesi
+#### Cosa é l'inventario dei pacchi?
 Inventory refers to the parcels that are in delivery to your store or have been delivered to your store already, but have yet to be picked up by Amazon customers or a delivery driver for parcels that were never picked up within the specified period of time. Parcels in inventory should be stored in a safe and secure area out of sight and reach of customers. Closets, cabinets, and drawers with close proximity to where customers pay are optimal places to house the parcel inventory.
 1. Click on the icon on the top left on the menu. 
 1. If you click on ‘Inventory’, you can see the current amount of packages in your store

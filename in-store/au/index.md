@@ -23,7 +23,7 @@ Your location provides a service from Amazon that allows customers to ship order
 
 ## How the service works
 ### Driver Delivery
-A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 14 days to pickup the parcel.
+A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 7 days to pickup the parcel.
 
 #### What do I do? Please test the following steps on the Amazon app below:
 1. Select “Driver delivery” from the home screen and choose Amazon.
@@ -39,7 +39,7 @@ A driver will arrive at your store to deliver parcels for Amazon customers who c
 #### What if I have scan issues?
 1. Please practice the driver delivery workflow again on the app below until the scan frame appears. Now please click on the displayed parcels BELOW the scan frame. 
 1. Now click on "Can't scan" and enter the Tracking ID. 
-1. The tracking ID usually starts with QC and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
+1. The tracking ID usually starts with TBAU OR AG and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
 1. Please practice the driver delivery a third time and proceed until the scan frame appears. Now please click on the icon resembling a keypad. This is an alternative way to manually enter the tracking ID. 
 1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below ("How to get support"). 
 
@@ -133,6 +133,6 @@ Inventory refers to the parcels that are in delivery to your store or have been 
 
 <span class="pa"> What if I run out of space for parcels? </span>Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page and request support. 
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 14 days, please allow a couple days for  the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
+<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 7 days, please allow a couple days for  the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
 
 <span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span>text-fqa-16

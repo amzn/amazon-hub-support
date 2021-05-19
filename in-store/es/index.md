@@ -7,14 +7,14 @@ title: In-Store Support
 Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes.
 
 ## Resumen de la formación
-- [Cómo funciona el servicio](#cómo-funciona-el-servicio)
+- [Olist-element-1-1](Olist-element-1-1-link)
   - [Entrega del conductor](#entrega-del-conductor)
   - [Recogida de cliente](#recogida-de-cliente)
   - [Recogida de conductor](#recogida-de-conductor)
-- [Cómo obtener ayuda](#cómo-obtener-ayuda)
-- [Cómo brindar el mejor servicio posible al cliente](#cómo-brindar-el-mejor-servicio-posible-al-cliente)
-- [Cómo comprobar los paquetes esperados](#cómo-comprobar-los-paquetes-esperados)
-- [Preguntas frequentes](#preguntas-frequentes)
+- [Olist-element-1-2](Olist-element-1-2-link)
+- [Olist-element-1-5](Olist-element-1-5-link)
+- [Olist-element-1-3](Olist-element-1-3-link)
+- [Olist-element-1-4](Olist-element-1-4-link)
 
 ## Conclusiones clave
 1. Escanee cada paquete a su llegada.
@@ -45,7 +45,7 @@ Un conductor llegará a su tienda para entregar los paquetes a los clientes de A
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/NX10OLEBWH2Y " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Recogida de cliente
@@ -73,7 +73,7 @@ Un cliente de Amazon llegará a la tienda para recoger o recuperar su (s) paquet
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/NX10OLEBWH2Y " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Recogida del conductor
@@ -92,7 +92,7 @@ Si los clientes no recogen su paquete dentro de los 14 días, el paquete caduca.
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/NX10OLEBWH2Y " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## Cómo obtener ayuda
