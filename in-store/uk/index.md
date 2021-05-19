@@ -11,10 +11,10 @@ Your location provides a service from Amazon that allows customers to ship order
   - [Driver delivery](#driver-delivery)
   - [Customer pickup](#customer-pickup)
   - [Driver pickup](#driver-pickup)
-- [Olist-element-1-2](Olist-element-1-2-link)
-- [Olist-element-1-5](Olist-element-1-5-link)
-- [Olist-element-1-3](Olist-element-1-3-link)
-- [Olist-element-1-4](Olist-element-1-4-link)
+- [How to get support](#how-to-get-support)
+- [How to provide the best possible service to customer ](#how-to-provide-the-best-possible-service-to-customer-)
+- [How to check expected parcels](#how-to-check-expected-parcels)
+- [FAQs](#faqs)
 
 ## Key Takeaways 
 1. Scan every parcel upon arrival.

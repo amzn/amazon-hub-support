@@ -13,10 +13,10 @@ Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almas
   - [Kuryeden alım](#kuryeden-alım)
   - [Müşteriye teslimat](#müşteriye-teslimat)
   - [Kuryeye iade](#kuryeye-iade)
-- [Olist-element-1-2](Olist-element-1-2-link)
-- [Olist-element-1-5](Olist-element-1-5-link)
-- [Olist-element-1-3](Olist-element-1-3-link)
-- [Olist-element-1-4](Olist-element-1-4-link)
+- [Nasıl destek alınır](#nasıl-destek-alınır)
+- [Müşteriye mümkün olan en iyi hizmet nasıl sağlanır](#müşteriye-mümkün-olan-en-iyi-hizmet-nasıl-sağlanır)
+- [Beklenen paketler nasıl kontrol edilir](#beklenen-paketler-nasıl-kontrol-edilir)
+- [Sıkça Sorulan Sorular](#sıkça-sorulan-sorular)
 
 ## Temel Çıkarımlar
 1. Paket teslim edildiğinde her paketi tarayın.

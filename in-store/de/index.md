@@ -11,10 +11,10 @@ Ihr Standort bietet einen Amazon Service an, bei dem Kunden ihre Bestellungen an
   - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
   - [Abholung durch den Kunden](#abholung-durch-den-kunden)
   - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)
-- [Olist-element-1-2](Olist-element-1-2-link)
-- [Olist-element-1-5](Olist-element-1-5-link)
-- [Olist-element-1-3](Olist-element-1-3-link)
-- [Olist-element-1-4](Olist-element-1-4-link)
+- [Wie erhalte ich Support](#wie-erhalte-ich-support)
+- [Wie biete ich bestmöglichen Kundenservice](#wie-biete-ich-bestmöglichen-kundenservice)
+- [Wie überprüfe ich erwartete Anlieferungen](#wie-überprüfe-ich-erwartete-anlieferungen)
+- [FAQs](#faqs)
 
 ## Key Learnings
 1. Scannen Sie jedes Paket sofort nach Anlieferung.

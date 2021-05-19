@@ -11,10 +11,10 @@ Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparer
   - [Consegna corriere](#consegna-corriere)
   - [Ritiro cliente](#ritiro-cliente)
   - [Ritiro del corriere](#ritiro-del-corriere)
-- [Olist-element-1-2](Olist-element-1-2-link)
-- [Olist-element-1-5](Olist-element-1-5-link)
-- [Olist-element-1-3](Olist-element-1-3-link)
-- [Olist-element-1-4](Olist-element-1-4-link)
+- [Come ricevere supporto](#come-ricevere-supporto)
+- [Come fornire il miglior servizio al cliente](#come-fornire-il-miglior-servizio-al-cliente)
+- [Come controllare i pacchi](#come-controllare-i-pacchi)
+- [FAQs](#faqs)
 
 ## Punti fondamentali
 1. Scansiona ogni pacco alla ricezione

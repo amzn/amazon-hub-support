@@ -11,10 +11,10 @@ Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar ped
   - [Entrega del conductor](#entrega-del-conductor)
   - [Recogida de cliente](#recogida-de-cliente)
   - [Recogida de conductor](#recogida-de-conductor)
-- [Olist-element-1-2](Olist-element-1-2-link)
-- [Olist-element-1-5](Olist-element-1-5-link)
-- [Olist-element-1-3](Olist-element-1-3-link)
-- [Olist-element-1-4](Olist-element-1-4-link)
+- [Cómo obtener ayuda](#cómo-obtener-ayuda)
+- [Cómo brindar el mejor servicio posible al cliente](#cómo-brindar-el-mejor-servicio-posible-al-cliente)
+- [Cómo comprobar los paquetes esperados](#cómo-comprobar-los-paquetes-esperados)
+- [Preguntas frequentes](#preguntas-frequentes)
 
 ## Conclusiones clave
 1. Escanee cada paquete a su llegada.
