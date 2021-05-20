@@ -7,7 +7,7 @@ title: In-Store Support
 Ihr Standort bietet einen Amazon Service an, bei dem Kunden ihre Bestellungen an Ihren Standort liefern lassen und dort abholen können. Lernen Sie hier wie Sie die App bedienen, Hilfe vom Amazon Support erhalten und einen kundenfreundlichen Service bieten können.
 
 ## Inhalt
-- [So funktioniert der Servcie](#so-funktioniert-der-servcie)
+- [So funktioniert der Service](#so-funktioniert-der-service)
   - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
   - [Abholung durch den Kunden](#abholung-durch-den-kunden)
   - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)
@@ -28,7 +28,7 @@ Ein Fahrer kommt zu Ihrem Store und liefert Pakete von Amazon-Kunden, die Ihren 
 #### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App hier:
 1. 
 Klicken Sie auf dem Startbildschirm auf “Anlieferung durch den Fahrer” und wählen Sie Amazon aus.
-1. Bitte scannen Sie Pakete direkt nach der Anlieferung ein. Klicken Sie hierzu auf "Pakete jetzt scannen"
+1. Bitte scannen Sie Pakete direkt nach der Anlieferung ein. Klicken Sie hierzu auf "Pakete jetzt scannen".
 1. Scannen Sie alle Pakete, indem Sie jedes Paketetikett in den Scanrahmen halten. Testen Sie dies, indem Sie auf den Scanrahmen in der App klicken. Sie können überprüfen, ob die Pakete gescannt wurden, wenn sie ein blaues Häckchen haben. Wenn Sie fertig sind, klicken Sie erneut auf den Scanrahmen. Dann erscheint eine Meldung mit „Fertig“.
 1. Lagern Sie die Pakete an einem sicheren und gut organisierten Ort, damit Sie diese einfach wiederfinden, wenn Kunden zur Abholung kommen.
 
@@ -42,12 +42,12 @@ Klicken Sie auf dem Startbildschirm auf “Anlieferung durch den Fahrer” und w
 1. Bitte üben Sie die durchzuführenden Schritte in der App erneut, bis der Scanrahmen angezeigt wird. Klicken Sie nun auf die angezeigten Pakete UNTER dem Scanrahmen.
 1. Klicken Sie nun auf "Scannen nicht möglich". 
 1. Die Paket ID hat in der Regel 12 Zahlen und Buchstaben und startet mit „A“. Beispiel: AB0482462076. Klicken Sie nun auf das Eingabefeld und geben Sie die Paket ID ein. Diese wird auch von der App vorgeschlagen.
-1. 4. Bitte üben Sie die durchzuführenden Schritte ein drittes Mal, bis der Scanrahmen angezeitg wird. Klicken Sie auf das Symbol, welches einer Tastatur ähnelt. Dies ist eine weitere Option, die Paket ID manuell einzugeben.
+1. Bitte üben Sie die durchzuführenden Schritte ein drittes Mal, bis der Scanrahmen angezeitg wird. Klicken Sie auf das Symbol, welches einer Tastatur ähnelt. Dies ist eine weitere Option, die Paket ID manuell einzugeben.
 1. Sollten Schwierigkeiten weiterhin bestehen, überprüfen Sie bitte, ob das Gerät mit dem Netzwerk verbunden ist. Versuchen Sie die Helligkeit beim Scannen mit dem "Blitz" Symbol einzustellen. Kontaktieren Sie sonst den Kundensupport (siehe Kapitel: "Wie erhalte ich Support").
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/BG10Z5M4C8K9 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Abholung durch den Kunden
@@ -58,7 +58,7 @@ Ein Amazon-Kunde kommt in Ihren Store, um die bestellten Pakete abzuholen. Der K
 1. Scannen Sie den Abholcode des Kunden ein. Testen Sie dies, indem Sie in der App auf den Scanrahmen klicken.
 1. Suchen Sie nun die Pakete und klicken Sie dann auf "Pakete scannen".
 1. Scannen Sie alle Pakete, indem Sie jedes Paketetikett in den Scanrahmen platzieren. Klicken Sie wieder auf den Scanrahmen.
-1. Wenn Sie alle Pakete gescannt haben, übergeben Sie diese an den Kunden
+1. Wenn Sie alle Pakete gescannt haben, übergeben Sie diese an den Kunden.
 
 #### Was ist bei Scanproblemen zu tun? 
 1. Wählen Sie auf dem Startbildschirm "Abholung durch den Kunden" aus.
@@ -76,7 +76,7 @@ Sie können nun die Paket ID manuell eingeben. Klicken Sie auf den Bildschirm. N
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/BG10Z5M4C8K9 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Abholung durch den Fahrer
@@ -84,30 +84,30 @@ Wenn Kunden Pakete nicht innerhalb der Frist von 14 Tagen abholen, werden die Pa
 
 #### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App hier:
 1. Klicken Sie auf die Benachrichtigung „Nicht abgeholte Pakete scannen“ auf dem Startbildschirm.
-1. Scannen Sie die Pakete ein, indem Sie jedes Paketetikett in den Scanrahmen platzieren. Wenn Sie alle Pakete eingescannt haben, erscheint der Bildschirm „Fertig“. In 1-2 Tagen wird das Paket abgeholt
-1. Wenn der Fahrer ankommt, klicken Sie auf "Abholung durch den Fahrer". Suchen Sie nun die Pakete auf der Liste und geben Sie diese dem Fahrer
+1. Scannen Sie die Pakete ein, indem Sie jedes Paketetikett in den Scanrahmen platzieren. Wenn Sie alle Pakete eingescannt haben, erscheint der Bildschirm „Fertig“. In 1-2 Tagen wird das Paket abgeholt.
+1. Wenn der Fahrer ankommt, klicken Sie auf "Abholung durch den Fahrer". Suchen Sie nun die Pakete auf der Liste und geben Sie diese dem Fahrer.
 
 #### Wie gehe ich vor, wenn das Paket fehlt?
-1. 1. Klicken Sie auf die Erinnerung auf Ihrem Bildschirm zu nicht abgeholten Paketen. 
-1. 2. Wählen Sie das fehlende Paket aus. 
-1. 3. Klicken Sie auf „Nicht gefunden”. 
-1. 4. Bitte bestätigen Sie, dass das Paket fehlt
+1. Klicken Sie auf die Erinnerung auf Ihrem Bildschirm zu nicht abgeholten Paketen. 
+1. Wählen Sie das fehlende Paket aus. 
+1. Klicken Sie auf „Nicht gefunden”. 
+1. Bitte bestätigen Sie, dass das Paket fehlt.
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/BG10Z5M4C8K9 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## Wie erhalte ich Support
-Der Amazon Hub Counter Support richtet sich dediziert an Sie als Amazon Hub Counter Service. Unsere Mitarbeiter helfen Ihnen mit Rat und Tat zur Seite und Unterstützen Sie bei Fragen rund um die Prozesse in der App, Ihres Geräts oder Anlieferungsschwierigkeiten. 
+Der Amazon Hub Counter Support richtet sich dediziert an Sie als Amazon Hub Counter Service. Unsere Mitarbeiter helfen Ihnen mit Rat und Tat zur Seite und unterstützen Sie bei Fragen rund um die Prozesse in der App, Ihres Geräts oder Anlieferungsschwierigkeiten. 
 1. Klicken Sie auf das Fragezeichen „?” auf der Startseite. 
 1. Nun werden Ihnen Hilfestellungen zu diversen Problemen erläutert. 
 1. Navigieren Sie bis zum Ende der Seite. 
-1. Falls Sie keine ausreichende Hilfestellung finden, kontaktieren Sie bitte den Amazon Support. Klicken Sie auf "Wenden Sie sich and en Support".
+1. Falls Sie keine ausreichende Hilfestellung finden, kontaktieren Sie bitte den Amazon Support (Klicken Sie hierzu ganz unten auf "Wenden Sie sich an den Support").
 1. Geben Sie ihre Rufnummer ein und klicken Sie auf „Rufen Sie uns jetzt an”. 
 
 ## Wie biete ich bestmöglichen Kundenservice
-Es ist wichtig für Amazon und sicher auch Sie einen ausgzeichneten Service für Ihre Kunden anzubieten. Amazon hat hierfür ein Programm ("Performance Improvement Plan - PIP") gegründet, um Ihnen bei Problemen Sicherheit und Unterstützung bieten zu können. Der Plan ist ein 3-monatiges Programm und wird sie in 2 Bereichen unterstützen. Diese sind Anlieferung durch Fahrer (zur Vermeidung von fehlenden Scans/verspäteten Lieferungen) sowie Paketscans (zur Vermeidung von fehlenden Paketen.
+Es ist wichtig für Amazon und sicher auch Sie einen ausgzeichneten Service für Ihre Kunden anzubieten. Amazon hat hierfür ein Programm ("Performance Improvement Plan - PIP") gegründet, um Ihnen bei Problemen Sicherheit und Unterstützung bieten zu können. Der Plan ist ein 3-monatiges Programm und wird sie in 2 Bereichen unterstützen. Diese sind Anlieferung durch Fahrer (zur Vermeidung von fehlenden Scans/verspäteten Lieferungen) sowie Paketscans (zur Vermeidung von fehlenden Paketen).
 1. Fehlende Scans: Scannen Sie alle Pakete direkt nach der Anlieferung ein. Ihre individuelle Scanrate misst die Anzahl der erfolgreich eingescannten Pakete am Tag der Anlieferung.
 1. Anlieferungserfolg: Eine schnelle Anlieferung ist Schlüssel für eine ausgezeichnete Kundenerfahrung. Es ist wichtig, dass Sie hierfür aktuelle Öffnungszeiten an Amazon kommunizieren, damit Fahrer nur zu diesen anliefern.
 
@@ -117,7 +117,7 @@ Hier erfahren Sie mehr über den Performance Improvement Plan (Link wird hier in
 #### Was ist der Lagerbestand?
 Der Lagerbestand bezeichnet den aktuellen Paketstand und bezieht sich auf alle Pakete, die an den Amazon Pickup Standort angeliefert wurden und noch nicht durch den Kunden oder Fahrer abgeholt wurden. Die Bestandspakete sollten in einem sicheren, geschützten Bereich außerhalb der Sicht- und Reichweite von Kunden aufbewahrt werden. Schränke und Schubladen in der Nähe der Kasse bieten sich für die Lagerung der Pakete gut an.
 1. Klicken Sie auf das Symbol mit den drei Balken links oben. 
-1. Klicken Sie auf „Lagerbestand” und überprüfen so die aktuelle Zahl an Paketen vor Ort in Ihrer Filiale
+1. Klicken Sie auf „Lagerbestand” und überprüfen so die aktuelle Zahl an Paketen vor Ort in Ihrer Filiale.
 1. Klicken Sie auf „Synchronisieren“, um den Lagerbestand zu aktualisieren. 
 1. Möchten Sie weitere Informationen zu einem Paket sehen, klicken Sie auf den Empfängernamen. 
 
