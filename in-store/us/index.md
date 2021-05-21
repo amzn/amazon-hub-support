@@ -29,12 +29,12 @@ Your location provides a service from Amazon that allows customers to ship order
 
 ## How the service works
 ### Driver Delivery
-A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 7 days to pickup the parcel.
+A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 14 days to pickup the parcel.
 
 #### What do I do? Please test the following steps on the Amazon app below:
 1. Select “Driver delivery” from the home screen and choose Amazon.
 1. Please scan parcels as soon as possible after delivery. Click on "Scan deliveries now".
-1. Scan all parcels by placing each parcel label in the scan frame. Test it by clicking on the scan frame below. You can check if the parcels are scanned if they have a blue checkbox. If you are done click once again on the scan frame. 
+1. 
 1. Store parcels in a secure and organized place to ensure easy retrieval when the customer arrives.
 
 #### What if I am busy?
@@ -45,13 +45,13 @@ A driver will arrive at your store to deliver parcels for Amazon customers who c
 #### What if I have scan issues?
 1. Please practice the driver delivery workflow again on the app below until the scan frame appears. Now please click on the displayed parcels BELOW the scan frame. 
 1. Now click on "Can't scan" and enter the Tracking ID. 
-1. The tracking ID usually starts with TBAU OR AG and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
+1. The tracking ID usually starts with QC and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
 1. Please practice the driver delivery a third time and proceed until the scan frame appears. Now please click on the icon resembling a keypad. This is an alternative way to manually enter the tracking ID. 
 1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below ("How to get support"). 
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/59110U3YZX7E " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/GB10O7P4DYTP " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Customer Pickup
@@ -79,7 +79,7 @@ An Amazon customer will arrive at the store to pick up or retrieve their parcel(
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/59110U3YZX7E " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/GB10O7P4DYTP " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Driver Pickup
@@ -98,7 +98,7 @@ If customers do not pickup their parcel within 14 days, the parcel expires. Then
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/59110U3YZX7E " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/GB10O7P4DYTP " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## How to get support
@@ -110,15 +110,15 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 1. Enter your phone number and click on ‘Call me now’.
 
 ## How to provide the best possible service to customer  
-It is important to Amazon and surely to you to provide a great service to your customers. Amazon has created a dedicated program named  Performance Improvement Plan (PIP) to help you navigating defects and improving your service. The plan is a 3-months program to guide you through 2 performance improvement areas with the goal of improving your pickup experience for customers. The focus areas are in parcel delivery (avoiding missing/late parcel deliveries) and package scanning (avoiding missing scans):
-1. Missing Scans: Scanning all parcels fast is essential to let customers know that their parcel arrived. Your individual “Scan Compliance” measures the percentage of parcels scanned within the day a parcel is delivered.
-1. Delivery Success: Fast delivery is key for the experience of customers. It is important that you keep your opening hours up to date so drivers arrive while the store is open and you are available to scan delivered parcels.
 
-Please learn more about the Performance Improvement Plan here (Link will be provided soon).
+1. 
+1. 
 
-## How to check expected deliveries
-#### What is Parcel Inventory?
-Inventory refers to the parcels that are in delivery to your store or have been delivered to your store already, but have yet to be picked up by Amazon customers or a delivery driver for parcels that were never picked up within the specified period of time. Parcels in inventory should be stored in a safe and secure area out of sight and reach of customers. Closets, cabinets, and drawers with close proximity to where customers pay are optimal places to house the parcel inventory.
+
+
+## 
+#### 
+
 1. Click on the icon on the top left on the menu. 
 1. If you click on ‘Inventory’, you can see the current amount of packages in your store
 1. Click on ‘Sync’ to update the status of the current packages. 
@@ -129,9 +129,9 @@ Inventory refers to the parcels that are in delivery to your store or have been 
 
 <span class="pa"> What if the carrier is attempting to deliver a parcel that appears damaged? </span>If possible, do not scan in the damaged parcel and reject it by giving it back to the driver. The driver will return the parcel to the depot and the customer will receive a refund.
 
-<span class="pa"> Do I need to check customer ID? </span>No, customers only need to present their pickup code to collect their parcels.
+<span class="pa"> Do I need to check the customers ID? </span>No, customers only need to present their pickup code to collect their parcels.
 
-<span class="pa"> What should I do if a customer does not have a pickup notification? </span>If the customer cannot find their pickup notification offer the following tips: Check email: The pickup code will be in an email from “Delivery notifications”. Get support: Have the customer reach out to customer service by selecting Contact Us on the Amazon website or Amazon mobile app. An Amazon customer service representative can resend the pickup code when the customer can verify their account.
+<span class="pa"> What should I do if a customer does not have a pickup notification? </span>
 
 <span class="pa"> What if the device is lost, stolen or broken? </span>Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page and request support.
 
@@ -139,6 +139,6 @@ Inventory refers to the parcels that are in delivery to your store or have been 
 
 <span class="pa"> What if I run out of space for parcels? </span>Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page and request support. 
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 7 days, please allow a couple days for  the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
+<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 14 days, please allow a couple days for  the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
 
 <span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span> Please follow the regular process for customer pickup as outlined above.
