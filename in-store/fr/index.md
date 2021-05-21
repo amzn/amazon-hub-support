@@ -6,6 +6,12 @@ title: Assistance au point de retrait
 #### Qu'est-ce que le service Amazon Counter ?
 L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clients d'expédier des commandes dans votre commerce et de les récupérer. Vous apprendrez ici comment utiliser l'application, comment obtenir de l'aide et comment fournir un service de qualité à vos clients.
 
+<divÂ style="text-align:Â center;">
+Â Â Â Â Â Â <span>
+<scriptÂ src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframeÂ class="airtable-embedÂ airtable-dynamic-height"Â src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green"Â frameborder="0"Â onmousewheel=""Â width="100%"Â height="791"Â style="background:Â transparent;Â border:Â 0px"></iframe>
+Â Â Â Â Â Â </span>
+</div>
+
 ## Résumé de la formation
 - [Comment fonctionne le service](#comment-fonctionne-le-service)
   - [Livraison effectuée par le transporteur](#livraison-effectuée-par-le-transporteur)

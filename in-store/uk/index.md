@@ -6,6 +6,12 @@ title: In-Store Support
 #### What is the Amazon Counter Service?
 Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
 
+<divÂ style="text-align:Â center;">
+Â Â Â Â Â Â <span>
+<scriptÂ src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframeÂ class="airtable-embedÂ airtable-dynamic-height"Â src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green"Â frameborder="0"Â onmousewheel=""Â width="100%"Â height="791"Â style="background:Â transparent;Â border:Â 0px"></iframe>
+Â Â Â Â Â Â </span>
+</div>
+
 ## Content overview
 - [How the service works](#how-the-service-works)
   - [Driver delivery](#driver-delivery)

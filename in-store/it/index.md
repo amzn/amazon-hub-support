@@ -6,6 +6,12 @@ title: Supporto punti vendita
 #### Come funziona il servizio Amazon Counter?
 Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparerai come usare la App, ricevere supporto e fornire un servizio best-in-class ai tuoi clienti.
 
+<divÂ style="text-align:Â center;">
+Â Â Â Â Â Â <span>
+<scriptÂ src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframeÂ class="airtable-embedÂ airtable-dynamic-height"Â src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green"Â frameborder="0"Â onmousewheel=""Â width="100%"Â height="791"Â style="background:Â transparent;Â border:Â 0px"></iframe>
+Â Â Â Â Â Â </span>
+</div>
+
 ## Panoramica dei contenuti
 - [Come funziona il servizio](#come-funziona-il-servizio)
   - [Consegna corriere](#consegna-corriere)

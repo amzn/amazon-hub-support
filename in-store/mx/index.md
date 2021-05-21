@@ -6,6 +6,12 @@ title: In-Store Support
 #### Qué es el servicio de Amazon Counter?
 Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes.
 
+<divÂ style="text-align:Â center;">
+Â Â Â Â Â Â <span>
+<scriptÂ src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframeÂ class="airtable-embedÂ airtable-dynamic-height"Â src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green"Â frameborder="0"Â onmousewheel=""Â width="100%"Â height="791"Â style="background:Â transparent;Â border:Â 0px"></iframe>
+Â Â Â Â Â Â </span>
+</div>
+
 ## Resumen de la formación
 - [Cómo funciona el servicio](#cómo-funciona-el-servicio)
   - [Entrega del conductor](#entrega-del-conductor)

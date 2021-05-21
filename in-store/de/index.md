@@ -6,6 +6,12 @@ title: In-Store Support
 #### Was ist der Amazon Counter Service?
 Ihr Standort bietet einen Amazon Service an, bei dem Kunden ihre Bestellungen an Ihren Standort liefern lassen und dort abholen können. Lernen Sie hier wie Sie die App bedienen, Hilfe vom Amazon Support erhalten und einen kundenfreundlichen Service bieten können.
 
+<divÂ style="text-align:Â center;">
+Â Â Â Â Â Â <span>
+<scriptÂ src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframeÂ class="airtable-embedÂ airtable-dynamic-height"Â src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green"Â frameborder="0"Â onmousewheel=""Â width="100%"Â height="791"Â style="background:Â transparent;Â border:Â 0px"></iframe>
+Â Â Â Â Â Â </span>
+</div>
+
 ## Inhalt
 - [So funktioniert der Service](#so-funktioniert-der-service)
   - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
@@ -21,7 +27,7 @@ Ihr Standort bietet einen Amazon Service an, bei dem Kunden ihre Bestellungen an
 1. Halten Sie Ihre Öffnungszeiten stets aktuell.
 1. Stellen Sie sicher, dass Ihr Gerät stets mit dem Internet verbunden, eingeschalten und in Ihrer Nähe ist.
 
-## So funktioniert der Servcie
+## So funktioniert der Service
 ### Anlieferung durch den Fahrer
 Ein Fahrer kommt zu Ihrem Store und liefert Pakete von Amazon-Kunden, die Ihren Standort als Anlieferadresse ausgewählt haben. Der Fahrer übergibt Ihnen alle Amazon Pakete, scannen Sie nun bei der Übergabe bitte das Paketetikett mit der Amazon-App ein. Bitte scannen Sie alle Pakete so schnell wie möglich. Der Scan löst die Benachrichtung an Kunden zur Abholung aus. Kunden haben nun 14 Tage Zeit, um die Pakete abzuholen. 
 
