@@ -4,7 +4,8 @@ title:
 Mağaza İçi Destek
 ---
 
-#### Amazon Counter Hizmeti nedir?
+#### 
+Amazon Counter Hizmeti nedir?
 Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almasına olanak tanıyan bir Amazon hizmeti sağlar. Burada Uygulamayı nasıl kullanacağınızı, nasıl destek alacağınızı ve müşterilerinize sınıfının en iyi hizmeti nasıl sağlayacağınızı öğreneceksiniz.
 
 <div style="text-align: center;">
@@ -52,7 +53,7 @@ Sizi teslim alma yeri olarak seçen Amazon müşterileri için paket teslim etme
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/4Y110TY4XWK6 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Müşteriye Teslimat
@@ -80,7 +81,7 @@ Bir Amazon müşterisi, paketlerini almak için mağazaya varacaktır. Müşteri
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/4Y110TY4XWK6 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Kuryeye iade
@@ -99,7 +100,7 @@ Müşteriler, paketlerini 14 gün içinde teslim almazlarsa, paketin süresi dol
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" https://invis.io/4Y110TY4XWK6 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## Nasıl destek alınır?
