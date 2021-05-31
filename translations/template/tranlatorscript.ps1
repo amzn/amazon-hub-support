@@ -1,5 +1,6 @@
-param($training)
-$training = "in-store"
+
+$training = "XXXXX"
+
 try {
     $filesTranslations = Get-ChildItem -Path $PSScriptRoot -Recurse -ErrorAction SilentlyContinue -Filter *.json | Where-Object { $_.Extension -eq '.json' }
 

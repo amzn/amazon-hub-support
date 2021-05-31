@@ -1,7 +1,6 @@
-param($trainingName)
-if ($null -eq $trainingName) {
-    $trainingName = "in-store"
-}
+
+$trainingName = "in-store"
+
 $basepath = $PSScriptRoot + "\"  
 $xlsxfile = $basePath + "csvContent.xlsx"
 try {   
