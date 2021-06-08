@@ -2,7 +2,7 @@
 layout: default
 title: 
 Mağaza İçi Destek
-type: training
+order: 1
 ---
 
 #### 

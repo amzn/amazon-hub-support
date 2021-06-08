@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: In-Store Support
-type: training
+order: 1
 ---
 
 #### Was ist der Amazon Counter Service?

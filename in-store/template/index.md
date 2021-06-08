@@ -1,7 +1,7 @@
 ---
 layout: default
 title: training-title
-type: training
+order: 1
 ---
 
 #### title-4-whatiscounter-1

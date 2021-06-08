@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Supporto punti vendita
-type: training
+order: 1
 ---
 
 #### Come funziona il servizio di ritiro Amazon Counter?

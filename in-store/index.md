@@ -1,7 +1,7 @@
 ---
 layout: default
 title: In-Store Training Languages
-type: main
+order: 1
 ---
 
 # Table of content
