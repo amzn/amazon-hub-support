@@ -5,7 +5,8 @@
   <meta charset="UTF-8">
 
   {% seo %}
-  <link href="//db.onlinewebfonts.com/c/157c6cc36dd65b1b2adc9e7f3329c761?family=Amazon+Ember" rel="stylesheet" type="text/css"/>
+  <link href="//db.onlinewebfonts.com/c/157c6cc36dd65b1b2adc9e7f3329c761?family=Amazon+Ember" rel="stylesheet"
+    type="text/css" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
     type="text/css" crossorigin>
@@ -21,11 +22,14 @@
   <a id="skip-to-content" href="#content">Skip to the content.</a>
 
   <header class="page-header" role="banner">
-    {% if page.page == "training" %}
+    
+    {% if page.page == "main" %}
     <div style="text-align: center;">
       <span><img src="../assets/amznlogoheader.png" style="width: auto; max-width:65%"></span>
     </div>
-    {% if page.page == "main" %}
+    {% endif %}
+
+    {% if page.page == "training" %}
     <div style="text-align: center;">
       <span><img src="../assets/amznlogoheader.png" style="width: auto; max-width:65%"></span>
     </div>
