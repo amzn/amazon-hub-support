@@ -2,6 +2,7 @@
 layout: default
 title: training-title
 page: training
+
 ---
 
 #### title-4-whatiscounter-1

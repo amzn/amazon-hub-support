@@ -1,7 +1,8 @@
 ﻿---
 layout: default
 title: In-Store Support
-order: 1
+page: training
+
 ---
 
 #### Qué es el servicio de Amazon Counter?

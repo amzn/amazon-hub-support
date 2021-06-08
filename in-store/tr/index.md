@@ -1,12 +1,11 @@
 ﻿---
 layout: default
-title: 
-Mağaza İçi Destek
-order: 1
+title: Mağaza İçi Destek
+page: training
+
 ---
 
-#### 
-Amazon Counter Hizmeti nedir?
+#### Amazon Counter Hizmeti nedir?
 Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almasına olanak tanıyan bir Amazon hizmeti sağlar. Burada Uygulamayı nasıl kullanacağınızı, nasıl destek alacağınızı ve müşterilerinize sınıfının en iyi hizmeti nasıl sağlayacağınızı öğreneceksiniz.
 
 <div style="text-align: center;">

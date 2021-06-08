@@ -1,7 +1,8 @@
 ﻿---
 layout: default
 title: Assistance au point de retrait
-order: 1
+page: training
+
 ---
 
 #### Qu'est-ce que le service Amazon Counter ?
