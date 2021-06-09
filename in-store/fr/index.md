@@ -19,7 +19,7 @@ L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clien
   - [Retrait du colis par le client](#retrait-du-colis-par-le-client)
   - [Retrait des colis par le transporteur](#retrait-des-colis-par-le-transporteur)
 - [Comment obtenir de l'aide](#comment-obtenir-de-l'aide)
-- [Comment offrir le meilleur service possible au client](#comment-offrir-le-meilleur-service-possible-au-client)
+- [olist-element-1-5](olist-element-1-5-link)
 - [Comment vérifier que les colis sont bien attendus](#comment-vérifier-que-les-colis-sont-bien-attendus)
 - [Questions fréquentes](#questions-fréquentes)
 
@@ -110,23 +110,23 @@ Afin d'assurer le bon fonctionnement du programme Amazon Hub Counter, Amazon dis
 1. Vous pouvez demander un support technique si vous ne trouvez pas de réponse adéquate. Cliquez sur «Contacter l'assistance».
 1. Entrez votre numéro de téléphone et cliquez sur "Appelez-moi maintenant".
 
-## Comment offrir le meilleur service possible au client
-Il est important pour Amazon et sûrement pour vous aussi de fournir un excellent service à vos clients. Amazon a créé un programme dédié appelé Plan d'Amélioration des Performances (PAP) pour vous aider à gérer les difficultés et à améliorer votre service. Il s'agit d'un programme de 3 mois qui consiste à vous guider sur 2 axes d'amélioration de la performance dans le but d'améliorer votre expérience liée à la collecte des colis pour les clients. Les domaines d'intervention sont la livraison des colis (éviter les livraisons manquantes / tardives) et la numérisation des colis (éviter les scans manquants):
-1. Scans manquants: Scanner rapidement tous les colis est essentiel pour que les clients sachent que leur colis est arrivé. Votre "conformité de numérisation" individuelle mesure le pourcentage de colis scannés le jour même de leur livraison.
-1. Livraison réussie: Une livraison rapide est primordiale afin d'améliorer l'expérience client. Il est important que vous métiez régulièrement à jour vos horaires d'ouverture afin que les livreurs se présentent lorsque votre magasin est ouvert et que vous soyez disponible pour scanner les colis livrés.
+## title-2-bestservice-1
+text-bestservice-1
+1. olist-bestservice-1
+1. olist-bestservice-2
 
-Cliquez ici pour en savoir plus sur le Plan d'Amélioration des Performances (le lien sera bientôt disponible)
+text-bestservice-2
 
 ## Comment vérifier que les colis sont bien attendus
-#### Qu'est-ce que l'inventaire des colis ?
-L'inventaire fait référence aux colis qui sont en cours de livraison dans votre magasin ou qui ont déjà été livrés dans votre magasin, mais qui n'ont pas encore été récupérés par les clients Amazon ou par un livreur pour les colis qui n'ont jamais été récupérés dans le délai imparti. Les colis en stock doivent être stockés dans un endroit sûr et sécurisé, hors de vue et de portée des clients. Les placards, armoires et les tiroirs situés à proximité de l'endroit où les clients règlent leurs articles sont les meilleurs endroits pour stocker les colis.
+#### title-4-expteceddeliveries-10
+text-parcelinventory-6
 1. Cliquez sur l'icône en haut à gauche du menu.
 1. Si vous cliquez sur "Inventaire", vous pouvez voir le nombre actuel de coliss dans votre boutique
 1. Cliquez sur "Sync" pour mettre à jour le statut des colis actuels.
 1. Si vous souhaitez voir le numéro de suivi, vous pouvez cliquer sur le nom du client. Le numéro de suivi ainsi que le numéro du colis s'affichent.
 
 ## FAQ - Questions fréquentes
-<span class="pa"> J'ai oublié mo,n identifiant et mon mot de passe, que dois-je faire ? </span>Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), faites défiler la page jusqu'à la fin et demandez de l'aide.
+<span class="pa"> J'ai oublié mo,n identifiant et mon mot de passe, que dois-je faire ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
 
 <span class="pa"> Que faire si le transporteur tente de livrer un colis qui semble endommagé ? </span>Si possible, ne scannez pas le colis endommagé et refusez-le en le rendant au chauffeur. Le chauffeur renverra le colis au dépôt et le client sera remboursé.
 
@@ -134,11 +134,11 @@ L'inventaire fait référence aux colis qui sont en cours de livraison dans votr
 
 <span class="pa"> Que dois-je faire si un client n'a pas de code de retrait ? </span>Si le client ne trouve pas son code de retrait, suivez les conseils suivants : Vérifiez l'e-mail : Le code de retrait se trouve dans un e-mail de la rubrique "notifications de livraison". Demandez de l'aide : Demandez au client de contacter le service client en sélectionnant " Contactez-nous " sur le site Web ou l'application mobile d'Amazon. Un conseiller du service client d'Amazon peut renvoyer le code d'enlèvement lorsque le client peut vérifier son compte.
 
-<span class="pa"> Que faire si le téléphone est perdu, volé ou cassé ? </span>Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), faites défiler la page jusqu'à la fin et demandez de l'aide.
+<span class="pa"> Que faire si le téléphone est perdu, volé ou cassé ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
 
-<span class="pa"> Que faire si l'application ne fonctionne pas ? </span>Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), faites défiler la page jusqu'à la fin et demandez de l'aide.
+<span class="pa"> Que faire si l'application ne fonctionne pas ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
 
-<span class="pa"> Que faire si je manque d'espace pour stocker les colis ? </span>Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), faites défiler la page jusqu'à la fin et demandez de l'aide.
+<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> Que faire si j'ai des colis arrivés à expiration qui attendent l'enlèvement par le transporteur depuis plusieurs jours ? </span>Les colis expirent au bout de 14 jours. Veuillez prévoir quelques jours pour que le transporteur vienne les chercher. Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), en faisant défiler la page vers le bas, si un colis n'est pas enlevé dans les 3 jours.
 

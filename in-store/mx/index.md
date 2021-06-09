@@ -19,7 +19,7 @@ Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar ped
   - [Recogida de cliente](#recogida-de-cliente)
   - [Recogida de conductor](#recogida-de-conductor)
 - [Cómo obtener ayuda](#cómo-obtener-ayuda)
-- [Cómo brindar el mejor servicio posible al cliente](#cómo-brindar-el-mejor-servicio-posible-al-cliente)
+- [olist-element-1-5](olist-element-1-5-link)
 - [Cómo comprobar los paquetes esperados](#cómo-comprobar-los-paquetes-esperados)
 - [Preguntas frequentes](#preguntas-frequentes)
 
@@ -110,23 +110,23 @@ Para respaldar el funcionamiento en la tienda de Amazon Hub Counter, Amazon tien
 1. Si aún no encontró el soporte adecuado, puede solicitar una llamada de servicio. Haga clic en "Contactar con el soporte".
 1. Ingrese su número de teléfono y haga clic en "Llámame ahora".
 
-## Cómo brindar el mejor servicio posible al cliente
-Es importante para Amazon y seguramente para ti brindar un excelente servicio a tus clientes. Amazon ha creado un programa dedicado llamado Performance Improvement Plan (PIP) para ayudarlo a navegar por los defectos y mejorar su servicio. El plan es un programa de 3 meses que lo guiará a través de 2 áreas de mejora del rendimiento con el objetivo de mejorar la experiencia de recolección para los clientes. Las áreas de enfoque son la entrega de paquetes (evitando las entregas de paquetes perdidas o tardías) y el escaneo de paquetes (evitando escaneos perdidos):
-1. Escaneos faltantes: escanear todos los paquetes rápidamente es esencial para que los clientes sepan que su paquete llegó. Su “cumplimiento de escaneo” individual mide el porcentaje de paquetes escaneados durante el día en que se entrega un paquete.
-1. Éxito en la entrega: la entrega rápida es clave para la experiencia de los clientes. Es importante que mantenga sus horarios de apertura actualizados para que los conductores lleguen mientras la tienda está abierta y usted está disponible para escanear los paquetes entregados.
+## title-2-bestservice-1
+text-bestservice-1
+1. olist-bestservice-1
+1. olist-bestservice-2
 
-Obtenga más información sobre el Plan de mejora del rendimiento aquí (el enlace se proporcionará pronto).
+text-bestservice-2
 
 ## Cómo comprobar las entregas previstas
-#### ¿Qué es el Inventario de paquetes?
-El inventario se refiere a los paquetes que se están entregando en su tienda o que ya se han entregado en su tienda, pero los clientes de Amazon o un conductor de entrega aún no han recogido los paquetes que nunca se recogieron dentro del período de tiempo especificado. Los paquetes en el inventario deben almacenarse en un área segura y protegida fuera de la vista y del alcance de los clientes. Los armarios, gabinetes y cajones cercanos a los lugares donde pagan los clientes son lugares óptimos para almacenar el inventario de paquetes.
+#### title-4-expteceddeliveries-10
+text-parcelinventory-6
 1. Haga clic en el icono en la parte superior izquierda del menú.
 1. Si hace clic en "Inventario", puede ver la cantidad actual de paquetes en su tienda.
 1. Haga clic en "Sincronizar" para actualizar el estado de los paquetes actuales.
 1. Si desea ver el ID de seguimiento, puede hacer clic en el nombre del cliente. Se muestra el ID de seguimiento y el ID del paquete.
 
 ## FAQs - Preguntas frecuentes
-<span class="pa"> Olvidé mi nombre de usuario y contraseña, ¿qué hago? </span>Comuníquese con el soporte de Amazon, haga clic en "*? *" (Parte superior derecha), desplácese hacia abajo al final de la página de ayuda y solicite soporte.
+<span class="pa"> Olvidé mi nombre de usuario y contraseña, ¿qué hago? </span>Por favor contacte con su persona de contacto de Amazon Hub Counter.
 
 <span class="pa"> ¿Qué sucede si el transportista intenta entregar un paquete que parece dañado? </span>Si es posible, no escanee el paquete dañado y rechácelo devolviéndolo al conductor. El conductor devolverá el paquete al depósito y el cliente recibirá un reembolso.
 
@@ -134,11 +134,11 @@ El inventario se refiere a los paquetes que se están entregando en su tienda o 
 
 <span class="pa"> ¿Qué debo hacer si un cliente no tiene una notificación de recogida? </span>Si el cliente no puede encontrar su notificación de recolección, ofrezca los siguientes consejos: Revise el correo electrónico: El código de recolección estará en un correo electrónico de "Notificaciones de entrega". Obtenga soporte: haga que el cliente se comunique con el servicio de atención al cliente seleccionando Contáctenos en el sitio web de Amazon o en la aplicación móvil de Amazon. Un representante de servicio al cliente de Amazon puede reenviar el código de retiro cuando el cliente pueda verificar su cuenta.
 
-<span class="pa"> ¿Qué pasa si el dispositivo se pierde, se lo roban o se rompe? </span>Comuníquese con el soporte de Amazon, haga clic en "?" (Parte superior derecha), desplácese hacia abajo al final de la página de ayuda y solicite soporte.
+<span class="pa"> ¿Qué pasa si el dispositivo se pierde, se lo roban o se rompe? </span>Por favor contacte con su persona de contacto de Amazon Hub Counter.
 
-<span class="pa"> ¿Qué pasa si la aplicación no funciona? </span>Comuníquese con el soporte de Amazon, haga clic en "?" (Parte superior derecha), desplácese hacia abajo al final de la página de ayuda y solicite soporte.
+<span class="pa"> ¿Qué pasa si la aplicación no funciona? </span>Por favor contacte con su persona de contacto de Amazon Hub Counter.
 
-<span class="pa"> ¿Qué pasa si me quedo sin espacio para paquetes? </span>Comuníquese con el soporte de Amazon, haga clic en "?" (Parte superior derecha), desplácese hacia abajo al final de la página de ayuda y solicite soporte.
+<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja durante varios días? </span>Los paquetes caducarán después de 14 días; espere un par de días para que el conductor los recoja. Póngase en contacto con el soporte de Amazon, haga clic en "?" (Arriba a la derecha), desplácese hacia abajo al final de la página de ayuda si un paquete no se recoge en 3 días
 

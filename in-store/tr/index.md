@@ -21,7 +21,7 @@ Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almas
   - [Müşteriye teslimat](#müşteriye-teslimat)
   - [Kuryeye iade](#kuryeye-iade)
 - [Nasıl destek alınır](#nasıl-destek-alınır)
-- [Müşteriye mümkün olan en iyi hizmet nasıl sağlanır](#müşteriye-mümkün-olan-en-iyi-hizmet-nasıl-sağlanır)
+- [olist-element-1-5](olist-element-1-5-link)
 - [Beklenen paketler nasıl kontrol edilir](#beklenen-paketler-nasıl-kontrol-edilir)
 - [Sıkça Sorulan Sorular](#sıkça-sorulan-sorular)
 
@@ -112,23 +112,23 @@ Amazon Hub Counter'ın mağaza içi işlemlerini desteklemek için Amazon'un Uyg
 1. Henüz yeterli desteği bulamadıysanız, bir servis çağrısı talep edebilirsiniz. "Desteğe başvur" u tıklayın.
 1. Telefon numaranızı girin ve "Beni şimdi ara" yı tıklayın.
 
-## Müşteriye mümkün olan en iyi hizmet nasıl sağlanır
-Müşterilerinize harika bir hizmet sunmak Amazon ve sizin için kesinlikle çok önemlidir. Amazon, sorunları gidermenize ve hizmetinizi iyileştirmenize yardımcı olmak için Performans İyileştirme Planı (PIP) adlı özel bir program oluşturdu. Plan, müşteriler için teslim alma deneyiminizi iyileştirmek amacıyla 2 performans iyileştirme alanında size rehberlik edecek 3 aylık bir programdır. Odak alanları, paket teslimatı (eksik / geç paket teslimatlarından kaçınmak) ve paket taramasıdır (eksik taramalardan kaçınmak):
-1. Eksik Taramalar: Müşterilerin paketlerinin geldiğini bilmeleri için tüm paketlerin hızlı bir şekilde taranması önemlidir. Mağazanızın "Tarama Performansı", bir paketin teslim edildiği gün içinde taranan paketlerin yüzdesini ölçer.
-1. Teslimat Başarısı: Hızlı teslimat, müşteri deneyiminin anahtarıdır. Mağaza açıkken kuryenin gelmesi ve teslim edilen paketleri tarayabilmeniz için açılış saatlerinizi güncel tutmanız önemlidir.
+## title-2-bestservice-1
+text-bestservice-1
+1. olist-bestservice-1
+1. olist-bestservice-2
 
-Lütfen buradan Performans İyileştirme Planı hakkında daha fazla bilgi edinin (Bağlantı yakında sağlanacaktır).
+text-bestservice-2
 
 ## Beklenen teslimatlar nasıl kontrol edilir?
-#### Koli Envanteri nedir?
-Envanter, mağazanıza teslim edilen veya halihazırda mağazanıza teslim edilmiş, ancak Amazon müşterileri veya belirtilen süre içinde teslim alınmayan paketler için teslimat kuryesi tarafından henüz alınmamış paketler anlamına gelir. Envanterdeki koliler, müşterilerin göremeyeceği ve ulaşamayacağı güvenli ve emniyetli bir alanda depolanmalıdır. Müşterilerin ödeme yaptığı yerlere yakın olan dolaplar, çekmeceler, vb.alanlar paket envanterini barındırmak için en uygun yerlerdir.
+#### title-4-expteceddeliveries-10
+text-parcelinventory-6
 1. Menüde sol üstteki simgeye tıklayın.
 1. "Envanter" i tıklarsanız, mağazanızdaki mevcut paket miktarını görebilirsiniz.
 1. Mevcut paketlerin durumunu güncellemek için "Eşitle" yi tıklayın.
 1. Gönderi Takip No görmek istiyorsanız, müşterinin adına tıklayabilirsiniz. Gönderi Takip no ve Paket no görüntülenir.
 
 ## SSS - Sık sorulan sorular
-<span class="pa"> Kullanıcı adımı ve şifremi unuttum, ne yapmalıyım? </span>Lütfen "?" (Sağ üst) işaretine tıklayarak, yardım sayfasının sonunda aşağı kaydırarak ve destek talep ederek Amazon destek ile iletişime geçin.
+<span class="pa"> Kullanıcı adımı ve şifremi unuttum, ne yapmalıyım? </span>Lütfen program için Amazon Hub Counter irtibat kişinizle iletişime geçin.
 
 <span class="pa"> Kurye, hasarlı görünen bir paketi teslim etmeye çalışıyorsa ne olur? </span>Mümkünse hasarlı paketi taramayın ve kuryeye geri vererek reddedin. Kurye paketi depoya iade edecek ve müşteriye para iadesi yapılacaktır.
 
@@ -136,11 +136,11 @@ Envanter, mağazanıza teslim edilen veya halihazırda mağazanıza teslim edilm
 
 <span class="pa"> Bir müşterinin teslim alma bildirimi/kodu yoksa ne yapmalıyım? </span>Müşteri teslim alma bildirimini bulamazsa, aşağıdaki ipuçlarını verin: E-postayı kontrol edin: Teslim alma kodu "Teslimat bildirimleri" nden bir e-postada olacaktır. Destek alın: Amazon web sitesinde veya Amazon mobil uygulamasında Bize Ulaşın'ı seçerek müşterinin müşteri hizmetlerine ulaşmasını sağlayın. Bir Amazon müşteri hizmetleri temsilcisi, müşteri hesabını doğrulayabildiğinde teslim alma kodunu yeniden gönderebilir.
 
-<span class="pa"> Ya cihaz kaybolursa, çalınırsa veya bozulursa? </span>Lütfen "?" (Sağ üst) işaretine tıklayarak, yardım sayfasının sonunda aşağı kaydırarak ve destek talep ederek Amazon destek ile iletişime geçin.
+<span class="pa"> Ya cihaz kaybolursa, çalınırsa veya bozulursa? </span>Lütfen program için Amazon Hub Counter irtibat kişinizle iletişime geçin.
 
-<span class="pa"> Ya uygulama çalışmıyorsa? </span>Lütfen "?" (Sağ üst) işaretine tıklayarak, yardım sayfasının sonunda aşağı kaydırarak ve destek talep ederek Amazon destek ile iletişime geçin.
+<span class="pa"> Ya uygulama çalışmıyorsa? </span>Lütfen program için Amazon Hub Counter irtibat kişinizle iletişime geçin.
 
-<span class="pa"> Paketler için yerim kalmazsa ne olur? </span>Lütfen "?" (Sağ üst) işaretine tıklayarak, yardım sayfasının sonunda aşağı kaydırarak ve destek talep ederek Amazon destek ile iletişime geçin.
+<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> Kuryenin birkaç gün teslim almasını bekleyen kargolarımın süresi dolduysa ne olur? </span>Paketler 14 gün sonra sona erecek, lütfen kuryenin teslim alması için birkaç gün bekleyin. Lütfen Amazon destek ile iletişime geçin, "?" (Sağ üstte) üzerine tıklayarak, bir paket 3 gün içinde teslim alınmazsa yardım sayfasının sonunda aşağı kaydırın
 
