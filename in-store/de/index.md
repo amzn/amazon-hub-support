@@ -127,10 +127,7 @@ Unsere Mitarbeiter vom Amazon Support helfen Ihnen mit Rat und Tat zur Seite und
 <span class="pa"> Was ist zu tun, wenn ein Kunde keine Abholbenachrichtigung vorliegen hat? </span>Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die folgenden Tipps:
 1. Überprüfen Sie Ihre E-Mails: Der Abholcode findet sich in einer E-Mail mit dem Absender "Abholbenachrichtigungen" und kann auf Amazon.de eingesehen werden.
 2. Kontaktieren Sie das Support-Team: Sagen Sie dem Kunden, er solle sich über "Kontaktieren Sie uns" auf der Amazon-Website oder in der mobilen App an den Kundenservice wenden. Ein Mitarbeiter vom Amazon-Kundenservice kann den Abholcode erneut versenden, wenn der Kunde sein Konto verifizieren kann.
-Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die folgenden Tipps:
-1. Überprüfen Sie Ihre E-Mails: Der Abholcode findet sich in einer E-Mail mit dem Absender "Abholbenachrichtigungen" und kann auf Amazon.de eingesehen werden.
-2. Kontaktieren Sie das Support-Team: Sagen Sie dem Kunden, er solle sich über "Kontaktieren Sie uns" auf der Amazon-Website oder in der mobilen App an den Kundenservice wenden. Ein Mitarbeiter vom Amazon-Kundenservice kann den Abholcode erneut versenden, wenn der Kunde sein Konto verifizieren kann.
-Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die folgenden Tipps: 1. Überprüfen Sie Ihre E-Mails: Der Abholcode findet sich in einer E-Mail mit dem Absender "Abholbenachrichtigungen" und kann auf Amazon.de eingesehen werden. 2. Kontaktieren Sie das Support-Team: Sagen Sie dem Kunden, er solle sich über "Kontaktieren Sie uns" auf der Amazon-Website oder in der mobilen App an den Kundenservice wenden. Ein Mitarbeiter vom Amazon-Kundenservice kann den Abholcode erneut versenden, wenn der Kunde sein Konto verifizieren kann.
+
 
 <span class="pa"> Was ist zu tun, wenn das Gerät verloren geht, gestohlen wird oder kaputt ist? </span>Kontaktieren Sie bitte Ihren Ansprechpartner für das Amazon Hub Counter Programm.
 
