@@ -20,7 +20,6 @@ Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almas
   - [Müşteriye teslimat](#müşteriye-teslimat)
   - [Kuryeye iade](#kuryeye-iade)
 - [Nasıl destek alınır](#nasıl-destek-alınır)
-- [olist-element-1-5](olist-element-1-5-link)
 - [Beklenen paketler nasıl kontrol edilir](#beklenen-paketler-nasıl-kontrol-edilir)
 - [Sıkça Sorulan Sorular](#sıkça-sorulan-sorular)
 
@@ -111,16 +110,8 @@ Amazon Hub Counter'ın mağaza içi işlemlerini desteklemek için Amazon'un Uyg
 1. Henüz yeterli desteği bulamadıysanız, bir servis çağrısı talep edebilirsiniz. "Desteğe başvur" u tıklayın.
 1. Telefon numaranızı girin ve "Beni şimdi ara" yı tıklayın.
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## Beklenen teslimatlar nasıl kontrol edilir?
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. Menüde sol üstteki simgeye tıklayın.
 1. "Envanter" i tıklarsanız, mağazanızdaki mevcut paket miktarını görebilirsiniz.
 1. Mevcut paketlerin durumunu güncellemek için "Eşitle" yi tıklayın.
@@ -138,8 +129,6 @@ text-parcelinventory-6
 <span class="pa"> Ya cihaz kaybolursa, çalınırsa veya bozulursa? </span>Lütfen program için Amazon Hub Counter irtibat kişinizle iletişime geçin.
 
 <span class="pa"> Ya uygulama çalışmıyorsa? </span>Lütfen program için Amazon Hub Counter irtibat kişinizle iletişime geçin.
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> Kuryenin birkaç gün teslim almasını bekleyen kargolarımın süresi dolduysa ne olur? </span>Paketler 14 gün sonra sona erecek, lütfen kuryenin teslim alması için birkaç gün bekleyin. Lütfen Amazon destek ile iletişime geçin, "?" (Sağ üstte) üzerine tıklayarak, bir paket 3 gün içinde teslim alınmazsa yardım sayfasının sonunda aşağı kaydırın
 

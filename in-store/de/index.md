@@ -20,7 +20,6 @@ Ihr Standort bietet einen Amazon Service an, bei dem Kunden Bestellungen an Ihre
   - [Abholung durch den Kunden](#abholung-durch-den-kunden)
   - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)
 - [Wie erhalte ich Support](#wie-erhalte-ich-support)
-- [olist-element-1-5](olist-element-1-5-link)
 - [Wie überprüfe ich erwartete Anlieferungen](#wie-überprüfe-ich-erwartete-anlieferungen)
 - [FAQs](#faqs)
 
@@ -111,16 +110,8 @@ Unsere Mitarbeiter vom Amazon Support helfen Ihnen mit Rat und Tat zur Seite und
 1. Falls Sie keine ausreichende Hilfestellung finden, kontaktieren Sie bitte den Amazon Support (Klicken Sie hierzu ganz unten auf "Wenden Sie sich an den Support").
 1. Geben Sie ihre Rufnummer ein und klicken Sie auf „Rufen Sie uns jetzt an”.
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## Wie überprüfe ich erwartete Anlieferungen
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. Klicken Sie auf das Symbol mit den drei Balken links oben.
 1. Klicken Sie auf „Lagerbestand” und überprüfen so die aktuelle Zahl an Paketen vor Ort in Ihrer Filiale.
 1. Klicken Sie auf „Synchronisieren“, um den Lagerbestand zu aktualisieren.
@@ -144,8 +135,6 @@ Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die 
 <span class="pa"> Was ist zu tun, wenn das Gerät verloren geht, gestohlen wird oder kaputt ist? </span>Kontaktieren Sie bitte Ihren Ansprechpartner für das Amazon Hub Counter Programm.
 
 <span class="pa"> Was ist zu tun, wenn die App nicht funktioniert? </span>Kontaktieren Sie bitte Ihren Ansprechpartner für das Amazon Hub Counter Programm.
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> Was ist zu tun, wenn ich über abgelaufene Pakete verfüge, die seit mehreren Tagen noch nicht vom Kunden abgeholt wurden? </span>Bitte kontaktieren Sie das Amazon-Support-Team, wenn ein Paket nicht innerhalb von drei Tagen nach Ihrer Abholanforderung abgeholt wird.
 

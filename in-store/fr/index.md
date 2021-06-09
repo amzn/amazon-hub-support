@@ -20,7 +20,6 @@ L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clien
   - [Retrait du colis par le client](#retrait-du-colis-par-le-client)
   - [Retrait des colis par le transporteur](#retrait-des-colis-par-le-transporteur)
 - [Comment obtenir de l'aide](#comment-obtenir-de-l'aide)
-- [olist-element-1-5](olist-element-1-5-link)
 - [Comment vérifier que les colis sont bien attendus](#comment-vérifier-que-les-colis-sont-bien-attendus)
 - [Questions fréquentes](#questions-fréquentes)
 
@@ -111,16 +110,8 @@ Afin d'assurer le bon fonctionnement du programme Amazon Hub Counter, Amazon dis
 1. Vous pouvez demander un support technique si vous ne trouvez pas de réponse adéquate. Cliquez sur «Contacter l'assistance».
 1. Entrez votre numéro de téléphone et cliquez sur "Appelez-moi maintenant".
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## Comment vérifier que les colis sont bien attendus
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. Cliquez sur l'icône en haut à gauche du menu.
 1. Si vous cliquez sur "Inventaire", vous pouvez voir le nombre actuel de coliss dans votre boutique
 1. Cliquez sur "Sync" pour mettre à jour le statut des colis actuels.
@@ -138,8 +129,6 @@ text-parcelinventory-6
 <span class="pa"> Que faire si le téléphone est perdu, volé ou cassé ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
 
 <span class="pa"> Que faire si l'application ne fonctionne pas ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> Que faire si j'ai des colis arrivés à expiration qui attendent l'enlèvement par le transporteur depuis plusieurs jours ? </span>Les colis expirent au bout de 14 jours. Veuillez prévoir quelques jours pour que le transporteur vienne les chercher. Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), en faisant défiler la page vers le bas, si un colis n'est pas enlevé dans les 3 jours.
 

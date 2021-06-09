@@ -20,7 +20,6 @@ Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar ped
   - [Recogida de cliente](#recogida-de-cliente)
   - [Recogida de conductor](#recogida-de-conductor)
 - [Cómo obtener ayuda](#cómo-obtener-ayuda)
-- [olist-element-1-5](olist-element-1-5-link)
 - [Cómo comprobar los paquetes esperados](#cómo-comprobar-los-paquetes-esperados)
 - [Preguntas frequentes](#preguntas-frequentes)
 
@@ -111,16 +110,8 @@ Para respaldar el funcionamiento en la tienda de Amazon Hub Counter, Amazon tien
 1. Si aún no encontró el soporte adecuado, puede solicitar una llamada de servicio. Haga clic en "Contactar con el soporte".
 1. Ingrese su número de teléfono y haga clic en "Llámame ahora".
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## Cómo comprobar las entregas previstas
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. Haga clic en el icono en la parte superior izquierda del menú.
 1. Si hace clic en "Inventario", puede ver la cantidad actual de paquetes en su tienda.
 1. Haga clic en "Sincronizar" para actualizar el estado de los paquetes actuales.
@@ -138,8 +129,6 @@ text-parcelinventory-6
 <span class="pa"> ¿Qué pasa si el dispositivo se pierde, se lo roban o se rompe? </span>Por favor contacte con su persona de contacto de Amazon Hub Counter.
 
 <span class="pa"> ¿Qué pasa si la aplicación no funciona? </span>Por favor contacte con su persona de contacto de Amazon Hub Counter.
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja durante varios días? </span>Los paquetes caducarán después de 14 días; espere un par de días para que el conductor los recoja. Póngase en contacto con el soporte de Amazon, haga clic en "?" (Arriba a la derecha), desplácese hacia abajo al final de la página de ayuda si un paquete no se recoge en 3 días
 

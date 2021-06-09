@@ -20,7 +20,6 @@ text-title-1
   - [olist-element-2-2](olist-element-2-2-link)
   - [olist-element-2-3](olist-element-2-3-link)
 - [olist-element-1-2](olist-element-1-2-link)
-- [olist-element-1-5](olist-element-1-5-link)
 - [olist-element-1-3](olist-element-1-3-link)
 - [olist-element-1-4](olist-element-1-4-link)
 
@@ -111,16 +110,8 @@ text-support-5
 1. olist-support-38
 1. olist-support-39
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## title-2-expecteddeliveries-4
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. olist-inventory-40
 1. olist-inventory-41
 1. olist-support-42
@@ -138,8 +129,6 @@ text-parcelinventory-6
 <span class="pa"> bluetext-5 </span>text-fqa-12
 
 <span class="pa"> bluetext-6 </span>text-fqa-13
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> bluetext-8 </span>text-fqa-15
 

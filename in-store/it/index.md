@@ -20,7 +20,6 @@ Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparer
   - [Ritiro cliente](#ritiro-cliente)
   - [Ritiro del corriere](#ritiro-del-corriere)
 - [Come ricevere assistenza](#come-ricevere-assistenza)
-- [olist-element-1-5](olist-element-1-5-link)
 - [Come controllare i pacchi](#come-controllare-i-pacchi)
 - [Domande frequenti](#domande-frequenti)
 
@@ -111,16 +110,8 @@ Amazon fornisce un servizio di assistenza per aiutarti a risolvere problemi con 
 1. Se non hai ancora trovato un'assistenza adeguata, puoi chiedere di essere chiamato. Seleziona "Contatta il supporto"
 1. Inserisci il tuo numero di telefono e premi "Chiamami adesso"
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## Come controllare i pacchi in arrivo
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. Clicca sull'icona nel menu in alto a sinistra
 1. Selezionando "Inventario", puoi vedere il numero dei pacchi presenti al momento nel tuo punto vendita
 1. Premi "Sync" per aggiornare lo stato dei pacchi
@@ -138,8 +129,6 @@ text-parcelinventory-6
 <span class="pa"> Che fare se il dispositivo di scansione e' rotto, oppure viene perso o rubato? </span>Si prega di contattare la persona di contatto di Amazon Hub Counter per il programma.
 
 <span class="pa"> Che fare se la App non funziona? </span>Si prega di contattare la persona di contatto di Amazon Hub Counter per il programma.
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> Che fare se ci sono pacchi scaduti in attesa del corriere per diversi giorni? </span>I pacchi scadono dopo 14 giorni. Considera inoltre un paio di giorni necessari al ritiro da parte del corriere. Contatta il supporto Amazon, premendo "?" (in alto a destra), e richiedendo supporto in fondo alla pagina di aiuto se i pacchi non sono ritirati entro 3 giorni
 

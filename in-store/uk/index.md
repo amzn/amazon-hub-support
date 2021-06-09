@@ -20,7 +20,6 @@ Your location provides a service from Amazon that allows customers to ship order
   - [Customer pickup](#customer-pickup)
   - [Driver pickup](#driver-pickup)
 - [How to get support](#how-to-get-support)
-- [olist-element-1-5](olist-element-1-5-link)
 - [How to check expected parcels](#how-to-check-expected-parcels)
 - [FAQs](#faqs)
 
@@ -111,16 +110,8 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 1. If you did not find adequate support yet, you can request a service call. Click on “Contact support".
 1. Enter your phone number and click on ‘Call me now’.
 
-## title-2-bestservice-1
-text-bestservice-1
-1. olist-bestservice-1
-1. olist-bestservice-2
-
-text-bestservice-2
-
 ## How to check expected deliveries
-#### title-4-expteceddeliveries-10
-text-parcelinventory-6
+
 1. Click on the icon on the top left on the menu.
 1. If you click on ‘Inventory’, you can see the current amount of packages in your store
 1. Click on ‘Sync’ to update the status of the current packages.
@@ -138,8 +129,6 @@ text-parcelinventory-6
 <span class="pa"> What if the device is lost, stolen or broken? </span>Please contact your Amazon Hub Counter contact person for the program.
 
 <span class="pa"> What if the app isn’t working? </span>Please contact your Amazon Hub Counter contact person for the program.
-
-<span class="pa"> bluetext-7 </span>text-fqa-14
 
 <span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 14 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
 
