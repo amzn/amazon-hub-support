@@ -14,6 +14,6 @@ page: main
 * [AU Training](./au/index.html)
 * [CA Training](./ca/index.html)
 * [MX Training](./mx/index.html)
-* [UAE Training](.uae/index.html)
+* [UAE Training](./uae/index.html)
 * [US Training](./us/index.html)
 * [SA Training](./sa/index.html)
