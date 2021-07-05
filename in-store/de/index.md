@@ -86,7 +86,7 @@ Der Kunde zeigt Ihnen eine Benachrichtigung, die einen Barcode und einen 6-stell
 ### Abholung durch den Fahrer
 Wenn Kunden Pakete nicht innerhalb der Frist von 14 Tagen abholen, werden die Pakete als abgelaufen markiert. Klicken Sie bitte auf die entsprechende Meldung auf der Startseite, um Pakete für eine Abholung anzumelden. Bitte scannen Sie alle Pakete nach der Meldung innerhalb von 2 Stunden ein. Die App wird andernfalls alle Funktionalitäten bis zum Scan blockieren. Kommt ein Fahrer zur Abholung, müssen Sie lediglich die Pakete aushändigen.
 
-#### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App hier:
+#### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App auf dieser Seite:
 1. Klicken Sie auf die Benachrichtigung „Nicht abgeholte Pakete scannen“ auf dem Startbildschirm.
 1. Scannen Sie die Pakete ein, indem Sie jedes Paketetikett in den Scanrahmen platzieren. Wenn Sie alle Pakete eingescannt haben, erscheint der Bildschirm „Fertig“. In 1-2 Tagen wird das Paket abgeholt.
 1. Wenn der Fahrer ankommt, klicken Sie auf "Abholung durch den Fahrer". Suchen Sie nun die Pakete auf der Liste und geben Sie diese dem Fahrer.
@@ -103,7 +103,7 @@ Wenn Kunden Pakete nicht innerhalb der Frist von 14 Tagen abholen, werden die Pa
 </div>
 
 ## Wie erhalte ich Support
-Unsere Mitarbeiter vom Amazon Support helfen Ihnen mit Rat und Tat zur Seite und unterstützen Sie bei Fragen rund um die Prozesse in der App, Ihres Geräts oder Anlieferungsschwierigkeiten.
+Unsere Mitarbeiter vom Amazon Support stehen Ihnen mit Rat und Tat zur Seite und unterstützen Sie bei Fragen rund um die Prozesse in der App, Ihres Geräts oder Anlieferungsschwierigkeiten.
 1. Klicken Sie auf das Fragezeichen „?” auf der Startseite.
 1. Nun werden Ihnen Hilfestellungen zu diversen Problemen erläutert.
 1. Navigieren Sie bis zum Ende der Seite.
@@ -124,10 +124,7 @@ Unsere Mitarbeiter vom Amazon Support helfen Ihnen mit Rat und Tat zur Seite und
 
 <span class="pa"> Muss ich die Kunden-ID überprüfen? </span>Nein, Kunden müssen lediglich ihren Abholcode vorweisen, um ihre Pakete abzuholen.
 
-<span class="pa"> Was ist zu tun, wenn ein Kunde keine Abholbenachrichtigung vorliegen hat? </span>Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die folgenden Tipps:
-1. Überprüfen Sie Ihre E-Mails: Der Abholcode findet sich in einer E-Mail mit dem Absender "Abholbenachrichtigungen" und kann auf Amazon.de eingesehen werden.
-2. Kontaktieren Sie das Support-Team: Sagen Sie dem Kunden, er solle sich über "Kontaktieren Sie uns" auf der Amazon-Website oder in der mobilen App an den Kundenservice wenden. Ein Mitarbeiter vom Amazon-Kundenservice kann den Abholcode erneut versenden, wenn der Kunde sein Konto verifizieren kann.
-
+<span class="pa"> Was ist zu tun, wenn ein Kunde keine Abholbenachrichtigung vorliegen hat? </span>Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die folgenden Tipps: 1. Überprüfen Sie Ihre E-Mails: Der Abholcode findet sich in einer E-Mail mit dem Absender "Abholbenachrichtigungen" und kann auf Amazon.de oder der Amazon App eingesehen werden. 2. Kontaktieren Sie das Support-Team: Sagen Sie dem Kunden, er solle sich über "Kontaktieren Sie uns" auf der Amazon-Website oder in der mobilen App an den Kundenservice wenden. Ein Mitarbeiter vom Amazon-Kundenservice kann den Abholcode erneut versenden, wenn der Kunde sein Konto verifizieren kann.
 
 <span class="pa"> Was ist zu tun, wenn das Gerät verloren geht, gestohlen wird oder kaputt ist? </span>Kontaktieren Sie bitte Ihren Ansprechpartner für das Amazon Hub Counter Programm.
 

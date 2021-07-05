@@ -6,7 +6,7 @@ page: training
 ---
 
 #### What is the Amazon Counter Service?
-Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
+The Amazon Hub Counter Service allows your location to offer customers a new way to receive their orders. Here you’ll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
 
 <div style="text-align: center;">
 <span>
@@ -30,9 +30,9 @@ Your location provides a service from Amazon that allows customers to ship order
 
 ## How the service works
 ### Driver Delivery
-A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 14 days to pickup the parcel.
+Customers will select your location for pick up at checkout then a driver will deliver those parcels to your location. It is important to scan each parcel in from the driver as soon as possible your scan triggers the customer notification. The customer will have 14 days to pick up the parcel.
 
-#### What do I do? Please test the following steps on the Amazon app below:
+#### What do I do once I receive a package? Please test the following steps listed below on the Amazon App:
 1. Select “Driver delivery” from the home screen and choose Amazon.
 1. Please scan parcels as soon as possible after delivery. Click on "Scan deliveries now".
 1. Scan all parcels by placing each parcel label in the scan frame. Test it by clicking on the scan frame below. You can check if the parcels are scanned if they have a blue checkbox. If you are done click once again on the scan frame.
@@ -52,7 +52,7 @@ A driver will arrive at your store to deliver parcels for Amazon customers who c
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src="  " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Customer Pickup
@@ -80,7 +80,7 @@ An Amazon customer will arrive at the store to pick up or retrieve their parcel(
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src="  " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Driver Pickup
@@ -99,7 +99,7 @@ If customers do not pickup their parcel within 14 days, the parcel expires. Then
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src="  " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## How to get support
@@ -107,7 +107,7 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 1. If you click on ‘?’ Amazon help is provided
 1. The screen will display helpful advice and explanations on the services.
 1. Scroll through the Q&As to learn more
-1. If you did not find adequate support yet, you can request a service call. Click on “Contact support".
+1. If you did not find adequate support, you can request a service call. Click on “Contact support".
 1. Enter your phone number and click on ‘Call me now’.
 
 ## How to check expected deliveries
