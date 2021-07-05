@@ -7,7 +7,7 @@ page: main
 # Table of content
 * [ES Training](./es/index.html)
 * [Uk Training](./uk/index.html)
-* [FR Training](./FR/index.html)
+* [FR Training](./fr/index.html)
 * [IT Training](./it/index.html)
 * [TR Training](./tr/index.html)
 * [DE Training](./de/index.html)
