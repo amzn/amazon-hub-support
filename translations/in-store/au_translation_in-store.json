@@ -43,7 +43,7 @@
   "title-3-customerpickup-2": "Customer Pickup",
   "bluetext-9": "What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel?",
   "olist-driverdeliverybusy-11": "If you choose to defer the scan, you will be asked to confirm your choice and be reminded of the 30 minutes time window.",
-  "text-title-1": "Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here, you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.",
+  "text-title-1": "Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here, you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.",
   "text-customerpickup-3": "An Amazon customer will arrive at the store to pick up or retrieve their parcel(s). The customer will show a notification, which includes 1) a barcode and 2) a 6-digit numeric code. You need to scan the barcode, find the parcel and scan the parcel before handing it to the customer. You will need to scan or key in each customer pickup code AND parcel. This will delete the parcel from your inventory and responsibility.",
   "text-fqa-15": "Parcels will expire after 7 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days",
   "olist-customerpickupmissing-27": "You can choose to “unable to find” or “reject”.",

@@ -6,7 +6,7 @@ page: training
 ---
 
 #### What is the Amazon Counter Service?
-Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here, you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
+Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here, you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.
 
 <div style="text-align: center;">
 <span>
