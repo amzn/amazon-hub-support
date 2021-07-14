@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: In-Store Support
 page: training

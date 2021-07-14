@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: In-Store Support
 page: training
@@ -6,7 +6,7 @@ page: training
 ---
 
 #### Qué es el servicio de Amazon Counter?
-Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes.
+Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes. Esta plataforma es válida tambíen para web app.
 
 <div style="text-align: center;">
 <span>

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Supporto punti vendita
 page: training

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Assistance au point de retrait
 page: training
@@ -6,7 +6,7 @@ page: training
 ---
 
 #### Qu'est-ce que le service Amazon Counter ?
-L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clients d'expédier des commandes dans votre commerce et de les récupérer. Vous apprendrez ici comment utiliser l'application, comment obtenir de l'aide et comment fournir un service de qualité à vos clients.
+L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clients d'expédier des commandes dans votre commerce et de les récupérer. Vous apprendrez ici comment utiliser l'application, comment obtenir de l'aide et comment fournir un service de qualité à vos clients. Cette plateforme est également valable pour les utilisateurs d'applications web.
 
 <div style="text-align: center;">
 <span>

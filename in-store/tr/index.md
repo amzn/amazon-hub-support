@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Mağaza İçi Destek
 page: training
