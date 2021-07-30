@@ -30,7 +30,7 @@ Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar ped
 
 ## Cómo funciona el servicio
 ### Entrega del conductor
-Un conductor llegará a su tienda para entregar los paquetes a los clientes de Amazon que lo elijan como lugar de recogida. Cuando el conductor le entrega el paquete, debe escanear la etiqueta de cada paquete. Esto enviará una notificación al cliente de que el paquete está listo para ser recogido. El cliente dispone de 14 días para recoger el paquete.
+Un conductor llegará a su tienda para entregar los paquetes a los clientes de Amazon que lo elijan como lugar de recogida. Cuando el conductor le entrega el paquete, debe escanear la etiqueta de cada paquete. Esto enviará una notificación al cliente de que el paquete está listo para ser recogido. El cliente dispone de 7 días para recoger el paquete.
 
 #### ¿Qué debo hacer? Pruebe los siguientes pasos en la aplicación de Amazon a continuación:
 1. Seleccione "Entrega del conductor" en la pantalla de inicio.
@@ -84,7 +84,7 @@ Un cliente de Amazon llegará a la tienda para recoger o recuperar su (s) paquet
 </div>
 
 ### Recogida del conductor
-Si los clientes no recogen su paquete dentro de los 14 días, el paquete caduca. Entonces debe solicitar que el conductor lo recoja. Necesita escanear paquetes para que el conductor los recoja. De lo contrario, la aplicación lo bloqueará de otras tareas. Un conductor de entrega llegará a la ubicación de la tienda minorista para recoger los paquetes. No necesita escanear a la llegada del conductor, solo entregue los paquetes al conductor.
+Si los clientes no recogen su paquete dentro de los 7 días, el paquete caduca. Entonces debe solicitar que el conductor lo recoja. Necesita escanear paquetes para que el conductor los recoja. De lo contrario, la aplicación lo bloqueará de otras tareas. Un conductor de entrega llegará a la ubicación de la tienda minorista para recoger los paquetes. No necesita escanear a la llegada del conductor, solo entregue los paquetes al conductor.
 
 #### ¿Qué debo hacer? Pruebe los siguientes pasos en la aplicación de Amazon a continuación:
 1. Si los paquetes caducan, aparecerá una notificación en la pantalla principal.
@@ -130,6 +130,6 @@ Para respaldar el funcionamiento en la tienda de Amazon Hub Counter, Amazon tien
 
 <span class="pa"> ¿Qué pasa si la aplicación no funciona? </span>Por favor contacte con su persona de contacto de Amazon Hub Counter.
 
-<span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja durante varios días? </span>Los paquetes caducarán después de 14 días; espere un par de días para que el conductor los recoja. Póngase en contacto con el soporte de Amazon, haga clic en "?" (Arriba a la derecha), desplácese hacia abajo al final de la página de ayuda si un paquete no se recoge en 3 días
+<span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja durante varios días? </span>Los paquetes caducarán después de 7 días; espere un par de días para que el conductor los recoja. Póngase en contacto con el soporte de Amazon, haga clic en "?" (Arriba a la derecha), desplácese hacia abajo al final de la página de ayuda si un paquete no se recoge en 3 días
 
 <span class="pa"> ¿Qué sucede si tengo paquetes vencidos esperando que el transportista los recoja, pero el cliente llega a recoger el paquete? </span>Siga el proceso habitual de recogida del cliente como se describe anteriormente.

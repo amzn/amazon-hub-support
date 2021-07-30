@@ -30,7 +30,7 @@ L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clien
 
 ## Comment fonctionne le service
 ### Livraison effectuée par le transporteur
-Un livreur se rendra dans votre magasin pour livrer les colis des clients Amazon qui vous ont choisi comme lieu de retrait. Lorsque le livreur vous remet le colis, vous devez scanner les étiquettes de chaque colis. Veuillez scanner les colis livrés dès que possible. Votre scan envoie une notification au client. Le client dispose de 14 jours pour retirer le colis.
+Un livreur se rendra dans votre magasin pour livrer les colis des clients Amazon qui vous ont choisi comme lieu de retrait. Lorsque le livreur vous remet le colis, vous devez scanner les étiquettes de chaque colis. Veuillez scanner les colis livrés dès que possible. Votre scan envoie une notification au client. Le client dispose de 7 jours pour retirer le colis.
 
 #### Que dois-je faire ? Veuillez suivre les étapes suivantes sur l'application Amazon ci-dessous :
 1. Sélectionnez "Livraison transporteur" sur l'écran d'accueil et choisissez Amazon.
@@ -46,13 +46,13 @@ Un livreur se rendra dans votre magasin pour livrer les colis des clients Amazon
 #### Que faire si j'ai des difficultés à scanner les colis ?
 1. Veuillez reprendre le processsus de réception des colis jusqu'à ce que le cadre de numérisation apparaisse. Cliquez maintenant sur les colis figurant EN DESSOUS du cadre de numérisation.
 1. Cliquez maintenant sur "Scan impossible" et entrez le numéro de suivi du colis.
-1. Le numéro de suivi commence généralement par QC et contient 12 chiffres au total. Cliquez sur la case vide et commencez à taper le numéro de suivi.
+1. Le numéro de suivi commence généralement ou bien par 37 (ex: 371000006285C0355) et contient 17 chiffres ou par CA/CC (ex:CC0207498370, CA0025027566) et contient 12 chiffres . Cliquez sur la case vide et commencez à taper le numéro de suivi.
 1. Reprenez une troisième fois le processus de réception des colis et continuez jusqu'à ce que le cadre de numérisation apparaisse. Veuillez alors cliquer sur l'icône ressemblant à un clavier. Il s'agit d'un moyen alternatif de saisir manuellement l'identifiant de suivi.
 1. Si le problème persiste, vérifiez si votre téléphone est connecté au réseau (et non pas en mode avion), cliquez sur l'icône du flash si la luminosité est trop faible et essayez à nouveau de scanner le code barre. Si cela ne fonctionne pas, veuillez contacter l'assistance comme indiqué ci-dessous ("Comment obtenir de l'aide").
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/ZT110U3UU3EJ " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Retrait du colis par le client
@@ -80,11 +80,11 @@ Un client Amazon se présentera au magasin pour prendre ou récupérer son ou se
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/ZT110U3UU3EJ " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Retrait des colis par le livreur
-Si les clients ne récupèrent pas leur colis dans les 14 jours, le colis expire. Vous devez alors demander l'enlèvement par un livreur. Vous devez scanner les colis pour que le livreur vienne les chercher. Autrement, l'application vous empêchera d'effectuer d'autres tâches. Un livreur se rendra dans votre magasin pour récupérer les colis. Vous n'avez pas besoin de scanner les colis à l'arrivée du livreur - il suffit de les lui remettre.
+Si les clients ne récupèrent pas leur colis dans les 7 jours, le colis expire. Une notification apparaîtra sur l’écran principal, vous permettant de demander l’enlèvement par un livreur. Autrement, l'application vous empêchera d'effectuer d'autres tâches. Un livreur se rendra dans votre magasin pour récupérer les colis. Vous n'avez pas besoin de scanner les colis à l'arrivée du livreur - il suffit de les lui remettre.
 
 #### Que dois-je faire ? Veuillez suivre les étapes suivantes sur l'application Amazon ci-dessous :
 1. Si les colis arrivent à expiration, une notification apparaît sur l'écran principal.
@@ -99,7 +99,7 @@ Si les clients ne récupèrent pas leur colis dans les 14 jours, le colis expire
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/ZT110U3UU3EJ " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## Comment obtenir de l'aide
@@ -118,7 +118,7 @@ Afin d'assurer le bon fonctionnement du programme Amazon Hub Counter, Amazon dis
 1. Si vous souhaitez voir le numéro de suivi, vous pouvez cliquer sur le nom du client. Le numéro de suivi ainsi que le numéro du colis s'affichent.
 
 ## FAQ - Questions fréquentes
-<span class="pa"> J'ai oublié mo,n identifiant et mon mot de passe, que dois-je faire ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
+<span class="pa"> J'ai oublié mon identifiant et mon mot de passe, que dois-je faire ? </span>J’ai oublié mon identifiant et mon mot de passe, que dois-je faire ? Veuillez contacter votre correspondant dédié au programme Amazon Hub Counter
 
 <span class="pa"> Que faire si le transporteur tente de livrer un colis qui semble endommagé ? </span>Si possible, ne scannez pas le colis endommagé et refusez-le en le rendant au chauffeur. Le chauffeur renverra le colis au dépôt et le client sera remboursé.
 
@@ -126,10 +126,10 @@ Afin d'assurer le bon fonctionnement du programme Amazon Hub Counter, Amazon dis
 
 <span class="pa"> Que dois-je faire si un client n'a pas de code de retrait ? </span>Si le client ne trouve pas son code de retrait, suivez les conseils suivants : Vérifiez l'e-mail : Le code de retrait se trouve dans un e-mail de la rubrique "notifications de livraison". Demandez de l'aide : Demandez au client de contacter le service client en sélectionnant " Contactez-nous " sur le site Web ou l'application mobile d'Amazon. Un conseiller du service client d'Amazon peut renvoyer le code d'enlèvement lorsque le client peut vérifier son compte.
 
-<span class="pa"> Que faire si le téléphone est perdu, volé ou cassé ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
+<span class="pa"> Que faire si le téléphone est perdu, volé ou cassé ? </span>Veuillez prendre contact avec la personne avec laquelle vous êtes en relation concernant le programme Amazon Hub Counter.
 
-<span class="pa"> Que faire si l'application ne fonctionne pas ? </span>Veuillez contacter votre personne de contact Amazon Hub Counter pour le programme.
+<span class="pa"> Que faire si l'application ne fonctionne pas ? </span>Veuillez prendre contact avec la personne avec laquelle vous êtes en relation concernant le programme Amazon Hub Counter.
 
-<span class="pa"> Que faire si j'ai des colis arrivés à expiration qui attendent l'enlèvement par le transporteur depuis plusieurs jours ? </span>Les colis expirent au bout de 14 jours. Veuillez prévoir quelques jours pour que le transporteur vienne les chercher. Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), en faisant défiler la page vers le bas, si un colis n'est pas enlevé dans les 3 jours.
+<span class="pa"> Que faire si j'ai des colis arrivés à expiration qui attendent l'enlèvement par le transporteur depuis plusieurs jours ? </span>Les colis expirent au bout de 7 jours. Veuillez prévoir quelques jours pour que le transporteur vienne les chercher. Veuillez contacter le service d'assistance d'Amazon en cliquant sur le " ?" (en haut à droite), en faisant défiler la page vers le bas, si un colis n'est pas enlevé dans les 3 jours.
 
 <span class="pa"> Que se passe-t-il si j'ai des colis arrivés à expiration en attente d'enlèvement par le transporteur, mais que le client arrive pour enlever le colis ? </span>Veuillez suivre la procédure habituelle de retrait par le client décrite ci-dessus.

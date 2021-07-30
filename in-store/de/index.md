@@ -30,7 +30,7 @@ Ihr Standort bietet einen Amazon Service an, bei dem Kunden Bestellungen an Ihre
 
 ## So funktioniert der Service
 ### Anlieferung durch den Fahrer
-Ein Fahrer liefert Pakete von Amazon-Kunden und übergibt Ihnen alle Pakete. Scannen Sie bitte das Paketetikett mit der Amazon-App ein. Bitte scannen Sie alle Pakete so schnell wie möglich. Der Scan löst die Benachrichtung an Kunden zur Abholung aus. Kunden haben nun 14 Tage Zeit, um die Pakete abzuholen.
+Ein Fahrer liefert Pakete von Amazon-Kunden und übergibt Ihnen alle Pakete. Scannen Sie bitte das Paketetikett mit der Amazon-App ein. Bitte scannen Sie alle Pakete so schnell wie möglich. Der Scan löst die Benachrichtung an Kunden zur Abholung aus. Kunden haben nun 7 Tage Zeit, um die Pakete abzuholen.
 
 #### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App auf dieser Seite:
 1. Klicken Sie auf “Anlieferung durch den Fahrer” und wählen Sie Amazon aus.
@@ -84,7 +84,7 @@ Der Kunde zeigt Ihnen eine Benachrichtigung, die einen Barcode und einen 6-stell
 </div>
 
 ### Abholung durch den Fahrer
-Wenn Kunden Pakete nicht innerhalb der Frist von 14 Tagen abholen, werden die Pakete als abgelaufen markiert. Klicken Sie bitte auf die entsprechende Meldung auf der Startseite, um Pakete für eine Abholung anzumelden. Bitte scannen Sie alle Pakete nach der Meldung innerhalb von 2 Stunden ein. Die App wird andernfalls alle Funktionalitäten bis zum Scan blockieren. Kommt ein Fahrer zur Abholung, müssen Sie lediglich die Pakete aushändigen.
+Wenn Kunden Pakete nicht innerhalb der Frist von 7 Tagen abholen, werden die Pakete als abgelaufen markiert. Klicken Sie bitte auf die entsprechende Meldung auf der Startseite, um Pakete für eine Abholung anzumelden. Bitte scannen Sie alle Pakete nach der Meldung innerhalb von 2 Stunden ein. Die App wird andernfalls alle Funktionalitäten bis zum Scan blockieren. Kommt ein Fahrer zur Abholung, müssen Sie lediglich die Pakete aushändigen.
 
 #### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App auf dieser Seite:
 1. Klicken Sie auf die Benachrichtigung „Nicht abgeholte Pakete scannen“ auf dem Startbildschirm.
@@ -132,4 +132,4 @@ Unsere Mitarbeiter vom Amazon Support stehen Ihnen mit Rat und Tat zur Seite und
 
 <span class="pa"> Was ist zu tun, wenn ich über abgelaufene Pakete verfüge, die seit mehreren Tagen noch nicht vom Kunden abgeholt wurden? </span>Bitte kontaktieren Sie das Amazon-Support-Team, wenn ein Paket nicht innerhalb von drei Tagen nach Ihrer Abholanforderung abgeholt wird.
 
-<span class="pa"> Was ist zu tun, wenn ich eine Paketabholung nach 14 Tagen beantragt habe, aber der Kunde in der Zwischenzeit das Paket abholt? </span>Bitte folgen Sie dem regulären Prozess bei der Kundenabholung. Durch den Scan des Abholcodes des Kunden, sowie des Pakets, wird die Paketabholung automatisch storniert.
+<span class="pa"> Was ist zu tun, wenn ich eine Paketabholung nach 7 Tagen beantragt habe, aber der Kunde in der Zwischenzeit das Paket abholt? </span>Bitte folgen Sie dem regulären Prozess bei der Kundenabholung. Durch den Scan des Abholcodes des Kunden, sowie des Pakets, wird die Paketabholung automatisch storniert.

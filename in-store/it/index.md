@@ -30,7 +30,7 @@ Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparer
 
 ## Come funziona il servizio
 ### Consegna corriere
-Un corriere arriverà al tuo punto vendita per consegnare i pacchi dei clienti Amazon che lo hanno selezionato come punto di ritiro. Quando il corriere ti consegna i pacchi, devi scansionarne le etichette. Cerca di farlo il piu' presto possibile, in modo da inviare le notifiche al cliente per il ritiro. Il cliente ha 14 giorni di tempo per il ritiro
+Un corriere arriverà al tuo punto vendita per consegnare i pacchi dei clienti Amazon che lo hanno selezionato come punto di ritiro. Quando il corriere ti consegna i pacchi, devi scansionarne le etichette. Cerca di farlo il piu' presto possibile, in modo da inviare le notifiche al cliente per il ritiro. Il cliente ha 7 giorni di tempo per il ritiro
 
 #### Cosa fare? Esegui questi passi sulla app Amazon:
 1. Seleziona “Consegna corriere” nella schermata principale
@@ -52,7 +52,7 @@ Un corriere arriverà al tuo punto vendita per consegnare i pacchi dei clienti A
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/Z2110U41EDUW " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Ritiro cliente
@@ -80,14 +80,14 @@ Quando il cliente Amazon si presenta al punto vendita per il ritiro dei propri p
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/Z2110U41EDUW " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Ritiro del corriere
-Se i clienti non ritirano i pacchi entro 14 giorni, i pacchi sono considerati scaduti o abbandonati. Quando ti viene richiesta la scansione dei pacchi abbandonati, devi eseguirla, altrimenti la App non ti permetterà altre azioni. Il corriere arriverà al tuo punto vendita per ritirare i pacchi scaduti entro pochi giorni. Quando arriva il corriere, non devi fare nuovamente la scansione dei pacchi, devi solo consegnarglieli
+Se i clienti non ritirano i pacchi entro 7 giorni, i pacchi sono considerati scaduti o abbandonati. Quando ti viene richiesta la scansione dei pacchi abbandonati, devi eseguirla, altrimenti la App non ti permetterà altre azioni. Il corriere arriverà al tuo punto vendita per ritirare i pacchi scaduti entro pochi giorni. Quando arriva il corriere, non devi fare nuovamente la scansione dei pacchi, devi solo consegnarglieli
 
 #### Cosa fare? Esegui questi passi sulla app Amazon:
-1. Quando i pacchi superano il periodo massimo di giacenza di 14 giorni, viene visualizzata una notifica
+1. Quando i pacchi superano il periodo massimo di giacenza di 7 giorni, viene visualizzata una notifica
 1. Clicca sulla notifica e scansiona i pacchi. Devi scansionare i pacchi scaduti entro 2 ore dalla notifica. Poi attendi l'arrivo del corriere, normalmente entro 1-2 giorni
 1. Quando arriva un corriere, seleziona "Ritiro corriere". Consegnagli i pacchi riportati nella lista che viene mostrata
 
@@ -99,7 +99,7 @@ Se i clienti non ritirano i pacchi entro 14 giorni, i pacchi sono considerati sc
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/Z2110U41EDUW " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## Come ricevere assistenza
@@ -130,6 +130,6 @@ Amazon fornisce un servizio di assistenza per aiutarti a risolvere problemi con 
 
 <span class="pa"> Che fare se la App non funziona? </span>Si prega di contattare la persona di contatto di Amazon Hub Counter per il programma.
 
-<span class="pa"> Che fare se ci sono pacchi scaduti in attesa del corriere per diversi giorni? </span>I pacchi scadono dopo 14 giorni. Considera inoltre un paio di giorni necessari al ritiro da parte del corriere. Contatta il supporto Amazon, premendo "?" (in alto a destra), e richiedendo supporto in fondo alla pagina di aiuto se i pacchi non sono ritirati entro 3 giorni
+<span class="pa"> Che fare se ci sono pacchi scaduti in attesa del corriere per diversi giorni? </span>I pacchi scadono dopo 7 giorni. Considera inoltre un paio di giorni necessari al ritiro da parte del corriere. Contatta il supporto Amazon, premendo "?" (in alto a destra), e richiedendo supporto in fondo alla pagina di aiuto se i pacchi non sono ritirati entro 3 giorni
 
 <span class="pa"> Che fare se ho dei pacchi scaduti in attesa del ritiro del corriere, ma il cliente arriva per ritirarli? </span>Segui il regolare processo di consegna dei pacchi al cliente come descritto sopra

@@ -30,7 +30,7 @@ Your location provides a service from Amazon that allows customers to ship order
 
 ## How the service works
 ### Driver Delivery
-A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 14 days to pickup the parcel.
+A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 7 days to pickup the parcel.
 
 #### What do I do? Please test the following steps on the Amazon app below:
 1. Select “Driver delivery” from the home screen and choose Amazon.
@@ -84,7 +84,7 @@ An Amazon customer will arrive at the store to pick up or retrieve their parcel(
 </div>
 
 ### Driver Pickup
-If customers do not pickup their parcel within 14 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver.
+If customers do not pickup their parcel within 7 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver.
 
 #### What do I do? Please test the following steps on the Amazon app below:
 1. If parcels expire, a notification will appear on the main screen.
@@ -130,6 +130,6 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 
 <span class="pa"> What if the app isn’t working? </span>Please contact your Amazon Hub Counter contact person for the program.
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 14 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
+<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 7 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
 
 <span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span>Please follow the regular process for customer pickup as outlined above.

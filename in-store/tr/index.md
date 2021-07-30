@@ -30,7 +30,7 @@ Konumunuz, müşterilerin siparişleri bulunduğunuz yere göndermesine ve almas
 
 ## Servis nasıl çalışır
 ### Kuryeden alım
-Sizi teslim alma yeri olarak seçen Amazon müşterileri için paket teslim etmek üzere mağazanıza bir kurye gelecek. Kurye paketi size verdiğinde, her bir paket etiketini taramanız gerekir. Lütfen teslim edilen paketleri en kısa sürede tarayın. Taramanız müşteri bildirimini tetikler. Müşterinin paketi teslim almak için 14 günü vardır.
+Sizi teslim alma yeri olarak seçen Amazon müşterileri için paket teslim etmek üzere mağazanıza bir kurye gelecek. Kurye paketi size verdiğinde, her bir paket etiketini taramanız gerekir. Lütfen teslim edilen paketleri en kısa sürede tarayın. Taramanız müşteri bildirimini tetikler. Müşterinin paketi teslim almak için 7 günü vardır.
 
 #### Ben ne yaparım? Lütfen aşağıdaki Amazon uygulamasında aşağıdaki adımları test edin:
 1. Ana ekrandan "Kuryeden alım"ı seçin ve Amazon'u seçin.
@@ -52,7 +52,7 @@ Sizi teslim alma yeri olarak seçen Amazon müşterileri için paket teslim etme
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/WN110TY5GK39 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Müşteriye Teslimat
@@ -80,11 +80,11 @@ Bir Amazon müşterisi, paketlerini almak için mağazaya varacaktır. Müşteri
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/WN110TY5GK39 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ### Kuryeye iade
-Müşteriler, paketlerini 14 gün içinde teslim almazlarsa, paketin süresi dolar. O zaman kuryenin teslim alınmasını istemeniz gerekir. Kuryenin teslim alması için paketleri taramanız gerekir. Aksi takdirde, Uygulama sizi diğer görevlerden alıkoyacaktır. Teslimat şoförü, kargoları almak için mağazanıza varacaktır. Kurye vardığında kuryenin size ileteceği R ile başlayan kodu Kuryeye İade menüsü üzerinden girmeniz ve paketleri sürücüye vermeniz yeterlidir.
+Müşteriler, paketlerini 7 gün içinde teslim almazlarsa, paketin süresi dolar. O zaman kuryenin teslim alınmasını istemeniz gerekir. Kuryenin teslim alması için paketleri taramanız gerekir. Aksi takdirde, Uygulama sizi diğer görevlerden alıkoyacaktır. Teslimat şoförü, kargoları almak için mağazanıza varacaktır. Kurye vardığında kuryenin size ileteceği R ile başlayan kodu Kuryeye İade menüsü üzerinden girmeniz ve paketleri sürücüye vermeniz yeterlidir.
 
 #### Ben ne yaparım? Lütfen aşağıdaki Amazon uygulamasında aşağıdaki adımları test edin:
 1. Paketlerin süresi dolarsa, ana ekranda bir bildirim görünecektir.
@@ -92,14 +92,14 @@ Müşteriler, paketlerini 14 gün içinde teslim almazlarsa, paketin süresi dol
 1. Bir kurye gelirse, ana ekrandan "Kuryeye iade" öğesini seçin. Listede adı geçen paketleri bulun ve bunları sürücüye verin.
 
 #### Ya paket eksikse?
-1. Süresi dolan paketleri (müşterinin 14 gün içerisinde teslim almadığı paketler) taramak için hatırlatıcıya dokunun.
+1. Süresi dolan paketleri (müşterinin 7 gün içerisinde teslim almadığı paketler) taramak için hatırlatıcıya dokunun.
 1. Aşağıda eksik olan paketi seçin ve pakete tıklayın.
 1. "Bulunamıyor" u tıklayın.
 1. "Tamam" ı tıklayarak paketi bulamadığınızı onaylayın.
 
 <div style="text-align: center;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/WN110TY5GK39 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
+<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
 </div>
 
 ## Nasıl destek alınır?
@@ -130,6 +130,6 @@ Amazon Hub Counter'ın mağaza içi işlemlerini desteklemek için Amazon'un Uyg
 
 <span class="pa"> Ya uygulama çalışmıyorsa? </span>Lütfen program için Amazon Hub Counter irtibat kişinizle iletişime geçin.
 
-<span class="pa"> Kuryenin birkaç gün teslim almasını bekleyen kargolarımın süresi dolduysa ne olur? </span>Paketler 14 gün sonra sona erecek, lütfen kuryenin teslim alması için birkaç gün bekleyin. Lütfen Amazon destek ile iletişime geçin, "?" (Sağ üstte) üzerine tıklayarak, bir paket 3 gün içinde teslim alınmazsa yardım sayfasının sonunda aşağı kaydırın
+<span class="pa"> Kuryenin birkaç gün teslim almasını bekleyen kargolarımın süresi dolduysa ne olur? </span>Paketler 7 gün sonra sona erecek, lütfen kuryenin teslim alması için birkaç gün bekleyin. Lütfen Amazon destek ile iletişime geçin, "?" (Sağ üstte) üzerine tıklayarak, bir paket 3 gün içinde teslim alınmazsa yardım sayfasının sonunda aşağı kaydırın
 
 <span class="pa"> Kuryenin teslim almasını bekleyen kargolarımın süresi dolduysa ancak müşteri paketi teslim almaya gelirse ne olur? </span>Lütfen yukarıda ana hatlarıyla belirtildiği gibi müşteri teslimatı için normal süreci izleyin.
