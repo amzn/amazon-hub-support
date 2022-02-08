@@ -50,11 +50,6 @@ Customers will select your location for pick up at checkout then a driver will d
 1. Please practice the driver delivery a third time and proceed until the scan frame appears. Now please click on the icon resembling a keypad. This is an alternative way to manually enter the tracking ID.
 1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below ("How to get support").
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Customer Pickup
 An Amazon customer will arrive at the store to pick up or retrieve their parcel(s). The customer will show a notification, which includes 1) a barcode and 2) a 6-digit numeric code. You need to scan the barcode, find the parcel and scan the parcel before handing it to the customer. You need to scan each customer pickup code AND parcel. This will delete the parcel from your inventory and responsibility.
 
@@ -78,11 +73,6 @@ An Amazon customer will arrive at the store to pick up or retrieve their parcel(
 1. Now click on the displayed parcel size (e.g. “small size”).
 1. You can choose to “unable to find” or “reject”.
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Driver Pickup
 If customers do not pickup their parcel within 14 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver.
 
@@ -96,11 +86,6 @@ If customers do not pickup their parcel within 14 days, the parcel expires. Then
 1. Select the parcel that is missing below and click on the parcel.
 1. Click on ‘Unable to find’.
 1. Confirm that you cannot find the parcel by clicking on ‘Okay’.
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## How to get support
 To support the in-store operation of Amazon Hub Counter, Amazon has a Store Support Line to assist you with Application, Device and Delivery issues.

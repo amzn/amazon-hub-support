@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: In-Store Support
 page: training
@@ -6,7 +6,7 @@ page: training
 ---
 
 #### What is the Amazon Counter Service?
-Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers.
+Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.
 
 <div style="text-align: center;">
 <span>
@@ -30,7 +30,7 @@ Your location provides a service from Amazon that allows customers to ship order
 
 ## How the service works
 ### Driver Delivery
-A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 14 days to pickup the parcel.
+A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 7 days to pickup the parcel.
 
 #### What do I do? Please test the following steps on the Amazon app below:
 1. Select “Driver delivery” from the home screen and choose Amazon.
@@ -49,11 +49,6 @@ A driver will arrive at your store to deliver parcels for Amazon customers who c
 1. The tracking ID usually starts with QC and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
 1. Please practice the driver delivery a third time and proceed until the scan frame appears. Now please click on the icon resembling a keypad. This is an alternative way to manually enter the tracking ID.
 1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below ("How to get support").
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ### Customer Pickup
 An Amazon customer will arrive at the store to pick up or retrieve their parcel(s). The customer will show a notification, which includes 1) a barcode and 2) a 6-digit numeric code. You need to scan the barcode, find the parcel and scan the parcel before handing it to the customer. You need to scan each customer pickup code AND parcel. This will delete the parcel from your inventory and responsibility.
@@ -78,13 +73,8 @@ An Amazon customer will arrive at the store to pick up or retrieve their parcel(
 1. Now click on the displayed parcel size (e.g. “small size”).
 1. You can choose to “unable to find” or “reject”.
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Driver Pickup
-If customers do not pickup their parcel within 14 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver.
+If customers do not pickup their parcel within 7 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver.
 
 #### What do I do? Please test the following steps on the Amazon app below:
 1. If parcels expire, a notification will appear on the main screen.
@@ -96,11 +86,6 @@ If customers do not pickup their parcel within 14 days, the parcel expires. Then
 1. Select the parcel that is missing below and click on the parcel.
 1. Click on ‘Unable to find’.
 1. Confirm that you cannot find the parcel by clicking on ‘Okay’.
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## How to get support
 To support the in-store operation of Amazon Hub Counter, Amazon has a Store Support Line to assist you with Application, Device and Delivery issues.
@@ -130,6 +115,6 @@ To support the in-store operation of Amazon Hub Counter, Amazon has a Store Supp
 
 <span class="pa"> What if the app isn’t working? </span>Please contact your Amazon Hub Counter contact person for the program.
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 14 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
+<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 7 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
 
 <span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span>Please follow the regular process for customer pickup as outlined above.

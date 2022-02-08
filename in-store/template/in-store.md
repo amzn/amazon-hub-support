@@ -50,11 +50,6 @@ text-driverdelivery-2
 1. olist-driverdeliveryscanissue-4
 1. olist-driverdeliveryscanissue-5
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" proto-link " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### title-3-customerpickup-2
 text-customerpickup-3
 
@@ -78,11 +73,6 @@ text-customerpickup-3
 1. olist-customerpickupmissing-26
 1. olist-customerpickupmissing-27
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" proto-link " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### title-3-driverpickup-3
 text-driverpickup-4
 
@@ -96,11 +86,6 @@ text-driverpickup-4
 1. olist-driverpickupmissing-32
 1. olist-driverpickupmissing-33
 1. olist-driverpickupmissing-34
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" proto-link " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## title-2-support-3
 text-support-5

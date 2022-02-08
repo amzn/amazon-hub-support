@@ -1,13 +1,13 @@
 
 $training = "in-store"
-$fileName = "in-store"
-$countryCodeList = 'ca','de','es','fr','it','sa','tr','uk','us','uae','au'
+$fileName = "in-store-handshake"
+$countryCodeList = 'mx','sa','uae'
 try {
     $filesTranslations = Get-ChildItem -Path $PSScriptRoot -Recurse -ErrorAction SilentlyContinue -Filter *.json | Where-Object { $_.Extension -eq '.json' }
 
     foreach ($file in $filesTranslations) {
         if ($file.Name -match "translation" -and !($file.Name -match "tags")) {
-            $countryCode = $file.Name.Substring(0, $file.Name.IndexOf("_"))
+            $countryCode = $file.Name.Substring(0, $file.Name.IndexOf("_")) 
             if ($countryCodeList -contains $countryCode  ) {
                 if ((Test-Path "..\..\$training\$countryCode\index.md") -eq $true ) {
                     Remove-Item "..\..\$training\$countryCode\index.md"

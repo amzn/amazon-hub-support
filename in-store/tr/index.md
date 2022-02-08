@@ -50,11 +50,6 @@ Sizi teslim alma yeri olarak seçen Amazon müşterileri için paket teslim etme
 1. Lütfen üçüncü kez Kuryeden alım alıştırması yapın ve tarama çerçevesi görünene kadar devam edin. Şimdi lütfen bir tuş takımına benzeyen simgeye tıklayın. Bu, Gönderi Takip No'yu manuel olarak girmenin alternatif bir yoludur.
 1. Sorun devam ederse, lütfen cihazınızın ağa bağlı olup olmadığını kontrol edin (uçak modunda değil), ortam çok karanlıksa flaş sembolüne tıklayın ve taranan kodları iki kez kontrol edin. Bu işe yaramazsa, lütfen aşağıda belirtildiği gibi destek ile iletişime geçin ("Nasıl destek alınır").
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Müşteriye Teslimat
 Bir Amazon müşterisi, paketlerini almak için mağazaya varacaktır. Müşteri, 1) bir barkod ve 2) 6 basamaklı bir sayısal kod içeren bir bildirim gösterecektir. Müşteriye teslim etmeden önce barkodu taramanız, koliyi bulmanız ve koliyi taramanız gerekir. Her müşteri teslim kodunu VE paketi taramanız gerekir. Bu işlem, paketi envanterinizden ve sorumluluğunuzdan silecektir.
 
@@ -78,11 +73,6 @@ Bir Amazon müşterisi, paketlerini almak için mağazaya varacaktır. Müşteri
 1. Şimdi görüntülenen paket boyutuna tıklayın (ör. "Küçük koli").
 1. "Bulamıyor" veya "reddediyor" u seçebilirsiniz.
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Kuryeye iade
 Müşteriler, paketlerini 7 gün içinde teslim almazlarsa, paketin süresi dolar. O zaman kuryenin teslim alınmasını istemeniz gerekir. Kuryenin teslim alması için paketleri taramanız gerekir. Aksi takdirde, Uygulama sizi diğer görevlerden alıkoyacaktır. Teslimat şoförü, kargoları almak için mağazanıza varacaktır. Kurye vardığında kuryenin size ileteceği R ile başlayan kodu Kuryeye İade menüsü üzerinden girmeniz ve paketleri sürücüye vermeniz yeterlidir.
 
@@ -96,11 +86,6 @@ Müşteriler, paketlerini 7 gün içinde teslim almazlarsa, paketin süresi dola
 1. Aşağıda eksik olan paketi seçin ve pakete tıklayın.
 1. "Bulunamıyor" u tıklayın.
 1. "Tamam" ı tıklayarak paketi bulamadığınızı onaylayın.
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## Nasıl destek alınır?
 Amazon Hub Counter'ın mağaza içi işlemlerini desteklemek için Amazon'un Uygulama, Cihaz ve Teslimat konularında size yardımcı olacak bir Mağaza Destek Hattı vardır.

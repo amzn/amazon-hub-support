@@ -50,11 +50,6 @@ Un corriere arriverà al tuo punto vendita per consegnare i pacchi dei clienti A
 1. Seleziona Consegna Corriere e nella finestra di scansione clicca sull'icona della tastiera. E' un'alternativa alla scansione che permette di digitare direttamente il Tracking ID riportato sull'etichetta
 1. Se il problema persiste, verifica che il telefono sia connesso a Internet e non sia in modalità aereo. Se l'ambiente é troppo scuro, premi sul simbolo del flash e controlla i codici scansionati. Se anche questo non risolve il problema, contatta il supporto come riportato in "Come ricevere assistenza"
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Ritiro cliente
 Quando il cliente Amazon si presenta al punto vendita per il ritiro dei propri pacchi, dovrà mostrare il messaggio ricevuto che include un codice a barre e un codice numerico a 6 cifre. Devi scansionare il codice a barre del cliente, prima di prendere il pacco. Poi devi scansionare il codice a barre del pacco prima di consegnarlo. Devi scansionare tutti i codici di ritiro del cliente e poi tutti i codice a barre dei pacchi da consegnare, per eliminarli dal tuo inventario e dalla tua responsabilità
 
@@ -78,11 +73,6 @@ Quando il cliente Amazon si presenta al punto vendita per il ritiro dei propri p
 1. Clicca sulla descrizione della dimensione del pacco (per esempio "Busta piccola")
 1. Puoi scegliere fra "Non lo trovo" o "Respinto"
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Ritiro del corriere
 Se i clienti non ritirano i pacchi entro 7 giorni, i pacchi sono considerati scaduti o abbandonati. Quando ti viene richiesta la scansione dei pacchi abbandonati, devi eseguirla, altrimenti la App non ti permetterà altre azioni. Il corriere arriverà al tuo punto vendita per ritirare i pacchi scaduti entro pochi giorni. Quando arriva il corriere, non devi fare nuovamente la scansione dei pacchi, devi solo consegnarglieli
 
@@ -96,11 +86,6 @@ Se i clienti non ritirano i pacchi entro 7 giorni, i pacchi sono considerati sca
 1. Seleziona il pacco mancante dalla lista sotto
 1. Seleziona "Non riesco a trovarlo"
 1. Conferma che non riesci a trovare il pacco premendo OK
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## Come ricevere assistenza
 Amazon fornisce un servizio di assistenza per aiutarti a risolvere problemi con la App, la scansione o la consegna dei pacchi

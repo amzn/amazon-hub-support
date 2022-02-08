@@ -50,11 +50,6 @@ Un livreur se rendra dans votre magasin pour livrer les colis des clients Amazon
 1. Reprenez une troisième fois le processus de réception des colis et continuez jusqu'à ce que le cadre de numérisation apparaisse. Veuillez alors cliquer sur l'icône ressemblant à un clavier. Il s'agit d'un moyen alternatif de saisir manuellement l'identifiant de suivi.
 1. Si le problème persiste, vérifiez si votre téléphone est connecté au réseau (et non pas en mode avion), cliquez sur l'icône du flash si la luminosité est trop faible et essayez à nouveau de scanner le code barre. Si cela ne fonctionne pas, veuillez contacter l'assistance comme indiqué ci-dessous ("Comment obtenir de l'aide").
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Retrait du colis par le client
 Un client Amazon se présentera au magasin pour prendre ou récupérer son ou ses colis. Le client vous montrera une notification, qui comprend 1) un code-barres et 2) un code numérique à 6 chiffres. Vous devez scanner le code barre, trouver le colis et le scanner avant de le remettre au client. Vous devez scanner le code de retrait de chaque client ET le colis. Cela supprimera le colis de votre inventaire et celui-ci ne sera plus sous votre responsabilité.
 
@@ -78,11 +73,6 @@ Un client Amazon se présentera au magasin pour prendre ou récupérer son ou se
 1. Cliquez maintenant sur la taille du colis affichée à l'écran (par exemple, "petite taille").
 1. Vous pouvez choisir "colis introuvable" ou "refusé".
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Retrait des colis par le livreur
 Si les clients ne récupèrent pas leur colis dans les 7 jours, le colis expire. Une notification apparaîtra sur l’écran principal, vous permettant de demander l’enlèvement par un livreur. Autrement, l'application vous empêchera d'effectuer d'autres tâches. Un livreur se rendra dans votre magasin pour récupérer les colis. Vous n'avez pas besoin de scanner les colis à l'arrivée du livreur - il suffit de les lui remettre.
 
@@ -96,11 +86,6 @@ Si les clients ne récupèrent pas leur colis dans les 7 jours, le colis expire.
 1. Sélectionnez le colis manquant et cliquez sur le colis.
 1. Cliquez sur "Colis introuvable".
 1. Confirmez que vous ne trouvez pas le colis en cliquant sur "Ok".
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/W310O7P5JTXV " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## Comment obtenir de l'aide
 Afin d'assurer le bon fonctionnement du programme Amazon Hub Counter, Amazon dispose d'une assistance en ligne destinée à vous aider à résoudre les problèmes liés à l'application, aux téléphones et à la livraison.

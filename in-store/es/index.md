@@ -50,11 +50,6 @@ Un conductor llegará a su tienda para entregar los paquetes a los clientes de A
 1. Haga clic en la línea vacía y comience a escribir el ID de seguimiento. Cuando se muestra, también puede hacer clic en él.
 1. Si persisten los problemas, verifique si su teléfono está conectado a la red (no en modo avión), haga clic en el símbolo de flash si el entorno es demasiado oscuro y vuelva a verificar los códigos escaneados. Si esto no funciona, comuníquese con el soporte como se describe a continuación ("Cómo obtener soporte").
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/NX10OLEBWH2Y " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Recogida de cliente
 Un cliente de Amazon llegará a la tienda para recoger o recuperar su (s) paquete (s). El cliente mostrará una notificación, que incluye 1) un código de barras y 2) un código numérico de 6 dígitos. Debe escanear el código de barras, encontrar el paquete y escanear el paquete antes de entregárselo al cliente. Debe escanear el código de recogida de cada cliente Y el paquete. Esto eliminará el paquete de su inventario y responsabilidad.
 
@@ -78,11 +73,6 @@ Un cliente de Amazon llegará a la tienda para recoger o recuperar su (s) paquet
 1. Ahora haga clic en el tamaño de la parcela que se muestra (por ejemplo, "tamaño pequeño").
 1. Puede elegir "no se puede encontrar" o "rechazar".
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/NX10OLEBWH2Y " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Recogida del conductor
 Si los clientes no recogen su paquete dentro de los 7 días, el paquete caduca. Entonces debe solicitar que el conductor lo recoja. Necesita escanear paquetes para que el conductor los recoja. De lo contrario, la aplicación lo bloqueará de otras tareas. Un conductor de entrega llegará a la ubicación de la tienda minorista para recoger los paquetes. No necesita escanear a la llegada del conductor, solo entregue los paquetes al conductor.
 
@@ -96,11 +86,6 @@ Si los clientes no recogen su paquete dentro de los 7 días, el paquete caduca. 
 1. Seleccione la parcela que falta a continuación y haga clic en la parcela.
 1. Haga clic en "No se puede encontrar".
 1. Haga clic en "No se puede encontrar". Confirme que no puede encontrar el paquete haciendo clic en "Aceptar".
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/NX10OLEBWH2Y " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## Cómo obtener ayuda
 Para respaldar el funcionamiento en la tienda de Amazon Hub Counter, Amazon tiene una línea de asistencia en la tienda para ayudarlo con problemas de aplicación, dispositivo y entrega.

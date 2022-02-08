@@ -50,11 +50,6 @@ Ein Fahrer liefert Pakete von Amazon-Kunden und übergibt Ihnen alle Pakete. Sca
 1. Bitte wiederholen Sie die durchzuführenden Schritte ein drittes Mal, bis der Scanrahmen angezeitg wird. Klicken Sie auf das Symbol, welches einer Tastatur ähnelt. Dies ist eine weitere Option, die Paket ID manuell einzugeben.
 1. Sollten Schwierigkeiten weiterhin bestehen, überprüfen Sie bitte, ob das Gerät mit dem Netzwerk verbunden ist. Versuchen Sie die Helligkeit beim Scannen mit dem "Blitz" Symbol einzustellen. Kontaktieren Sie sonst den Amazon Support (siehe Kapitel: "Wie erhalte ich Support").
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/BG10Z5M4C8K9 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Abholung durch den Kunden
 Der Kunde zeigt Ihnen eine Benachrichtigung, die einen Barcode und einen 6-stelligen Code beinhaltet. Bitte scannen Sie diesen Barcode, finden Sie das Paket und scannen Sie das Paket mit der Amazon-App, bevor Sie dieses dem Kunden aushändigen. Bitte scannen Sie immer den Barcode UND das Paket. Dies entfernt das Paket aus Ihrem Lagerbestand.
 
@@ -78,11 +73,6 @@ Der Kunde zeigt Ihnen eine Benachrichtigung, die einen Barcode und einen 6-stell
 1. Klicken Sie nun auf die angegebene Paketgröße (z.B. „Kleiner Umschlag“).
 1. Nun können Sie folgende Optionen „Nicht gefunden“ oder „Ablehnen“ auswählen.
 
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/BG10Z5M4C8K9 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
-
 ### Abholung durch den Fahrer
 Wenn Kunden Pakete nicht innerhalb der Frist von 7 Tagen abholen, werden die Pakete als abgelaufen markiert. Klicken Sie bitte auf die entsprechende Meldung auf der Startseite, um Pakete für eine Abholung anzumelden. Bitte scannen Sie alle Pakete nach der Meldung innerhalb von 2 Stunden ein. Die App wird andernfalls alle Funktionalitäten bis zum Scan blockieren. Kommt ein Fahrer zur Abholung, müssen Sie lediglich die Pakete aushändigen.
 
@@ -96,11 +86,6 @@ Wenn Kunden Pakete nicht innerhalb der Frist von 7 Tagen abholen, werden die Pak
 1. Wählen Sie das fehlende Paket aus.
 1. Klicken Sie auf „Nicht gefunden”.
 1. Bitte bestätigen Sie, dass das Paket fehlt.
-
-<div style="text-align: center;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-<iframe class="airtable-embed airtable-dynamic-height" src=" //invis.io/BG10Z5M4C8K9 " frameborder="0" onmousewheel="" width="420" height="880" style="transform: scale(0.85) translate(-8%, -6%)"></iframe>
-</div>
 
 ## Wie erhalte ich Support
 Unsere Mitarbeiter vom Amazon Support stehen Ihnen mit Rat und Tat zur Seite und unterstützen Sie bei Fragen rund um die Prozesse in der App, Ihres Geräts oder Anlieferungsschwierigkeiten.
