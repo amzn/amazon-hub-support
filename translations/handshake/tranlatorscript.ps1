@@ -1,7 +1,7 @@
 
 $training = "in-store"
 $fileName = "in-store-handshake"
-$countryCodeList = 'mx','sa','uae','uk','us','uae'
+$countryCodeList = 'mx','sa','uae','uk','us','uae','jp'
 try {
     $filesTranslations = Get-ChildItem -Path $PSScriptRoot -Recurse -ErrorAction SilentlyContinue -Filter *.json | Where-Object { $_.Extension -eq '.json' }
 
