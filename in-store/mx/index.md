@@ -1,12 +1,12 @@
 ---
 layout: default
-title: In-Store Support
+title: Ayuda en tienda
 page: training
 
 ---
 
-#### What is the Amazon Counter Service?
-The Amazon Hub Counter Service allows your location to offer customers a new way to receive their orders. Here you’ll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.
+#### ¿Qué es el servicio de Amazon Counter?
+El servicio de Amazon Hub Counter permite a tu ubicación ofrecer a los clientes un nuevo modo de recibir sus pedidos. Aquí aprenderás cómo usar la aplicación, cómo recibir ayuda y cómo ofrecer el mejor servicio a tus clientes. Esta plataforma también es válida para los usuarios de la aplicación web.
 
 <div style="text-align: center;">
 <span>
@@ -14,105 +14,109 @@ The Amazon Hub Counter Service allows your location to offer customers a new way
 </span>
 </div>
 
-## Content overview
-- [How the service works](#how-the-service-works)
-  - [Driver delivery](#driver-delivery)
-  - [Customer pickup](#customer-pickup)
-  - [Driver pickup](#driver-pickup)
-- [How to get support](#how-to-get-support)
-- [How to check expected packages](#how-to-check-expected-packages)
-- [FAQs](#faqs)
+## Resumen de contenido
+- [Cómo funciona el servicio](#cómo-funciona-el-servicio)
+  - [Entrega del conductor](#entrega-del-conductor)
+  - [Recolección del cliente](#recolección-del-cliente)
+  - [Recolección del conductor](#recolección-del-conductor)
+- [Cómo conseguir asistencia](#cómo-conseguir-asistencia)
+- [Cómo revisar paquetes esperados](#cómo-revisar-paquetes-esperados)
+- [Preguntas frecuentes](#preguntas-frecuentes)
 
-## Key Takeaways
-1. Show the driver the displayed QR code on your counter device
-1. Keep your opening hours up to date so customers and drivers know when to visit.
-1. Make sure your device is charged, connected to Wi-Fi and always in your reach.
+## Puntos importantes
+1. Muestra el código QR que aparece en tu dispositivo counter al conductor.
+1. Mantén el horario de apertura actualizado para que los clientes y conductores sepan cuándo ir.
+1. Asegúrate de tener el dispositivo cargado, conectado a Wi-Fi y siempre a mano.
 
-## How the service works
-### Driver Delivery
-Customers will select your location for pick up at checkout then a driver will deliver those packages to your location. When driver arrives show the QR code. The driver will scan the packaes. The customer will have 7 days to pick up the package.
+## Cómo funciona el servicio
+### Entrega del conductor
+Los clientes elegirán tu ubicación para recoger un paquete cuando realicen el pago, luego un conductor entregará los paquetes en tu ubicación. Cuando el conductor llegue muéstrale el código QR. El conductor escaneará los paquetes. El cliente tiene 5 días para recoger el paquete.
 
-#### What do I do once I receive a package? Please test the following steps listed below on the Amazon App:
-1. Select “Driver delivery” from the home screen and choose Amazon.
-1. Please show the driver the displayed QR code.
-1. The driver will scan the QR code and hand you the packages.
-1. Store packages in a secure and organized place to ensure easy retrieval when the customer arrives.
+#### ¿Qué hago al recibir el paquete? Prueba los siguientes pasos listados abajo en la App Amazon:
+1. En la pantalla de inicio elige «Entrega del conductor» y Amazon.
+1. Muestra el código QR que aparece al conductor.
+1. El conductor escaneará el código QR y te entregará los paquetes.
+1. Almacena los paquetes en un lugar seguro y organizado para facilitar la recuperación cuando llegue el cliente.
 
-#### What if I am busy?
-1. The driver can only wait for a limited time for you to show the QR code.
-1. The driver needs to scan the QR code before handing you the packages. Please do not ignore the driver and try to retrive the QR code as fast as possible. 
+#### ¿Y si estoy ocupado?
+1. El conductor esperará un determinado periodo de tiempo a que le muestres el código QR.
+1. El conductor necesita escanear el código QR antes de entregarte los paquetes. No ignores al conductor e intenta conseguir el código QR lo antes posible.
 
-#### What if there is a scan issue?
-1. The driver might encounter some issues in scanning the QR code.
-1. Please show the driver the 6-digit numeric code above the QR code.
+#### ¿Y si ocurre un problema al escanear?
+1. El conductor puede tener problemas para escanear el código QR.
+1. Muestra el código numérico de 6 dígitos que se encuentra arriba del código QR al conductor.
 
-### Customer Pickup
-An Amazon customer will arrive at the store to pick up or retrieve their package(s). The customer will show a notification, which includes 1) a barcode and 2) a 6-digit numeric code. You need to scan the barcode, find the package and scan the package before handing it to the customer. You need to scan each customer pickup code AND package. This will delete the package from your inventory and responsibility.
+### Recolección del cliente
+Un cliente de Amazon llegará a la tienda a recoger su(s) paquete(s). El cliente mostrará un aviso que incluye 1) un código de barras y 2) un código numérico de 6 dígitos. Debes escanear el código de barras, encontrar el paquete y escanear el paquete antes de entregarlo al cliente. Debes escanear todos los códigos de recogida del cliente y todos los paquetes. Esto borrará el paquete de tu inventario y responsabilidad.
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. Select “Customer pickup” from the home screen.
-1. Scan the customer pickup barcode. Now information about the package appears.
-1. Retrieve the available packages for the customer as shown in the list and select “Scan packages”.
-1. Scan all of the packages by placing each package label in the frame. Click on the scan frame again.
-1. Now hand all the packages to the customer.
+#### ¿Qué hago? Prueba los siguientes pasos en la aplicación de Amazon:
+1. En la pantalla de inicio elige «Recolección del cliente».
+1. Escanea el código de barras de recolección del cliente. Aparece nueva información sobre el paquete.
+1. Encuentra los paquetes disponibles para el cliente de acuerdo con la lista y elige «Escanear paquetes».
+1. Escanea todos los paquetes colocando la etiqueta de cada paquete en el marco. Vuelve a hacer clic en el marco de escaneo.
+1. Luego entrega todos los paquetes al cliente.
 
-#### What if I have scan issues?
-1. Select “Customer pickup” in the home screen.
-1. Click on “Enter Code” to enter the 6-digit pickup code instead of scanning the barcode. Please click on the screen.
-1. Click on the size description of the package (e.g. “small size”) instead of the scanframe.
-1. Now click on "Can't scan".
-1. You can enter the package tracking ID manually. Now “Done” appears and you hand all the packages to the customer.
-1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below (“How to get support”).
+#### ¿Y si tengo problemas al escanear?
+1. En la pantalla de inicio elige «Recolección del cliente».
+1. Haz clic en «Ingresar código» e ingresa el código de recolección de 6 dígitos en lugar de escanear el código de barras. Haz clic en la pantalla.
+1. Haz clic en la descripción de tamaño del paquete (p. j. «pequeño») en lugar del marco de escaneo.
+1. Luego haz clic en «No es posible escanear».
+1. Puedes ingresar la ID de seguimiento del paquete manualmente. Luego aparece «Hecho» y entregas todos los paquetes al cliente.
+1. Si los problemas persisten verifica si tu teléfono está conectado a la red (no está en modo avión), si el lugar está muy oscuro haz clic en el símbolo flash y vuelva a verificar los códigos escaneados. Si esto no funciona contacta con la asistencia, como se indica abajo («Cómo conseguir asistencia»).
 
-#### What if the package is missing or the customer does not want the package?
-1. Follow the regular process of costumer pickup.
-1. Now click on the displayed package size (e.g. “small size”).
-1. You can choose to “unable to find” or “reject”.
+#### ¿Qué ocurre si el paquete está perdido o el cliente no lo quiere?
+1. Sigue el procedimiento normal de recogida del cliente.
+1. Luego haz clic en el tamaño del paquete (p. ej. «pequeño»).
+1. Puedes elegir «Imposible de encontrar» o «rechazar».
 
-### Driver Pickup
-If customers do not pickup their package within 7 days, the package expires. Then you need to request driver pickup. You need to scan packages for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up packages. You do not need to scan upon driver arrival - just hand the packages to the driver.
+### <<<<IMPORTANTE: La siguiente sección no se aplica a MX, SA, UAE>>
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. If packages expire, a notification will appear on the main screen.
-1. Click on the notification and scan the packages. You need to scan the expired packages within 2 hours after the notification appears.Now wait until a driver arrives (usually 1-2 days).
-1. If a driver arrives, select “Driver pickup” from the home screen. Find the packages named on the list and hand them to the driver.
+Recolección del conductor
+Si los clientes no recogen su paquete dentro de 5 días el paquete caduca. Entonces debes solicitar la recogida del conductor. Debes escanear los paquetes para la recolección del conductor. Si no la aplicación no te permitirá realizar otras tareas. Un conductor llegará a la ubicación de la tienda para recoger los paquetes. No necesitas escanear al arribo del conductor, tan solo dale los paquetes.
 
-#### What if the package is missing?
-1. Tap on the reminder to scan in expired packages (customer abandoned packages).
-1. Select the package that is missing below and click on the package.
-1. Click on ‘Unable to find’.
-1. Confirm that you cannot find the package by clicking on ‘Okay’.
+#### ¿Qué hago? Prueba los siguientes pasos en la aplicación de Amazon:
+1. Si los paquetes caducan, aparecerá un aviso en la pantalla principal.
+1. Haz clic en el aviso y escanea los paquetes. Debes escanear los paquetes caducados dentro de dos horas desde que aparece el aviso. Luego espera a que llegue un conductor (normalmente en uno o dos días).
+1. Cuando llega un conductor, elige «Recolección del conductor» en la pantalla de inicio. Encuentra los paquetes que constan en la lista y entrégalos al conductor.
 
-## How to get support
-To support the in-store operation of Amazon Hub Counter, Amazon has a Store Support Line to assist you with Application, Device and Delivery issues.
-1. If you click on ‘?’ Amazon help is provided
-1. The screen will display helpful advice and explanations on the services.
-1. Scroll through the Q&As to learn more
-1. If you did not find adequate support, you can request a service call. Click on “Contact support".
-1. Enter your phone number and click on ‘Call me now’.
+------
 
-## How to check expected deliveries
+#### ¿Y si el paquete está perdido?
+1. Toca el aviso para escanear paquetes caducados (paquetes abandonados por el cliente).
+1. Elige el paquete perdido abajo y haz clic en él.
+1. Haz clic en «Imposible de encontrar».
+1. Confirma que no puedes encontrar el paquete haciendo clic en «Correcto».
 
-1. Click on the icon on the top left on the menu.
-1. If you click on ‘Inventory’, you can see the current amount of packages in your store
-1. Click on ‘Sync’ to update the status of the current packages.
-1. If you want to see the tracking ID, you can click on the name of the customer. The tracking ID as well as the package ID is displayed.
+## Cómo conseguir asistencia
+Para asistir en el funcionamiento en tienda de Amazon Hub Counter, Amazon dispone de una Línea de ayuda a la tienda para asistirte en problemas con la aplicación, dispositivo y entrega.
+1. Si haces clic en “?” Se te ofrece ayuda de Amazon
+1. Se mostrarán consejos útiles y descripciones de los servicios en la pantalla.
+1. Desplázate por los Q&A para más informaciones
+1. Si no encuentras la ayuda deseada puedes solicitar una llamada de servicio. Haz clic en «Contactar con la asistencia».
+1. Ingresa tu número de teléfono y haz clic en “Llámame ahora”.
 
-## FAQs – Frequently asked questions
-<span class="pa"> I forgot my username and password, what do I do? </span>Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end
-of the help page and request support.
+## Cómo verificar entregas esperadas
 
-<span class="pa"> What if the carrier is attempting to deliver a package that appears damaged? </span>If possible, do not scan in the damaged package and reject it by giving it back to the driver. The driver will return the package to the depot and the customer will receive a refund.
+1. Haz clic en el ícono en la parte superior izquierda del menú.
+1. Si haces clic en “Inventario” puedes ver la cantidad actual de paquetes en tu tienda
+1. Haz clic en “Sincronizar” para actualizar el estado de los paquetes actuales.
+1. Si deseas ver la ID de seguimiento puedes hacer clic en el nombre del cliente. Se muestran las ID de seguimiento y del paquete.
 
-<span class="pa"> Do I need to check customer ID? </span>No, customers only need to present their pickup code to collect their packages.
+## Preguntas frecuentes
+<span class="pa"> He olvidado mi nombre de usuario y contraseña, ¿qué hago? </span>Contacta con la asistencia de Amazon haciendo clic en “?” (arriba a la derecha), desplázate al final
+ de la página de ayuda y solicita asistencia.
 
-<span class="pa"> What should I do if a customer does not have a pickup notification? </span>If the customer cannot find their pickup notification offer the following tips: Check email: The pickup code will be in an email from “Delivery notifications”. Get support: Have the customer reach out to customer service by selecting Contact Us on the Amazon website or Amazon mobile app. An Amazon customer service representative can resend the pickup code when the customer can verify their account.
+<span class="pa"> ¿Y si el transportista intenta entregar un paquete que parece dañado? </span>En lo posible no escanees el paquete dañado y recházalo devolviéndoselo al conductor. El conductor devolverá el paquete al depósito y el cliente recibirá un reembolso.
 
-<span class="pa"> What if the device is lost, stolen or broken? </span>Please contact your Amazon Hub Counter contact person for the program.
+<span class="pa"> ¿Debo verificar la ID de cliente? </span>No, los clientes deben tan solo presentar su código de recolección para recoger sus paquetes.
 
-<span class="pa"> What if the app isn’t working? </span>Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end
-of the help page and request support.
+<span class="pa"> ¿Qué debo hacer si un cliente no tiene una notificación para la recolección? </span>Si el cliente no encuentra su notificación de recolección ofrece las siguientes sugerencias: Verificar el correo electrónico: El código de recolección estará en un correo electrónico de «Avisos de entrega». Pedir ayuda: Recomienda al cliente que contacte con Atención al cliente eligiendo Contacta con nosotros en el sitio web de Amazon o en la App móvil de Amazon. Un representante de Atención al cliente de Amazon puede reenviar el código de recolección si el cliente puede verificar su cuenta.
 
-<span class="pa"> What if I have expired packages waiting for the carrier to pick up for several days? </span>packages will expire after 7 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a package is not picked up within 3 days
+<span class="pa"> ¿Y si el dispositivo se ha perdido, ha sido robado o está dañado? </span>Contacta con la persona de contacto de tu Amazon Hub Counter por el programa.
 
-<span class="pa"> What if I have expired packages waiting for the carrier to pick up, but the customer arrives to pickup the package? </span>Please follow the regular process for customer pickup as outlined above.
+<span class="pa"> ¿Y si el dispositivo no funciona? </span>Contacta con la asistencia de Amazon haciendo clic en “?” (arriba a la derecha), desplázate al final
+ de la página de ayuda y solicita asistencia.
+
+<span class="pa"> ¿Y si tengo paquetes caducos esperando a ser recogidos por el transportista por varios días? </span>los paquetes caducarán luego de 5 días, espera un par de días más para que el conductor los recoja. Contacto con la ayuda de Amazon haciendo clic en “?” (arriba a la derecha), si un paquete no es recogido en 3 días desplázate al final de la página de ayuda
+
+<span class="pa"> ¿Y si tengo paquetes caducos esperando a ser recogidos por el transportista pero el cliente llega para recoger su paquete? </span>Sigue el procedimiento normal de recolección del cliente como indicado arriba.
