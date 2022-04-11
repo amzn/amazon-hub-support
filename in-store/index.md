@@ -17,3 +17,7 @@ page: main
 * [United Arab Emirates](./uae/index.html)
 * [United States](./us/index.html)
 * [Sudi Arabia](./sa/index.html)
+<<<<<<< Updated upstream
+=======
+* [Japan](./jp/index.html)
+>>>>>>> Stashed changes
