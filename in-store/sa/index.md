@@ -1,6 +1,6 @@
 ---
 layout: default
-title: << *LINK* Content in English HERE >> 
+title: In-Store Support
 
 الدعم الفني للمتجر والتطبيق
 page: training
