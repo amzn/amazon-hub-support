@@ -17,3 +17,5 @@ page: main
 * [United Arab Emirates](./uae/index.html)
 * [United States](./us/index.html)
 * [Sudi Arabia](./sa/index.html)
+* [Japan](./jp/index.html)
+
