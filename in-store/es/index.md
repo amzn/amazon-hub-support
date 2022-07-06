@@ -17,8 +17,8 @@ Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar ped
 ## Resumen de la formación
 - [Cómo funciona el servicio](#cómo-funciona-el-servicio)
   - [Entrega del conductor](#entrega-del-conductor)
-  - [Recogida de cliente](#recogida-de-cliente)
-  - [Recogida de conductor](#recogida-de-conductor)
+  - [Recolección del cliente](#recolección-del-cliente)
+  - [Recolección del conductor](#recolección-del-conductor)
 - [Cómo obtener ayuda](#cómo-obtener-ayuda)
 - [Cómo comprobar los paquetes esperados](#cómo-comprobar-los-paquetes-esperados)
 - [Preguntas frequentes](#preguntas-frequentes)
@@ -50,7 +50,7 @@ Un conductor llegará a su tienda para entregar los paquetes a los clientes de A
 1. Haga clic en la línea vacía y comience a escribir el ID de seguimiento. Cuando se muestra, también puede hacer clic en él.
 1. Si persisten los problemas, verifique si su teléfono está conectado a la red (no en modo avión), haga clic en el símbolo de flash si el entorno es demasiado oscuro y vuelva a verificar los códigos escaneados. Si esto no funciona, comuníquese con el soporte como se describe a continuación ("Cómo obtener soporte").
 
-### Recogida de cliente
+### Recolección del cliente
 Un cliente de Amazon llegará a la tienda para recoger o recuperar su (s) paquete (s). El cliente mostrará una notificación, que incluye 1) un código de barras y 2) un código numérico de 6 dígitos. Debe escanear el código de barras, encontrar el paquete y escanear el paquete antes de entregárselo al cliente. Debe escanear el código de recogida de cada cliente Y el paquete. Esto eliminará el paquete de su inventario y responsabilidad.
 
 #### ¿Qué debo hacer? Pruebe los siguientes pasos en la aplicación de Amazon a continuación:
@@ -73,7 +73,7 @@ Un cliente de Amazon llegará a la tienda para recoger o recuperar su (s) paquet
 1. Ahora haga clic en el tamaño de la parcela que se muestra (por ejemplo, "tamaño pequeño").
 1. Puede elegir "no se puede encontrar" o "rechazar".
 
-### Recogida del conductor
+### Recolección del conductor
 Si los clientes no recogen su paquete dentro de los 7 días, el paquete caduca. Entonces debe solicitar que el conductor lo recoja. Necesita escanear paquetes para que el conductor los recoja. De lo contrario, la aplicación lo bloqueará de otras tareas. Un conductor de entrega llegará a la ubicación de la tienda minorista para recoger los paquetes. No necesita escanear a la llegada del conductor, solo entregue los paquetes al conductor.
 
 #### ¿Qué debo hacer? Pruebe los siguientes pasos en la aplicación de Amazon a continuación:
