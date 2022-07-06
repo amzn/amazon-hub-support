@@ -8,16 +8,10 @@ page: training
 #### Qué es el servicio de Amazon Counter?
 Tu ubicación ofrece un servicio de Amazon que permite a los clientes enviar pedidos a tu ubicación y recogerlos. Aquí aprenderá cómo usar la aplicación, cómo obtener soporte y cómo brindar el mejor servicio de su clase a sus clientes. Esta plataforma es válida tambíen para web app.
 
-<div style="text-align: center;">
-<span>
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
-</span>
-</div>
-
 ## Resumen de la formación
 - [Cómo funciona el servicio](#cómo-funciona-el-servicio)
-  - [Entrega del conductor](#entrega-del-conductor)
   - [Recolección del cliente](#recolección-del-cliente)
+  - [Entrega del conductor](#entrega-del-conductor)
   - [Recolección del conductor](#recolección-del-conductor)
 - [Cómo obtener ayuda](#cómo-obtener-ayuda)
 - [Cómo comprobar los paquetes esperados](#cómo-comprobar-los-paquetes-esperados)

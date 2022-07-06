@@ -8,16 +8,10 @@ page: training
 #### What is the Amazon Counter Service?
 Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here, you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.
 
-<div style="text-align: center;">
-<span>
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
-</span>
-</div>
-
 ## Content overview
 - [How the service works](#how-the-service-works)
-  - [Driver delivery](#driver-delivery)
   - [Customer pickup](#customer-pickup)
+  - [Driver delivery](#driver-delivery)
   - [Driver pickup](#driver-pickup)
 - [How to get support](#how-to-get-support)
 - [How to check expected parcels](#how-to-check-expected-parcels)

@@ -8,16 +8,10 @@ page: training
 #### Qu'est-ce que le service Amazon Counter ?
 L'emplacement de votre commerce fournit un service d'Amazon qui permet aux clients d'expédier des commandes dans votre commerce et de les récupérer. Vous apprendrez ici comment utiliser l'application, comment obtenir de l'aide et comment fournir un service de qualité à vos clients. Cette plateforme est également valable pour les utilisateurs d'applications web.
 
-<div style="text-align: center;">
-<span>
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
-</span>
-</div>
-
 ## Résumé de la formation
 - [Comment fonctionne le service](#comment-fonctionne-le-service)
-  - [Livraison effectuée par le transporteur](#livraison-effectuée-par-le-transporteur)
   - [Retrait du colis par le client](#retrait-du-colis-par-le-client)
+  - [Livraison effectuée par le transporteur](#livraison-effectuée-par-le-transporteur)
   - [Retrait des colis par le transporteur](#retrait-des-colis-par-le-transporteur)
 - [Comment obtenir de l'aide](#comment-obtenir-de-l'aide)
 - [Comment vérifier que les colis sont bien attendus](#comment-vérifier-que-les-colis-sont-bien-attendus)

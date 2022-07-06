@@ -8,16 +8,10 @@ page: training
 #### Come funziona il servizio di ritiro Amazon Counter?
 Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparerai come usare la App, ricevere supporto e fornire un servizio best-in-class ai tuoi clienti
 
-<div style="text-align: center;">
-<span>
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
-</span>
-</div>
-
 ## Panoramica dei contenuti
 - [Come funziona il servizio](#come-funziona-il-servizio)
-  - [Consegna corriere](#consegna-corriere)
   - [Ritiro cliente](#ritiro-cliente)
+  - [Consegna corriere](#consegna-corriere)
   - [Ritiro del corriere](#ritiro-del-corriere)
 - [Come ricevere assistenza](#come-ricevere-assistenza)
 - [Come controllare i pacchi](#come-controllare-i-pacchi)

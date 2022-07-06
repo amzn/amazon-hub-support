@@ -8,16 +8,10 @@ page: training
 #### Was ist der Amazon Counter Service?
 Ihr Standort bietet einen Amazon Service an, bei dem Kunden Bestellungen an Ihrem Standort abholen können. Lernen Sie hier wie Sie die App bedienen und Hilfe vom Amazon Support erhalten können.
 
-<div style="text-align: center;">
-<span>
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
-</span>
-</div>
-
 ## Inhalt
 - [So funktioniert der Service](#so-funktioniert-der-service)
-  - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
   - [Abholung durch den Kunden](#abholung-durch-den-kunden)
+  - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
   - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)
 - [Wie erhalte ich Support](#wie-erhalte-ich-support)
 - [Wie überprüfe ich erwartete Anlieferungen](#wie-überprüfe-ich-erwartete-anlieferungen)
