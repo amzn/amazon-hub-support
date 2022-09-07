@@ -1,10 +1,11 @@
 
-$trainingName = "in-store"
+$trainingName = "handshake"
 
 $basepath = $PSScriptRoot + "\"  
 $xlsxfile = $basePath + "csvContent.xlsx"
 try {   
     if ((Test-Path $xlsxfile) -eq $true) {
+        write-output $xlsxfile
         $objExcel = New-Object -ComObject Excel.Application
         $workbook = $objExcel.Workbooks.Open($xlsxfile)
         $workbook.refreshall()

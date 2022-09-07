@@ -8,7 +8,7 @@ try {
     foreach ($file in $filesTranslations) {
         if ($file.Name -match "translation" -and !($file.Name -match "tags")) {
             $countryCode = $file.Name.Substring(0, $file.Name.IndexOf("_")) 
-            if ($countryCodeList -contains $countryCode  ) {
+            if (<# $countryCodeList -contains $countryCode #> $true ) {
                 if ((Test-Path "..\..\$training\$countryCode\index.md") -eq $true ) {
                     Remove-Item "..\..\$training\$countryCode\index.md"
                 }

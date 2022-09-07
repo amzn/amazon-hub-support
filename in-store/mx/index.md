@@ -79,8 +79,6 @@ Si los clientes no recogen su paquete dentro de 5 días el paquete caduca. Enton
 1. Haz clic en el aviso y escanea los paquetes. Debes escanear los paquetes caducados dentro de dos horas desde que aparece el aviso. Luego espera a que llegue un conductor (normalmente en uno o dos días).
 1. Cuando llega un conductor, elige «Recolección del conductor» en la pantalla de inicio. Encuentra los paquetes que constan en la lista y entrégalos al conductor.
 
-------
-
 #### ¿Y si el paquete está perdido?
 1. Toca el aviso para escanear paquetes caducados (paquetes abandonados por el cliente).
 1. Elige el paquete perdido abajo y haz clic en él.

@@ -1,114 +1,122 @@
 ---
 layout: default
-title: In-Store Support
+title: << *LINK* Content in English HERE >> 
+
+الدعم الفني للمتجر والتطبيق
 page: training
 
 ---
 
-#### What is the Amazon Counter Service?
-Your location provides a service from Amazon that allows customers to ship orders to your location and pick them up. Here you'll learn how to use the App, how to get support and how to provide a best-in-class service to your customers. This platform in also valid for web app users.
+#### ما هي خدمة كاونتر أمازون؟
+خدمة امازون كاونتر تتيح لمتجرك ان يخدم عملاء امازون عن طريق طلب توصيل شحنات امازون الى متجرك ثم استلام العميل لمشترياته  من متجرك
 
-## Content overview
-- [How the service works](#how-the-service-works)
-  - [Customer pickup](#customer-pickup)
-  - [Driver delivery](#driver-delivery)
-  - [Driver pickup](#driver-pickup)
-- [How to get support](#how-to-get-support)
-- [How to check expected parcels](#how-to-check-expected-parcels)
-- [FAQs](#faqs)
+<div style="text-align: center;">
+<span>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
+</span>
+</div>
 
-## Key Takeaways
-1. Scan every parcel upon arrival.
-1. Keep your opening hours up to date so customers and drivers know when to visit.
-1. Make sure your device is charged, connected to Wi-Fi and always in your reach.
+## نظرة عامة على المحتوى
+- [كيف تعمل الخدمة](#كيف-تعمل-الخدمة)
+  - [توصيل من خلال السائق](#توصيل-من-خلال-السائق)
+  - [استلام العميل لشحناته](#استلام-العميل-لشحناته)
+  - [تسليم الشحنات الى مندوب امازون للتوصيل](#تسليم-الشحنات-الى-مندوب-امازون-للتوصيل)
+- [كيفية الحصول على الدعم](#كيفية-الحصول-على-الدعم)
+- [كيفية التحقق من الطرود المتوقعة](#كيفية-التحقق-من-الطرود-المتوقعة)
+- [الأسئلة الشائعة](#الأسئلة-الشائعة)
 
-## How the service works
-### Driver Delivery
-A driver will arrive at your store to deliver parcels for Amazon customers who choose you as a pickup location. When the driver hands you the parcel, you need to scan each parcel label. Please scan delivered parcels as soon as possible. Your scan triggers the customer notification. The customer has 7 days to pickup the parcel.
+## النصائح الاساسية
+1. أظهر للسائق رمز الاستجابة السريعة المعروض على الجهاز الموجود في تطبيق الكاونتر الخاص بك
+1. حافظ على ساعات العمل الخاصة بك محدثة حتى يعرف العملاء والسائقون وقت الزيارة.
+1. تأكد من شحن جهازك واتصاله بشبكة الواي فاي وأنه دائمًا في متناول يدك.
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. Select “Driver delivery” from the home screen and choose Amazon.
-1. Please scan parcels as soon as possible after delivery. Click on "Scan deliveries now".
-1. Scan all parcels by placing each parcel label in the scan frame. Test it by clicking on the scan frame below. You can check if the parcels are scanned if they have a blue checkbox. If you are done click once again on the scan frame.
-1. Store parcels in a secure and organized place to ensure easy retrieval when the customer arrives.
+## كيف تعمل الخدمة
+### التوصيل من خلال السائق
+سيختار عملاء امازون متجرك لاستلام شحناتهم. سيقوم مندوب امازون للتوصيل من ايصال الشحنة وتسليمها لمتجرك. عند وصول مندوب التوصيل, قم باظهار رمز الاستجابة السريعة كيو ار كود للمندوب واطلب منه ان يقوم باجراء عملية المسح الضوئي للرمز من اجل استلام الشحنة
 
-#### What if I am busy?
-1. Delivered parcels must be scanned in within 30 minutes.
-1. If you choose to defer the scan, you will be asked to confirm your choice and be reminded of the 30 minutes time window.
-1. Once the 30 minute timer expires, you must scan parcels immediately. Until the parcels are scanned, you will not be able to access other Amazon Hub Counter workflows.
+#### ماذا أفعل بمجرد استلام الطرد؟ يرجى اتباع الخطوات التالية المدرجة أدناه في تطبيق أمازون:
+1. قم باختيار التوصيل من خلال السائق
+1. يرجى إظهار رمز الاستجابة السريعة المعروض للسائق.
+1. سيقوم السائق بمسح رمز الاستجابة السريعة ضوئيًا ويسلمك الطرود.
+1. قم بتخزين الطرود في مكان آمن ومنظم لضمان سهولة استرجاعها عند وصول العميل.
 
-#### What if I have scan issues?
-1. Please practice the driver delivery workflow again on the app below until the scan frame appears. Now please click on the displayed parcels BELOW the scan frame.
-1. Now click on "Can't scan" and enter the Tracking ID.
-1. The tracking ID usually starts with QC and contains 12 digits in total. Click at the empty line and start to type in the tracking ID.
-1. Please practice the driver delivery a third time and proceed until the scan frame appears. Now please click on the icon resembling a keypad. This is an alternative way to manually enter the tracking ID.
-1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below ("How to get support").
+#### ما الذي أفعله إذا كنت مشغولاً؟
+1. يمكن للسائق الانتظار لفترة محدودة فقط 5 دقائق لإظهار رمز الاستجابة السريعة.
+1. يحتاج السائق إلى مسح رمز الاستجابة السريعة ضوئيًا قبل تسليم الطرود. يرجى عدم تجاهل السائق ومحاولة استرداد رمز الاستجابة السريعة في أسرع وقت ممكن.
 
-### Customer Pickup
-An Amazon customer will arrive at the store to pick up or retrieve their parcel(s). The customer will show a notification, which includes 1) a barcode and 2) a 6-digit numeric code. You need to scan the barcode, find the parcel and scan the parcel before handing it to the customer. You need to scan each customer pickup code AND parcel. This will delete the parcel from your inventory and responsibility.
+#### ماذا لو كانت هناك مشكلة في عملية المسح الضوئي وقراءة رمز الاستجابة السريعة كيو ار كود؟
+1. قد يواجه السائق بعض المشكلا ففي عملية المسح الضوئي وقراءة رمز الاستجابة السريعة كيو ار كود؟.
+1. يرجى إظهار الرمز الرقمي المكون من 6 أرقام فوق رمز الاستجابة السريعة للسائق.
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. Select “Customer pickup” from the home screen.
-1. Scan the customer pickup barcode. If you have read this, click on the scan frame to proceed.
-1. Retrieve the available parcels for the customer as shown in the list and select “Scan parcels”. Click on “Scan parcels”.
-1. Scan all of the parcels by placing each parcel label in the frame. Click on the scan frame again.
-1. Now hand all the parcels to the customer.
+### استلام العميل 
+سيصل عميل أمازون إلى المتجر لاستلام أو استرداد الطرد (الطرود) الخاصة به. سيعرض العميل إشعارًا يتضمن 1) رمزًا شريطيًا و 2) رمزًا رقميًا مكونًا من 6 أرقام. تحتاج إلى مسح الرمز الشريطي ضوئيًا والعثور على الحزمة ومسح الحزمة ضوئيًا قبل تسليمها إلى العميل. أنت بحاجة إلى مسح كل رمز استلام من العميل ومسح كل طرد. سيؤدي هذا إلى حذف الحزمة من مخزونك وإخلاء مسؤوليتك عنها.
 
-#### What if I have scan issues?
-1. Select “Customer pickup” in the home screen.
-1. Click on “Enter Code” to enter the 6-digit pickup code instead of scanning the barcode. Please click on the screen.
-1. Click on the size description of the parcel (e.g. “small size”) instead of the scanframe.
-1. Now click on "Can't scan".
-1. You can enter the parcel tracking ID manually. Now “Done” appears and you hand all the parcels to the customer.
-1. If issues remain, please check whether your phone is connected to the network (not on airplane mode), click on the flash-symbol if the environment is too dark and double check the scanned codes. If this does not work, please contact support as outlined below (“How to get support”).
+#### ما الذي أفعله؟ يرجى اتباع الخطوات التالية على تطبيق أمازون أدناه:
+1. حدد "التقاط العميل" من الشاشة الرئيسية.
+1. امسح الرمز الشريطي لاستلام العميل ضوئيًا. الآن تظهر معلومات حول الطرد.
+1. استرجع الحزم المتاحة للعميل كما هو موضح في القائمة وحدد "مسح الحزم ضوئيًا".
+1. امسح جميع الحزم عن طريق وضع ملصق كل حزمة في الإطار. انقر فوق إطار المسح مرة أخرى.
+1. الآن قم بتسليم جميع الطرود إلى العميل.
 
-#### What if the parcel is missing or the customer does not want the parcel?
-1. If the scan frame appears, do NOT scan the parcel.
-1. Now click on the displayed parcel size (e.g. “small size”).
-1. You can choose to “unable to find” or “reject”.
+#### ماذا لو واجهت مشاكل في المسح؟
+1. حدد "استلام العميل" في الشاشة الرئيسية.
+1. انقر فوق "إدخال الرمز" لإدخال رمز الالتقاط المكون من 6 أرقام بدلاً من مسح الرمز الشريطي ضوئيًا. يرجى النقر فوق الشاشة.
+1. انقر فوق وصف حجم الحزمة (على سبيل المثال "حجم صغير") بدلاً من إطار المسح.
+1. انقر الآن على "لا يمكن المسح".
+1. يمكنك إدخال معرف تتبع الطرد يدويًا. تظهر الآن كلمة  (تم) وتقوم بتسليم جميع الطرود إلى العميل.
+1. إذا استمرت المشكلة، فيرجى التحقق مما إذا كان هاتفك متصلاً بالشبكة (وليس في وضع الطائرة)، وانقر فوق رمز الفلاش إذا كانت البيئة مظلمة للغاية وتحقق مرة أخرى من الرموز الممسوحة ضوئيًا. إذا لم يفلح ذلك، يرجى الاتصال بالدعم كما هو موضح أدناه ("كيفية الحصول على الدعم").
 
-### Driver Pickup
-If customers do not pickup their parcel within 7 days, the parcel expires. Then you need to request driver pickup. You need to scan parcels for driver pickup. Otherwise the App will block you from other tasks.A delivery driver will arrive at the retail store location to pick up parcels. You do not need to scan upon driver arrival - just hand the parcels to the driver.
+#### ماذا لو كان الطرد مفقودًا أو لا يرغب العميل في استلام الطرد؟
+1. اتبع اجراءات استلام العميل لشحناته.
+1. انقر الآن على معلومات حجم الشحنة (على سبيل المثال "حجم صغير").
+1. يمكنك اختيار "يتعذر العثور" أو "رفض".
 
-#### What do I do? Please test the following steps on the Amazon app below:
-1. If parcels expire, a notification will appear on the main screen.
-1. Click on the notification and scan the parcels. You need to scan the expired parcels within 2 hours after the notification appears.Now wait until a driver arrives (usually 1-2 days).
-1. If a driver arrives, select “Driver pickup” from the home screen. Find the parcels named on the list and hand them to the driver.
+### << هام: لا ينطبق هذا القسم في المكسيك، المملكة العربية السعودية، الإمارات العربية المتحدة>>
 
-#### What if the parcel is missing?
-1. Tap on the reminder to scan in expired parcels (customer abandoned parcels).
-1. Select the parcel that is missing below and click on the parcel.
-1. Click on ‘Unable to find’.
-1. Confirm that you cannot find the parcel by clicking on ‘Okay’.
+تسليم الشحنات لمندوب التوصيل
+إذا لم يستلم العملاء الطرد الخاص بهم في غضون 7 أيام، فستنتهي صلاحية الطرد. ثم تحتاج إلى طلب سائق للاستلام. ستحتاج إلى مسح الطرود لاستلام السائق. وإلا فسيحظرك التطبيق من القيام بمهام أخرى، وسيصل مندوب امازون إلى موقع متجرك لاستلام الطرود.
 
-## How to get support
-To support the in-store operation of Amazon Hub Counter, Amazon has a Store Support Line to assist you with Application, Device and Delivery issues.
-1. If you click on ‘?’ Amazon help is provided
-1. The screen will display helpful advice and explanations on the services.
-1. Scroll through the Q&As to learn more
-1. If you did not find adequate support yet, you can request a service call. Click on “Contact support".
-1. Enter your phone number and click on ‘Call me now’.
+#### ما الذي أفعله؟ يرجى اتباع الخطوات التالية على تطبيق أمازون أدناه:
+1. في حالة انتهاء صلاحية الطرود، سيظهر إشعار على الشاشة الرئيسية.
+1. انقر فوق الإشعار وافحص الطرود. تحتاج إلى مسح الطرود منتهية الصلاحية في غضون ساعتين بعد ظهور الإشعار. انتظر الآن حتى يصل السائق (عادة من يوم إلى يومين).
+1. إذا وصل السائق، اختر "استلام السائق" من الشاشة الرئيسية. ابحث عن الطرود المذكورة في القائمة وسلمها للسائق
 
-## How to check expected deliveries
+#### ماذا لو كان الطرد مفقودًا؟
+1. اضغط على التذكير للمسح الضوئي في الطرد منتهي الصلاحية (الطرود التي تخلى العميل عنها).
+1. حدد الطرد المفقود أدناه وانقر فوق الطرد.
+1. انقر فوق «يتعذر العثور».
+1. قم بالتأكيد على أنه لا يمكنك العثور على الطرد من خلال النقر على "موافق".
 
-1. Click on the icon on the top left on the menu.
-1. If you click on ‘Inventory’, you can see the current amount of packages in your store
-1. Click on ‘Sync’ to update the status of the current packages.
-1. If you want to see the tracking ID, you can click on the name of the customer. The tracking ID as well as the package ID is displayed.
+## كيفية الحصول على الدعم
+لدعم عملية Amazon Hub Counter في المتجر، تمتلك أمازون خط دعم للمتجر لمساعدتك في حل مشكلات التطبيق والجهاز والتسليم.
+1. إذا قمت بالنقر فوق «؟» يتم تقديم دعم من أمازون
+1. ستعرض الشاشة نصائح وتوضيحات مفيدة حول الخدمات.
+1. قم بالاطلاع على الأسئلة والأجوبة لمعرفة المزيد
+1. إذا لم تجد الدعم المناسب، يمكنك طلب مكالمة خدمة. انقر فوق «الاتصال بالدعم».
+1. أدخل رقم الهاتف وانقر فوق «الاتصال بي الآن».
 
-## FAQs – Frequently asked questions
-<span class="pa"> I forgot my username and password, what do I do? </span>Please contact your Amazon Hub Counter contact person for the program.
+## كيفية فحص الطرود المتوقعة
 
-<span class="pa"> What if the carrier is attempting to deliver a parcel that appears damaged? </span>If possible, do not scan in the damaged parcel and reject it by giving it back to the driver. The driver will return the parcel to the depot and the customer will receive a refund.
+1. انقر فوق الأيقونة على الجانب العلوي الأيسر على القائمة.
+1. إذا قمت بالنقر فوق "المخزون"، يمكنك رؤية الكمية الحالية من الطرود في متجرك
+1. انقر فوق "مزامنة" لتحديث حالة الطرود الحالية.
+1. إذا كنت ترغب في رؤية معرف التتبع، يمكنك النقر فوق اسم العميل.
 
-<span class="pa"> Do I need to check customer ID? </span>No, customers only need to present their pickup code to collect their parcels.
+## أسئلة وأجوبة - أسئلة متكررة
+<span class="pa"> نسيت اسم المستخدم وكلمة المرور، ماذا أفعل؟ </span>يرجى الاتصال بدعم أمازون، بالنقر فوق "؟" (أعلى اليمين)، قم بالتمرير لأسفل في نهاية
+ صفحة التعليمات ودعم الطلبات.
 
-<span class="pa"> What should I do if a customer does not have a pickup notification? </span>If the customer cannot find their pickup notification offer the following tips: Check email: The pickup code will be in an email from “Delivery notifications”. Get support: Have the customer reach out to customer service by selecting Contact Us on the Amazon website or Amazon mobile app. An Amazon customer service representative can resend the pickup code when the customer can verify their account.
+<span class="pa"> ماذا لو حاول الناقل تسليم طرد يبدو تالفًا؟ </span>إذا أمكن، لا تقم بمسح الطرد التالف ضوئيًا وارفضه عن طريق إعادتها إلى السائق. سيعيد السائق الطرد إلى المستودع وسيحصل العميل على استرداد لأمواله.
 
-<span class="pa"> What if the device is lost, stolen or broken? </span>Please contact your Amazon Hub Counter contact person for the program.
+<span class="pa"> هل أحتاج إلى التحقق من هوية العميل؟ </span>لا، يحتاج العملاء فقط إلى تقديم رمز الاستلام الخاص بهم لاستلام الطرود.
 
-<span class="pa"> What if the app isn’t working? </span>Please contact your Amazon Hub Counter contact person for the program.
+<span class="pa"> ماذا أفعل إذا لم يكن لدى العميل إشعار الاستلام؟ </span>إذا لم يتمكن العميل من العثور على إشعار الاستلام، فقم بتقديم النصائح التالية: التحقق من البريد الإلكتروني: سيكون رمز الاستلام في رسالة بريد إلكتروني من "إشعارات التسليم". كيفية الحصول على الدعم: اطلب من العميل الوصول إلى خدمة العملاء عن طريق تحديد «اتصل بنا» على موقع أمازون أو تطبيق أمازون للهاتف المحمول. يمكن لممثل خدمة عملاء أمازون إعادة إرسال رمز الاستلام عندما يتمكن العميل من التحقق من حسابه.
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up for several days? </span>Parcels will expire after 7 days, please allow a couple days for the driver to pick up. Please contact Amazon support, by clicking on the ‘?’ (upper right), scroll down at the end of the help page if a parcel is not picked up within 3 days
+<span class="pa"> ماذا لو فُقد الجهاز أو سُرق أو انكسر؟ </span>يرجى الاتصال بمسؤول الاتصال في Amazon Hub Counter بخصوص البرنامج.
 
-<span class="pa"> What if I have expired parcels waiting for the carrier to pick up, but the customer arrives to pickup the parcel? </span>Please follow the regular process for customer pickup as outlined above.
+<span class="pa"> ماذا لو كان التطبيق لا يعمل؟ </span>يرجى الاتصال بدعم أمازون، بالنقر فوق "؟" (أعلى اليمين)، قم بالتمرير لأسفل في نهاية
+ صفحة التعليمات ودعم الطلبات.
+
+<span class="pa"> ماذا لو كانت لدي طرود منتهية الصلاحية في انتظار استلام الناقل لعدة أيام؟ </span>تنتهي صلاحية الطرود بعد 7 أيام، يرجى السماح للسائق ببضعة أيام ليأخذها. يرجى الاتصال بدعم أمازون، بالنقر فوق "؟" (أعلى اليمين)، قم بالتمرير لأسفل في نهاية صفحة المساعدة إذا لم يتم استلام الطرد في غضون 3 أيام
+
+<span class="pa"> ماذا لو كانت لدي طرود منتهية الصلاحية في انتظار شركة النقل لاستلامها، ولكن العميل وصل لاستلام الطرد؟ </span>يرجى اتباع الإجراءات المعتادة لاستلام العميل كما هو موضح أعلاه.

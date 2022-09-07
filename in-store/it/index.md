@@ -1,114 +1,118 @@
 ---
 layout: default
-title: Supporto punti vendita
+title: Assistenza in negozio
 page: training
 
 ---
 
-#### Come funziona il servizio di ritiro Amazon Counter?
-Il tuo punto vendita fornisce il servizio di ritiro degli ordini Amazon. Imparerai come usare la App, ricevere supporto e fornire un servizio best-in-class ai tuoi clienti
+#### Cos’è il servizio Amazon Counter?
+Il servizio Amazon Hub Counter consente al tuo negozio di offrire ai clienti un nuovo modo di ricevere i loro ordini. Qui imparerai come utilizzare l’app, come ottenere assistenza e come fornire un servizio di prima qualità ai tuoi clienti. Questa piattaforma è valida anche per gli utenti dell’app web.
+
+<div style="text-align: center;">
+<span>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
+</span>
+</div>
 
 ## Panoramica dei contenuti
 - [Come funziona il servizio](#come-funziona-il-servizio)
-  - [Ritiro cliente](#ritiro-cliente)
-  - [Consegna corriere](#consegna-corriere)
-  - [Ritiro del corriere](#ritiro-del-corriere)
-- [Come ricevere assistenza](#come-ricevere-assistenza)
-- [Come controllare i pacchi](#come-controllare-i-pacchi)
-- [Domande frequenti](#domande-frequenti)
+  - [Consegna da parte del conducente](#consegna-da-parte-del-conducente)
+  - [Ritiro da parte del cliente](#ritiro-da-parte-del-cliente)
+  - [Ritiro da parte del conducente](#ritiro-da-parte-del-conducente)
+- [Come ottenere assistenza](#come-ottenere-assistenza)
+- [Come controllare i pacchi attesi](#come-controllare-i-pacchi-attesi)
+- [FAQ](#faq)
 
-## Punti fondamentali
-1. Scansiona ogni pacco alla ricezione
-1. Mantieni aggiornati gli orari di apertura per permettere a clienti e corrieri di sapere quando visitarti
-1. Assicurati che il dispostivo di scansione sia carico, connesso alla rete e a portata di mano
+## In sintesi
+1. Mostra al conducente il codice QR visualizzato sul tuo dispositivo.
+1. Tieni aggiornati gli orari di apertura, cosicché i clienti e i conducenti sappiano quando venire.
+1. Assicurati che il tuo dispositivo sia carico, connesso al Wi-Fi e sempre a portata di mano.
 
 ## Come funziona il servizio
-### Consegna corriere
-Un corriere arriverà al tuo punto vendita per consegnare i pacchi dei clienti Amazon che lo hanno selezionato come punto di ritiro. Quando il corriere ti consegna i pacchi, devi scansionarne le etichette. Cerca di farlo il piu' presto possibile, in modo da inviare le notifiche al cliente per il ritiro. Il cliente ha 7 giorni di tempo per il ritiro
+### Consegna da parte del conducente
+Alla cassa, i clienti selezioneranno il tuo negozio per il ritiro, quindi un conducente consegnerà quei pacchi presso la tua posizione. All’arrivo del conducente mostra il codice QR. Il conducente eseguirà la scansione dei pacchi. Il cliente avrà 7 giorni di tempo per ritirare il pacco.
 
-#### Cosa fare? Esegui questi passi sulla app Amazon:
-1. Seleziona “Consegna corriere” nella schermata principale
-1. Esegui la scansione dei pacchi immediatamente dopo averli ricevuti. Seleziona "Scansiona tutti i pacchi ricevuti dal corriere"
-1. Scansiona i codici di tutti i pacchi inquadrandone l'etichetta con la camera. Se la scansione e' riuscita, i pacchi mostreranno una spunta blu. Quando hai finito le scansioni, clicca ancora per uscire
-1. Riponi i pacchi ricevuti in un luogo sicuro e accessibile, in modo da recuperarli facilmente quando arriverà il cliente
+#### Cosa devo fare una volta ricevuto un pacco? Prova i seguenti passaggi elencati di seguito sull’app Amazon:
+1. Seleziona “Consegna da parte del conducente” dalla schermata principale e scegli Amazon.
+1. Mostra al conducente il codice QR
+1. Il conducente eseguirà la scansione del codice QR e ti consegnerà i pacchi.
+1. Conserva i pacchi in un luogo sicuro e organizzato, per garantire un facile recupero all’arrivo del cliente.
 
-#### Che fare se sei occupato in altre attività?
-1. I pacchi ricevuti devono essere scansionati entro 30 minuti dalla ricezione
-1. Se scegli di ritardare la scansione, ti verrà chiesta conferma e ti verrà ricordato il limite massimo di 30 minuti per completarla
-1. Allo scadere dei 30 minuti dalla ricezione, e' obbligatorio eseguire la scansione dei pacchi. Finché la scansione di tutti i pacchi ricevuti non verrà completata, non sarà possibile utilizzare nessun'altra funzionalità della App Amazon
+#### E se sono occupato?
+1. Il conducente può attendere che gli venga mostrato il codice QR solo per un tempo limitato.
+1. Il conducente deve eseguire la scansione del codice QR prima di poterti dare i pacchi. Evita di ignorare la richiesta del conducente e prova a recuperare il codice QR il prima possibile.
 
-#### Che fare se hai problemi con la scansione?
-1. Seleziona Consegna Corriere e clicca sui pacchi elencati sotto la finestra di scansione
-1. Seleziona "Non riesco a scansionare" e inserisci l'identificativo di tracciamento riportato sull'etichetta (Tracking ID)
-1. Il Tracking ID di solito inizia per BA, BB, o 166. Clicca sul campo di inserimento e digita il Tracking ID
-1. Seleziona Consegna Corriere e nella finestra di scansione clicca sull'icona della tastiera. E' un'alternativa alla scansione che permette di digitare direttamente il Tracking ID riportato sull'etichetta
-1. Se il problema persiste, verifica che il telefono sia connesso a Internet e non sia in modalità aereo. Se l'ambiente é troppo scuro, premi sul simbolo del flash e controlla i codici scansionati. Se anche questo non risolve il problema, contatta il supporto come riportato in "Come ricevere assistenza"
+#### E se ci fosse un problema con la scansione?
+1. Il conducente potrebbe riscontrare alcuni problemi con la scansione del codice QR.
+1. Mostra al conducente il codice numerico a 6 cifre sopra il codice QR.
 
-### Ritiro cliente
-Quando il cliente Amazon si presenta al punto vendita per il ritiro dei propri pacchi, dovrà mostrare il messaggio ricevuto che include un codice a barre e un codice numerico a 6 cifre. Devi scansionare il codice a barre del cliente, prima di prendere il pacco. Poi devi scansionare il codice a barre del pacco prima di consegnarlo. Devi scansionare tutti i codici di ritiro del cliente e poi tutti i codice a barre dei pacchi da consegnare, per eliminarli dal tuo inventario e dalla tua responsabilità
+### Ritiro da parte del cliente
+Un cliente Amazon arriverà in negozio per ritirare o recuperare il proprio pacco/pacchi. Il cliente mostrerà una notifica, che include 1) un codice a barre e 2) un codice numerico a 6 cifre. È necessario scansionare il codice a barre, trovare il pacco e scansionare il pacco prima di consegnarlo al cliente. È necessario scansionare ogni codice di ritiro del cliente E del pacco. Ciò eliminerà il pacco dal tuo inventario e dalla tua responsabilità.
 
-#### Cosa fare? Esegui questi passi sulla app Amazon:
-1. Seleziona “Ritiro cliente” nella schermata principale
-1. Scansiona il codice a barre di ritiro del cliente. Clicca sulla finestra di scansione per procedere
-1. Identifica nella lista mostrata i pacchi del cliente disponibili al ritiro e seleziona "Scansiona i pacchi", poi clicca su “Scansiona i pacchi”
-1. Scansiona tutti i pacchi inquadrando l'etichetta con la camera. Clicca sulla finestra di scansione
-1. Consegna i pacchi al cliente
+#### Cosa devo fare? Prova i seguenti passaggi sull’app Amazon di seguito:
+1. Seleziona “Ritiro da parte del cliente” dalla schermata principale.
+1. Scansiona il codice a barre del ritiro del cliente. Ora vengono visualizzate le informazioni sul pacco.
+1. Recupera i pacchi disponibili per il cliente come mostrato nell’elenco e seleziona “Esegui la scansione dei pacchi”.
+1. Scansiona tutti i pacchi posizionando ogni etichetta del pacco nel ritaglio. Clicca nuovamente sul ritaglio di scansione.
+1. Ora consegna tutti i pacchi al cliente.
 
-#### Che fare se hai problemi con la scansione?
-1. Seleziona “Ritiro cliente” nella schermata principale
-1. Clicca "Inserisci il codice" per digitare il codice di ritiro di 6 cifre, invece di scansionare il codice a barre
-1. Clicca sulla descrizione della dimensione del pacco (per esempio "Busta piccola")
-1. Premi "Non posso fare la scansione"
-1. Puoi inserire il Tracking Id digitandolo direttamente. Se il codice verrà riconosciuto, comparirà "Fatto" e potrai consegnare il pacco al cliente
-1. Se il problema persiste, verifica che il telefono sia connesso a Internet e non sia in modalità aereo. Se l'ambiente é troppo scuro, premi sul simbolo del flash e controlla i codici scansionati. Se anche questo non risolve il problema, contatta il supporto come riportato in "Come ricevere assistenza"
+#### E se riscontrassi problemi con la scansione?
+1. Seleziona “Ritiro da parte del cliente” nella schermata principale.
+1. Clicca su “Inserisci codice” per inserire il codice di ritiro a 6 cifre invece di scansionare il codice a barre. Clicca sulla schermata.
+1. Clicca sulla descrizione della dimensione del pacco (es. “dimensione piccola”) anziché sul ritaglio di scansione.
+1. Ora clicca su “Impossibile scansionare”.
+1. È possibile inserire manualmente l’ID di tracciabilità del pacco. Ora appare “Fatto” e puoi consegnare tutti i pacchi al cliente.
+1. Se i problemi persistono, controlla se il tuo telefono è connesso alla rete (non in modalità aereo), clicca sul simbolo del fulmine se l’ambiente è troppo scuro e ricontrolla i codici scansionati. Se questo non funziona, contatta l’assistenza come indicato di seguito (“Come ottenere assistenza”).
 
-#### Che fare se il pacco non si trova o se il cliente non vuole ritirarlo?
-1. Se appare la finestra di scansione, NON fare la scansione del pacco
-1. Clicca sulla descrizione della dimensione del pacco (per esempio "Busta piccola")
-1. Puoi scegliere fra "Non lo trovo" o "Respinto"
+#### E se il pacco manca o il cliente non lo vuole?
+1. Segui il normale processo di ritiro del cliente.
+1. Ora clicca sulla dimensione del pacco visualizzata (es. “dimensione piccola”).
+1. Puoi scegliere tra “Impossibile trovare” o “Rifiutare”.
 
-### Ritiro del corriere
-Se i clienti non ritirano i pacchi entro 7 giorni, i pacchi sono considerati scaduti o abbandonati. Quando ti viene richiesta la scansione dei pacchi abbandonati, devi eseguirla, altrimenti la App non ti permetterà altre azioni. Il corriere arriverà al tuo punto vendita per ritirare i pacchi scaduti entro pochi giorni. Quando arriva il corriere, non devi fare nuovamente la scansione dei pacchi, devi solo consegnarglieli
+### Ritiro da parte del conducente
+Se i clienti non ritirano il pacco entro 7 giorni, il pacco scade. Quindi è necessario richiedere il ritiro da parte del conducente. Devi scansionare i pacchi per il ritiro da parte del conducente. In caso contrario, l’app ti bloccherà da altre attività. Un corriere arriverà presso il punto vendita per ritirare i pacchi. Non è necessario eseguire la scansione all’arrivo del conducente: basta consegnare i pacchi al conducente.
 
-#### Cosa fare? Esegui questi passi sulla app Amazon:
-1. Quando i pacchi superano il periodo massimo di giacenza di 7 giorni, viene visualizzata una notifica
-1. Clicca sulla notifica e scansiona i pacchi. Devi scansionare i pacchi scaduti entro 2 ore dalla notifica. Poi attendi l'arrivo del corriere, normalmente entro 1-2 giorni
-1. Quando arriva un corriere, seleziona "Ritiro corriere". Consegnagli i pacchi riportati nella lista che viene mostrata
+#### Cosa devo fare? Prova i seguenti passaggi sull’app Amazon di seguito:
+1. Se i pacchi scadono, verrà visualizzata una notifica nella schermata principale.
+1. Clicca sulla notifica ed esegui la scansione dei pacchi. Devi scansionare i pacchi scaduti entro 2 ore dalla visualizzazione della notifica. Ora attendi fino all’arrivo di un conducente (di solito 1-2 giorni).
+1. Se arriva un conducente, seleziona “Ritiro da parte del conducente” dalla schermata principale. Trova i pacchi indicati nell’elenco e consegnali al conducente.
 
-#### Cosa fare se mancano dei pacchi?
-1. Seleziona la notifica per avviare la scansione dei pacchi scaduti perché non ritirati dal cliente (abbandonati)
-1. Seleziona il pacco mancante dalla lista sotto
-1. Seleziona "Non riesco a trovarlo"
-1. Conferma che non riesci a trovare il pacco premendo OK
+#### E se manca il pacco?
+1. Clicca sul promemoria per scansionare i pacchi scaduti (pacchi abbandonati dal cliente).
+1. Seleziona il pacco che manca di seguito e clicca sul pacco.
+1. Clicca su “Impossibile trovare”.
+1. Conferma che non riesci a trovare il pacco cliccando su “Ok”.
 
-## Come ricevere assistenza
-Amazon fornisce un servizio di assistenza per aiutarti a risolvere problemi con la App, la scansione o la consegna dei pacchi
-1. Premendo "?", verrà fornito l'aiuto Amazon
-1. Verranno fornite indicazioni sul servizio
-1. Vai alle domande ricorrenti per saperne di più
-1. Se non hai ancora trovato un'assistenza adeguata, puoi chiedere di essere chiamato. Seleziona "Contatta il supporto"
-1. Inserisci il tuo numero di telefono e premi "Chiamami adesso"
+## Come ottenere assistenza
+Per assistere le operazioni in negozio di Amazon Hub Counter, Amazon dispone di una Store Support Line per assisterti in caso di problemi con l’app, il dispositivo e la consegna.
+1. Se clicchi su “?” viene fornito un supporto da Amazon
+1. Lo schermo mostrerà utili consigli e spiegazioni sui servizi.
+1. Scorri le Domande e Risposte per saperne di più
+1. Se non hai trovato un’assistenza adeguata, puoi richiedere una chiamata di servizio. Clicca su “Contatta l’assistenza”.
+1. Inserisci il tuo numero di telefono e clicca su “Chiamami ora”.
 
-## Come controllare i pacchi in arrivo
+## Come controllare le consegne attese
 
-1. Clicca sull'icona nel menu in alto a sinistra
-1. Selezionando "Inventario", puoi vedere il numero dei pacchi presenti al momento nel tuo punto vendita
-1. Premi "Sync" per aggiornare lo stato dei pacchi
-1. Se vuoi vedere il tracking ID, seleziona il nome del cliente. Verranno mostrati il tracking ID e l'ID del pacco
+1. Clicca sull’icona in alto a sinistra nel menu.
+1. Se clicchi su “Inventario”, puoi vedere la quantità attuale di pacchi nel tuo negozio
+1. Clicca su “Sincronizza” per aggiornare lo stato dei pacchi correnti.
+1. Se vuoi vedere l’ID di tracciamento, puoi cliccare sul nome del cliente. Vengono visualizzati l’ID di tracciamento e l’ID del pacco.
 
-## Domande ricorrenti
-<span class="pa"> Ho dimenticato il nome utente e la password della app, cosa devo fare? </span>Si prega di contattare la persona di contatto di Amazon Hub Counter per il programma.
+## FAQ – Domande frequenti
+<span class="pa"> Ho dimenticato nome utente e password, cosa devo fare? </span>Contatta l'assistenza Amazon, cliccando su “?” (in alto a destra), scorri verso il basso alla fine
+ della pagina di aiuto e richiedi assistenza.
 
-<span class="pa"> Che fare se il corriere cerca di consegnare un pacco che appare danneggiato? </span>Se possibile, non scansionare il pacco danneggiato e rifiutalo, restituendolo al corriere. Il corriere riporterà il pacco al magazzino e il cliente verrà rimborsato
+<span class="pa"> E se il corriere sta tentando di consegnare un pacco che sembra danneggiato? </span>Se possibile, non scansionare il pacco danneggiato e rifiutalo restituendolo al conducente. Il conducente restituirà il pacco al deposito e il cliente riceverà un rimborso.
 
-<span class="pa"> Devo controllare il customer ID? </span>No, e' sufficiente che i clienti forniscano il loro codice di ritiro per ricevere i loro pacchi
+<span class="pa"> Devo controllare il documento del cliente? </span>No, i clienti devono solo presentare il codice di ritiro per ritirare i pacchi.
 
-<span class="pa"> Cosa devo fare se il cliente non ha il messaggio di ritiro? </span>Se il cliente non riesce a trovare il messaggio di ritiro, puoi suggerire le seguenti alternative: Controlla l'e-mail: il codice di ritiro si troverà in un'e-mail inviata da Amazon. Ottieni supporto: chiedi al cliente di contattare il servizio clienti selezionando Contattaci sul sito Web di Amazon o sull'app mobile di Amazon. Il servizio clienti Amazon e' in grado di inviare nuovamente il codice di ritiro, previa verifica dell'account del cliente
+<span class="pa"> Cosa devo fare se un cliente non ha una notifica di ritiro? </span>Se il cliente non riesce a trovare la notifica di ritiro, forniscigli i seguenti suggerimenti: Controllare l’email: Il codice di ritiro sarà in un’email da “Notifiche di consegna”. Ottenere assistenza: Chiedi al cliente di contattare il servizio clienti selezionando Contattaci sul sito di Amazon o sull’app mobile di Amazon. Un rappresentante del servizio clienti Amazon può inviare nuovamente il codice di ritiro quando il cliente può verificare il proprio account.
 
-<span class="pa"> Che fare se il dispositivo di scansione e' rotto, oppure viene perso o rubato? </span>Si prega di contattare la persona di contatto di Amazon Hub Counter per il programma.
+<span class="pa"> Cosa succede se il dispositivo viene perso, rubato o si rompe? </span>Contatta il tuo referente Amazon Hub Counter per il programma.
 
-<span class="pa"> Che fare se la App non funziona? </span>Si prega di contattare la persona di contatto di Amazon Hub Counter per il programma.
+<span class="pa"> E se l’app non funziona? </span>Contatta l'assistenza Amazon, cliccando su “?” (in alto a destra), scorri verso il basso alla fine
+ della pagina di aiuto e richiedi assistenza.
 
-<span class="pa"> Che fare se ci sono pacchi scaduti in attesa del corriere per diversi giorni? </span>I pacchi scadono dopo 7 giorni. Considera inoltre un paio di giorni necessari al ritiro da parte del corriere. Contatta il supporto Amazon, premendo "?" (in alto a destra), e richiedendo supporto in fondo alla pagina di aiuto se i pacchi non sono ritirati entro 3 giorni
+<span class="pa"> E se ho dei pacchi scaduti in attesa del ritiro dal parte del corriere da diversi giorni? </span>I pacchi scadranno dopo 7 giorni, si prega di attendere un paio di giorni per il ritiro da parte del conducente. Contatta l’assistenza Amazon, cliccando su “?” (in alto a destra), scorri verso il basso alla fine della pagina di aiuto, se un pacco non viene ritirato entro 3 giorni
 
-<span class="pa"> Che fare se ho dei pacchi scaduti in attesa del ritiro del corriere, ma il cliente arriva per ritirarli? </span>Segui il regolare processo di consegna dei pacchi al cliente come descritto sopra
+<span class="pa"> Cosa succede se ho dei pacchi scaduti in attesa del ritiro da parte del corriere, ma il cliente arriva a ritirare il pacco? </span>Segui la normale procedura per il ritiro da parte del cliente come descritto sopra.

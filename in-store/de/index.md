@@ -1,114 +1,118 @@
 ---
 layout: default
-title: In-Store Support
+title: In-Store-Unterstützung
 page: training
 
 ---
 
-#### Was ist der Amazon Counter Service?
-Ihr Standort bietet einen Amazon Service an, bei dem Kunden Bestellungen an Ihrem Standort abholen können. Lernen Sie hier wie Sie die App bedienen und Hilfe vom Amazon Support erhalten können.
+#### Was ist der Amazon Counterservice?
+Mit dem Amazon Hub-Counterservice kann Ihr Geschäft den Kunden eine neue Möglichkeit zum Erhalt ihrer Bestellungen bieten. Hier erfahren Sie, wie Sie die App nutzen, wie Sie Hilfe bekommen können und wie Sie Ihren Kunden optimalen Service bieten. Diese Oberfläche funktioniert auch für Nutzer von Webanwendungen.
 
-## Inhalt
-- [So funktioniert der Service](#so-funktioniert-der-service)
-  - [Abholung durch den Kunden](#abholung-durch-den-kunden)
-  - [Anlieferung durch den Fahrer](#anlieferung-durch-den-fahrer)
-  - [Abholung durch den Fahrer](#abholung-durch-den-fahrer)
-- [Wie erhalte ich Support](#wie-erhalte-ich-support)
-- [Wie überprüfe ich erwartete Anlieferungen](#wie-überprüfe-ich-erwartete-anlieferungen)
-- [FAQs](#faqs)
+<div style="text-align: center;">
+<span>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrfP19zwEJ9reyuT?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="791" style="background: transparent; border: 0px"></iframe>
+</span>
+</div>
 
-## Bitte beachten Sie
-1. Scannen Sie jedes Paket sofort nach Anlieferung.
-1. Halten Sie Ihre Öffnungszeiten stets aktuell.
-1. Stellen Sie sicher, dass Ihr Gerät stets mit dem Internet verbunden, eingeschalten und in Ihrer Nähe ist.
+## Inhaltsübersicht
+- [Wie funktioniert der Service](#wie-funktioniert-der-service)
+  - [Fahrerzustellung:](#fahrerzustellung:)
+  - [Abholung vom Kunden](#abholung-vom-kunden)
+  - [Abholung vom Fahrer](#abholung-vom-fahrer)
+- [Wie erhält man Hilfe](#wie-erhält-man-hilfe)
+- [Wie werden erwartete Sendungen überprüft](#wie-werden-erwartete-sendungen-überprüft)
+- [Häufig gestellte Fragen (FAQs)](#häufig-gestellte-fragen-(faqs))
 
-## So funktioniert der Service
-### Anlieferung durch den Fahrer
-Ein Fahrer liefert Pakete von Amazon-Kunden und übergibt Ihnen alle Pakete. Scannen Sie bitte das Paketetikett mit der Amazon-App ein. Bitte scannen Sie alle Pakete so schnell wie möglich. Der Scan löst die Benachrichtung an Kunden zur Abholung aus. Kunden haben nun 7 Tage Zeit, um die Pakete abzuholen.
+## Wichtige Regeln
+1. Zeigen Sie dem Fahrer den QR-Code auf Ihrem Gerät für den Counterservice.
+1. Aktualisieren Sie Ihre Öffnungszeiten, damit Kunden und Fahrer die Besuchszeiten kennen.
+1. Stellen Sie sicher, dass Ihr Gerät geladen, mit Wi-Fi verbunden und immer griffbereit ist.
 
-#### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App auf dieser Seite:
-1. Klicken Sie auf “Anlieferung durch den Fahrer” und wählen Sie Amazon aus.
-1. Bitte scannen Sie Pakete direkt nach der Anlieferung ein. Klicken Sie hierzu auf "Pakete jetzt scannen".
-1. Scannen Sie alle Pakete, indem Sie jedes Paketetikett in den Scanrahmen halten. Testen Sie dies, indem Sie auf den Scanrahmen in der App klicken. Sie können überprüfen, ob die Pakete gescannt wurden, wenn sie ein blaues Häckchen haben. Wenn Sie fertig sind, klicken Sie erneut auf den Scanrahmen. Dann erscheint eine Meldung mit „Fertig“.
-1. Lagern Sie die Pakete an einem sicheren und gut organisierten Ort.
+## Wie funktioniert der Service
+### Fahrerzustellung:
+Der Kunde wählt Ihren Standort zur Abholung am Counter und ein Fahrer liefert diese Pakete dann an Ihre Geschäftsaddresse. Bei Ankunft des Fahrer zeigen Sie ihm den QR-Code. Der Fahrer scannt die Sendungen ein. Der Kunde hat 7 Tage Zeit, die Sendung abzuholen.
 
-#### Was passiert, wenn ich gerade beschäftigt bin?
-1. Wenn Fahrer Pakete anliefern und Sie diese noch nicht gescannt haben, erscheint eine Meldung auf der App. Pakete müssen innerhalb der 30 Minuten gescannt werden.
-1. Wenn Sie den Scan aufschieben möchten, werden Sie daran erinnert, dass Sie die Pakete innerhalb von 30 Minuten einscannen sollen.
-1. Nach Ablauf der 30 Minuten haben Sie keine Möglichkeit den Scan zu verschieben. Sie müssen die Pakete dann einscannen, um mit anderen Aktionen innerhalb der App fortfahren zu können.
+#### Was tue ich, wenn ich eine Sendung erhalte? Bitte prüfen Sie auf der Amazon-App die folgenden Schritte:
+1. Wählen Sie „Fahrerzustellung“ auf dem Startbildschirm und wählen Sie Amazon.
+1. Bitte zeigen Sie dann dem Fahrer den angezeigten QR-Code.
+1. Der Fahrer scannt den QR-Code und händigt Ihnen die Pakete aus.
+1. Lagern Sie die Pakete an einem gesicherten und aufgeräumten Platz ab, damit sie leicht auffindbar sind, wenn der Kunde kommt.
 
-#### Was ist bei Scanproblemen zu tun?
-1. Bitte wiederholen Sie die durchzuführenden Schritte in der App erneut, bis der Scanrahmen angezeigt wird. Klicken Sie nun auf die angezeigten Pakete UNTER dem Scanrahmen.
-1. Klicken Sie nun auf "Scannen nicht möglich".
-1. Die Paket ID hat in der Regel 12 Zahlen und Buchstaben und startet mit „A“. Beispiel: AB0482462076. Klicken Sie nun auf das Eingabefeld und geben Sie die Paket ID ein. Diese wird auch von der App vorgeschlagen.
-1. Bitte wiederholen Sie die durchzuführenden Schritte ein drittes Mal, bis der Scanrahmen angezeitg wird. Klicken Sie auf das Symbol, welches einer Tastatur ähnelt. Dies ist eine weitere Option, die Paket ID manuell einzugeben.
-1. Sollten Schwierigkeiten weiterhin bestehen, überprüfen Sie bitte, ob das Gerät mit dem Netzwerk verbunden ist. Versuchen Sie die Helligkeit beim Scannen mit dem "Blitz" Symbol einzustellen. Kontaktieren Sie sonst den Amazon Support (siehe Kapitel: "Wie erhalte ich Support").
+#### Was passiert, wenn ich keine Zeit habe?
+1. Der Fahrer kann nur eine begrenzte Zeit warten, bis Sie ihm den QR-Code zeigen.
+1. Der Fahrer muss den QR-Code scannen, bevor er Ihnen die zugestellten Pakete aushändigt. Bitte ignorieren Sie den Fahrer nicht und bemühen Sie sich, den QR-Code so schnell wie möglich abzurufen.
 
-### Abholung durch den Kunden
-Der Kunde zeigt Ihnen eine Benachrichtigung, die einen Barcode und einen 6-stelligen Code beinhaltet. Bitte scannen Sie diesen Barcode, finden Sie das Paket und scannen Sie das Paket mit der Amazon-App, bevor Sie dieses dem Kunden aushändigen. Bitte scannen Sie immer den Barcode UND das Paket. Dies entfernt das Paket aus Ihrem Lagerbestand.
+#### Was passiert bei einem Scan-Problem?
+1. Der Fahrer kann eventuell Schwierigkeiten beim Scannen des QR-Codes haben.
+1. Bitte zeigen Sie dem Fahrer den sechsstelligen Zahlencode über dem QR-Code.
 
-#### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App auf dieser Seite:
-1. Wählen Sie auf dem Startbildschirm "Abholung durch den Kunden" aus.
-1. Scannen Sie den Abholcode des Kunden ein. Klicken Sie hierzu auf den Scanrahmen in der App.
-1. Suchen Sie nun die Pakete und klicken Sie dann auf "Pakete scannen".
-1. Scannen Sie alle Pakete, indem Sie jedes Paketetikett in den Scanrahmen platzieren. Klicken Sie wieder auf den Scanrahmen.
-1. Wenn Sie alle Pakete gescannt haben, übergeben Sie diese an den Kunden.
+### Abholung vom Kunden
+Ein Amazon-Kunde kommt zu Ihrem Geschäft, um sein(e) Paket(e) abzuholen. Der Kunden zeigt Ihnen eine Benachrichtigung mit 1) einem Barcode und 2) einem sechsstelligen Zahlencode. Sie müssen den Barcode scannen, dann das Paket holen und es vor Aushändigung an den Kunden scannen. Sie müssen jeden Abholcode des Kunden UND das jeweilige Paket scannen. Damit entfernen Sie die Sendung aus Ihrem Bestand und aus Ihrer Verantwortung.
 
-#### Was ist bei Scanproblemen zu tun?
-1. Wählen Sie auf dem Startbildschirm "Abholung durch den Kunden" aus.
-1. Klicken Sie auf "Abholcode eingeben", um den Abholcode manuell einzugeben. Klicken Sie nun erneut auf den Bildschirm.
-1. Klicken Sie nun auf die angezeigten Pakete UNTER dem Scanrahmen.
-1. Klicken Sie nun auf "Scannen nicht möglich".
-1. Sie können nun die Paket ID manuell eingeben. Klicken Sie auf den Bildschirm. Nun erscheint “Fertig” und Sie können das Paket aushändigen.
-1. Sollten Schwierigkeiten weiterhin bestehen, überprüfen Sie bitte, ob das Gerät mit dem Netzwerk verbunden ist. Versuchen Sie die Helligkeit beim Scannen mit dem "Blitz" Symbol einzustellen. Kontaktieren Sie sonst den Kundensupport (siehe Kapitel: "Wie erhalte ich Support").
+#### Was muss ich tun? Bitte prüfen Sie auf der Amazon-App die folgenden Schritte:
+1. Wählen Sie auf dem Startbildschirm „Kundenabholung“.
+1. Scannen Sie den Abholcode des Kunden. Jetzt wird die Information zu der Sendung angezeigt.
+1. Holen Sie die Pakete für den Kunden, so wie sie in der Liste aufgeführt sind und wählen Sie „Pakete scannen“
+1. Scannen Sie jedes Paket, indem Sie das Etikett in den Rahmen plazieren. Klicken Sie erneut auf den Scanrahmen.
+1. Jetzt händigen Sie dem Kunden alle Pakete aus.
 
-#### Was ist zu tun, wenn das Paket fehlt oder der Kunde das Paket nicht will?
-1. Wenn der Scanrahmen erscheint, scannen Sie das Paket NICHT.
-1. Klicken Sie nun auf die angegebene Paketgröße (z.B. „Kleiner Umschlag“).
-1. Nun können Sie folgende Optionen „Nicht gefunden“ oder „Ablehnen“ auswählen.
+#### Was mache ich im Fall von Problemen beim Scannen?
+1. Wählen Sie auf dem Startbildschirm „Kundenabholung“.
+1. Klicken Sie auf „Code eingeben“ und geben Sie den sechsstelligen Abholcode ein, anstatt den Barcode zu scannen. Bitte klicken Sie auf den Bildschirm.
+1. Klicken Sie auf die Größenangabe des Pakets (z.B. „kleine Größe“) statt auf den Scanrahmen.
+1. Jetzt klicken Sie auf „Kann nicht scannen“.
+1. Sie können die Tracking-Nummer manuell eingeben Jetzt wird „Fertig“ angezeigt und Sie händigen dem Kunden alle Pakete aus.
+1. Wenn die Probleme weiterhin bestehen, prüfen Sie, ob Ihr Telefon mit dem Netzwerk verbunden ist (und sich nicht im Flugmodus befindet). Klicken Sie bei unzureichenden Lichtverhältnissen auf das Flash-Symbol und prüfen Sie die gescannten Codes erneut. Wenn das nicht funktioniert, kontaktieren Sie bitte Support wie unten angegeben („Wie erhält man Unterstützung“).
 
-### Abholung durch den Fahrer
-Wenn Kunden Pakete nicht innerhalb der Frist von 7 Tagen abholen, werden die Pakete als abgelaufen markiert. Klicken Sie bitte auf die entsprechende Meldung auf der Startseite, um Pakete für eine Abholung anzumelden. Bitte scannen Sie alle Pakete nach der Meldung innerhalb von 2 Stunden ein. Die App wird andernfalls alle Funktionalitäten bis zum Scan blockieren. Kommt ein Fahrer zur Abholung, müssen Sie lediglich die Pakete aushändigen.
+#### Was passiert, wenn das Paket fehlt oder der Kunde es nicht haben möchte?
+1. Befolgen Sie die normalen Schritte für die Kundenabholung.
+1. Jetzt klicken Sie auf die angegebene Paketgröße (z.B. „kleine Größe“).
+1. Sie können „Nicht auffindbar“ oder „Zurückweisung“ wählen.
 
-#### Wie gehe ich vor? Bitte befolgen Sie folgende Schritte in der App auf dieser Seite:
-1. Klicken Sie auf die Benachrichtigung „Nicht abgeholte Pakete scannen“ auf dem Startbildschirm.
-1. Scannen Sie die Pakete ein, indem Sie jedes Paketetikett in den Scanrahmen platzieren. Wenn Sie alle Pakete eingescannt haben, erscheint der Bildschirm „Fertig“. In 1-2 Tagen wird das Paket abgeholt.
-1. Wenn der Fahrer ankommt, klicken Sie auf "Abholung durch den Fahrer". Suchen Sie nun die Pakete auf der Liste und geben Sie diese dem Fahrer.
+### Abholung vom Fahrer
+Wenn Kunden ihre Sendungen nicht innerhalb von sieben Tagen abholen, läuft die Abholfrist ab. In diesem Fall müssen Sie die Abholung durch den Fahrer beantragen. Sie müssen die Pakete für die Abholung durch den Fahrer scannen. Ansonsten sperrt die App Sie von anderen Aufgaben. Ein Zustellfahrer kommt zu Ihrem Standort und holt die Pakete ab. Bei Ankunft des Fahrers ist Scannen nicht erforderlich - übergeben Sie einfach dem Fahrer die Pakete.
 
-#### Wie gehe ich vor, wenn das Paket fehlt?
-1. Klicken Sie auf die Erinnerung auf Ihrem Bildschirm zu nicht abgeholten Paketen.
-1. Wählen Sie das fehlende Paket aus.
-1. Klicken Sie auf „Nicht gefunden”.
-1. Bitte bestätigen Sie, dass das Paket fehlt.
+#### Was muss ich tun? Bitte prüfen Sie auf der Amazon-App die folgenden Schritte:
+1. Wenn die Frist für ein Paket abläuft, erscheint auf dem Startbildschirm eine Benachrichtigung.
+1. Klicken Sie auf die Nachricht und scannen Sie die Pakete. Sie müssen die abgelaufenen Pakete innerhalb von zwei Stunden nach Erscheinen der Benachrichtigung einscannen. Dann warten Sie, bis ein Fahrer vorbeikommt (in der Regel innerhalb von ein bis zwei Tagen).
+1. Wenn ein Fahrer kommt, wählen Sie „Abholung durch Fahrer“ auf dem Startbildschirm. Suchen Sie die auf der Liste aufgeführten Pakete und geben Sie diese dem Fahrer.
 
-## Wie erhalte ich Support
-Unsere Mitarbeiter vom Amazon Support stehen Ihnen mit Rat und Tat zur Seite und unterstützen Sie bei Fragen rund um die Prozesse in der App, Ihres Geräts oder Anlieferungsschwierigkeiten.
-1. Klicken Sie auf das Fragezeichen „?” auf der Startseite.
-1. Nun werden Ihnen Hilfestellungen zu diversen Problemen erläutert.
-1. Navigieren Sie bis zum Ende der Seite.
-1. Falls Sie keine ausreichende Hilfestellung finden, kontaktieren Sie bitte den Amazon Support (Klicken Sie hierzu ganz unten auf "Wenden Sie sich an den Support").
-1. Geben Sie ihre Rufnummer ein und klicken Sie auf „Rufen Sie uns jetzt an”.
+#### Was passiert, wenn ein Paket fehlt?
+1. Tippen Sie auf die Erinnerung und scannen Sie die abgelaufenen Pakete (vom Kunden zurückgelassene Pakete).
+1. Wählen Sie das fehlende Paket unten aus und klicken Sie es an.
+1. Klicken Sie auf „Nicht auffindbar“
+1. Klicken Sie auf ‚Okay‘, um zu bestätigen, dass das Paket nicht auffindbar ist.
 
-## Wie überprüfe ich erwartete Anlieferungen
+## Wie erhält man Hilfe
+Zur Unterstützung des Store-Service von Amazon Hub Counter bietet Amazon Unterstützung bei der Anwendung, für das Gerät und bei Zustellproblemen.
+1. Wenn Sie auf ‚?‘ klicken, steht die Amazon-Unterstützung zur Verfügung
+1. Der Bildschirm liefert hilfreiche Tipps und Erläuterungen zu den Services.
+1. Scrollen Sie durch die Q&A (Fragen und Antworten) und erfahren Sie Näheres.
+1. Wenn Sie keine ausreichende Hilfe finden, können Sie einen Service-Anruf anfordern. Klicken Sie auf „Support kontaktieren“.
+1. Geben Sie Ihre Telefonnummer ein und klicken Sie auf „Mich jetzt anrufen“.
 
-1. Klicken Sie auf das Symbol mit den drei Balken links oben.
-1. Klicken Sie auf „Lagerbestand” und überprüfen so die aktuelle Zahl an Paketen vor Ort in Ihrer Filiale.
-1. Klicken Sie auf „Synchronisieren“, um den Lagerbestand zu aktualisieren.
-1. Möchten Sie weitere Informationen zu einem Paket sehen, klicken Sie auf den Empfängernamen.
+## Wie werden erwartete Sendungen überprüft
 
-## FAQs - Häufig gestellte Fragen
-<span class="pa"> Ich habe meinen Benutzernamen und mein Passwort vergessen. Was kann ich tun? </span>Falls Sie einen Ansprechpartner für das Programm haben, kontaktieren Sie bitten diesen für den Benutzernamen. Sie können dann auf der Login-Seite das Passwort zurücksetzen.
+1. Klicken Sie auf das Symbol oben links in der Befehlsübersicht.
+1. Wenn Sie auf ‚Bestand‘ klicken, sehen Sie die Anzahl von Paketen, die derzeit in Ihrem Geschäft vorhanden sind.
+1. Klicken Sie auf ‚Sync‘ (Synchronisieren) und aktualisieren Sie den Status der aktuell vorhandenen Pakete.
+1. Wenn Sie die Tracking-Nummer sehen wollen, klicken Sie auf den Namen des Kunden. Die Tracking-Nummer und auch die Paketkennung werden angezeigt.
 
-<span class="pa"> Was ist zu tun, wenn ein Versanddienstleister ein Paket zustellen möchte, das beschädigt zu sein scheint? </span>Wenn möglich, scannen Sie das beschädigte Paket nicht und verweigern Sie die Annahme, indem Sie es dem Fahrer zurückgeben. Der Fahrer bringt das Paket zum Lager zurück und der Kunde erhält eine Rückerstattung.
+## FAQ – Häufig gestellte Fragen
+<span class="pa"> Ich habe meinen Benutzernamen und das Passwort vergessen, was muss ich tun? </span>Bitte setzen Sie sich mit dem Amazon-Support in Verbindung, indem sie auf ‚?‘ (oben rechts) klicken, nach unten
+ bis zum Ende der Hilfeseite scrollen und Unterstützung anfordern.
 
-<span class="pa"> Muss ich die Kunden-ID überprüfen? </span>Nein, Kunden müssen lediglich ihren Abholcode vorweisen, um ihre Pakete abzuholen.
+<span class="pa"> Was passiert, wenn der Zusteller versucht, ein Paket anzuliefern, das beschädigt zu sein scheint? </span>Wenn möglich, scannen Sie das beschädigte Paket nicht und lehnen Sie die Annahme ab, indem Sie es dem Fahrer zurückgeben. Der Fahrer bringt das Paket ins Depot zurück und der Kunde enthält eine Erstattung.
 
-<span class="pa"> Was ist zu tun, wenn ein Kunde keine Abholbenachrichtigung vorliegen hat? </span>Wenn ein Kunde seine Abholbenachrichtigung nicht finden kann, geben Sie ihm die folgenden Tipps: 1. Überprüfen Sie Ihre E-Mails: Der Abholcode findet sich in einer E-Mail mit dem Absender "Abholbenachrichtigungen" und kann auf Amazon.de oder der Amazon App eingesehen werden. 2. Kontaktieren Sie das Support-Team: Sagen Sie dem Kunden, er solle sich über "Kontaktieren Sie uns" auf der Amazon-Website oder in der mobilen App an den Kundenservice wenden. Ein Mitarbeiter vom Amazon-Kundenservice kann den Abholcode erneut versenden, wenn der Kunde sein Konto verifizieren kann.
+<span class="pa"> Muss ich die Identität des Kunden überprüfen? </span>Nein, die Kunden müssen bei der Abholung nur ihren Abholcode zeigen
 
-<span class="pa"> Was ist zu tun, wenn das Gerät verloren geht, gestohlen wird oder kaputt ist? </span>Kontaktieren Sie bitte Ihren Ansprechpartner für das Amazon Hub Counter Programm.
+<span class="pa"> Was mache ich, wenn ein Kunde keine Benachrichtigung zur Abholung hat? </span>Geben Sie die folgenden Ratschläge, wenn der Kunde seine Benachrichtigung zur Abholung nicht finden kann: E-Mail prüfen: Der Abholcode befindet sich in einer E-Mail von „Zustellbenachrichtigungen“ Unterstützung anfordern: Bitten Sie den Kunden, sich an den Kundendienst zu wenden, indem er auf der Webseite oder Mobilanwendung von Amazon ‚Konkaktieren Sie uns‘ auswählt. Ein Mitarbeiter des Amazon-Kundenservice kann den Abholcode erneut senden, wenn der Kunde sein Konto verifizieren kann.
 
-<span class="pa"> Was ist zu tun, wenn die App nicht funktioniert? </span>Kontaktieren Sie bitte Ihren Ansprechpartner für das Amazon Hub Counter Programm.
+<span class="pa"> Was passiert, wenn das Gerät abhandengekommen, gestohlen oder beschädigt ist? </span>Bitte sprechen Sie Ihren Kontakt bei Amazon Hub Counter zu dem Verfahren an.
 
-<span class="pa"> Was ist zu tun, wenn ich über abgelaufene Pakete verfüge, die seit mehreren Tagen noch nicht vom Kunden abgeholt wurden? </span>Bitte kontaktieren Sie das Amazon-Support-Team, wenn ein Paket nicht innerhalb von drei Tagen nach Ihrer Abholanforderung abgeholt wird.
+<span class="pa"> Was passiert, wenn die App nicht funktioniert? </span>Bitte setzen Sie sich mit dem Amazon-Support in Verbindung, indem sie auf ‚?‘ (oben rechts) klicken, nach unten
+ bis zum Ende der Hilfeseite scrollen und Unterstützung anfordern.
 
-<span class="pa"> Was ist zu tun, wenn ich eine Paketabholung nach 7 Tagen beantragt habe, aber der Kunde in der Zwischenzeit das Paket abholt? </span>Bitte folgen Sie dem regulären Prozess bei der Kundenabholung. Durch den Scan des Abholcodes des Kunden, sowie des Pakets, wird die Paketabholung automatisch storniert.
+<span class="pa"> Was passiert, wenn ich mehrere Tage lange Pakete mit abgelaufener Frist habe, die auf Abholung durch den Zusteller warten? </span>Die Abholfrist der Pakete läuft nach sieben Tagen ab. Bitte warten Sie ein paar Tage, bis der Fahrer sie abholt. Bitte setzen Sie sich mit dem Amazon-Support in Verbindung, indem Sie auf ‚?‘ (oben rechts) klicken und bis zum Ende der Hilfsseite scrollen, wenn ein Paket nicht innerhalb von drei Tagen abgeholt wird.
+
+<span class="pa"> Was passiert, wenn ich abgelaufene Pakete zur Abholung vom Zusteller habe, aber der Kunde kommt, um die Sendung abzuholen? </span>Bitte befolgen Sie für die Abholung durch den Kunden die oben genannten normalen Schritte.
